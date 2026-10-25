@@ -445,7 +445,7 @@
       },
       {
         "type": "link",
-        "label": "四日天氣預報",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -2547,7 +2547,7 @@
       },
       {
         "type": "link",
-        "label": "四日天氣：來源及查閱日期",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -2824,7 +2824,7 @@
       },
       {
         "type": "link",
-        "label": "天氣及雨天安排",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -2860,7 +2860,7 @@
       },
       {
         "type": "link",
-        "label": "25 Oct 查閱：四日天氣及拖曳傘判斷",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -3215,7 +3215,7 @@
     "blocks": [
       {
         "type": "link",
-        "label": "26–29 Oct 天氣預報｜25 Oct 查閱",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -3901,7 +3901,7 @@
       },
       {
         "type": "link",
-        "label": "四日天氣",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -4027,7 +4027,7 @@
       },
       {
         "type": "link",
-        "label": "四日天氣及來源",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
@@ -4043,40 +4043,36 @@
   },
   {
     "id": "weather",
-    "title": "26–29 Oct｜天氣與行程",
-    "subtitle": "預報更新：25 Oct 2026｜出門前再看最新天氣",
+    "title": "26–29 Oct｜峴港天氣",
+    "subtitle": "預報更新：25 Oct 2026・峴港市區",
     "blocks": [
-      {
-        "type": "intro",
-        "text": "26 日天氣較好；27 日有驟雨；28–29 日以雨天活動為主。以下為越南國家水文氣象預報中心（NCHMF）峴港市區預報，25 Oct 覆核。"
-      },
       {
         "type": "table",
         "rows": [
           [
             "日期",
-            "市區預報",
-            "建議安排"
+            "氣溫",
+            "天氣"
           ],
           [
-            "26 Oct · Day 1",
-            "24–32°C\n多雲，預報無雨",
-            "抵達後入住酒店；晚宴前可散步。"
+            "26 Oct",
+            "24–32°C",
+            "多雲，預報無雨"
           ],
           [
-            "27 Oct · Day 2",
-            "23–32°C\n多雲，有驟雨",
-            "海邊／咖啡做建議行程；拖曳傘等當日確認。"
+            "27 Oct",
+            "23–32°C",
+            "多雲，有驟雨"
           ],
           [
-            "28 Oct · Day 3",
-            "24–31°C\n驟雨及雷暴",
-            "巴拿山以室內設施為主，戶外影相視天氣。"
+            "28 Oct",
+            "24–31°C",
+            "驟雨及雷暴"
           ],
           [
-            "29 Oct · Day 4",
-            "23–31°C\n多雲，有中雨",
-            "博物館＋食嘢；13:00 左右開始往機場。"
+            "29 Oct",
+            "23–31°C",
+            "多雲，有中雨"
           ]
         ],
         "companyRows": [],
@@ -4084,46 +4080,8 @@
         "companyAll": false
       },
       {
-        "type": "heading",
-        "text": "Day 2 拖曳傘｜開放及海況待確認"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "海面風浪要由營運商現場判斷。",
-          "拖曳傘未預約，27 日開放情況未確認。",
-          "當日上午先聯絡店方；未能落實就改酒店休息或咖啡。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Day 2 推薦及拖曳傘成行條件",
-        "url": "#recommend2"
-      },
-      {
-        "type": "heading",
-        "text": "Day 3、Day 4 點調整"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "28 日：帶薄外套、防滑鞋及雨衣。先去 Fantasy Park；戶外景點按山上天氣安排。",
-          "29 日：博物館及食嘢為主，13:00 出發去機場。大雨時減少停點。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Day 4 雨天推薦時間表",
-        "url": "#recommend4"
-      },
-      {
-        "type": "link",
-        "label": "酒店附近及室內選擇",
-        "url": "#nearby"
-      },
-      {
-        "type": "heading",
-        "text": "出門前再睇"
+        "type": "note",
+        "text": "資料來源：越南國家水文氣象預報中心（NCHMF）。以上為峴港市區預報，巴拿山天氣可能不同。預報不會自動更新。"
       },
       {
         "type": "link",
@@ -4139,15 +4097,6 @@
         "type": "link",
         "label": "The Weather Network｜交叉參考",
         "url": "https://www.theweathernetwork.com/en/city/vietnam/da-nang/da-nang/14-days"
-      },
-      {
-        "type": "link",
-        "label": "Da Nang Outdoor Adventures｜拖曳傘資料及聯絡",
-        "url": "https://danangadventures.com/product/parasailing/"
-      },
-      {
-        "type": "note",
-        "text": "天氣不會自動更新；海灘、纜車及活動是否開放，以當日通知為準。"
       }
     ]
   },
@@ -4322,7 +4271,7 @@
       },
       {
         "type": "link",
-        "label": "四日天氣",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       }
     ]
@@ -4471,7 +4420,7 @@
       },
       {
         "type": "link",
-        "label": "四日天氣及雨天安排",
+        "label": "26–29 Oct 天氣預報",
         "url": "#weather"
       },
       {
