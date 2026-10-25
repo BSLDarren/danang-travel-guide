@@ -196,6 +196,24 @@
         "type": "link",
         "label": "機場有咩食玩？T2 餐飲、手信及休息",
         "url": "#airport"
+      },
+      {
+        "type": "heading",
+        "text": "行李及尿袋"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "經濟艙：1 件手提行李＋1 件小型隨身物品，合共最多 7 kg。免稅品亦計入限額。",
+          "手提行李最多 56 × 36 × 23 cm；小型隨身物品最多 40 × 30 × 15 cm，包括輪及手柄。",
+          "寄艙行李額看電子機票，唔好只按航空公司一般票價估算。",
+          "尿袋：每人最多 2 個，每個不超過 100Wh；必須手提，放座位下或椅背袋。唔可以寄艙、放頭頂行李架，亦唔可以喺機上使用或充電。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "香港航空｜手提行李及尿袋規定",
+        "url": "https://content.hongkongairlines.com/en_CA/fly-with-us/baggage/handcarry"
       }
     ]
   },
@@ -360,7 +378,7 @@
       },
       {
         "type": "banner",
-        "text": "尚未確認 27 Oct 營運\n店方網頁顯示「Out of stock」（暫無法網上預訂）。先聯絡店方，再按當日海況決定。"
+        "text": "27 Oct 是否開放仍要問店方。官網暫時未能直接預訂；出發前確認時段、集合點及雙人安排。"
       },
       {
         "type": "heading",
@@ -831,6 +849,12 @@
           "黃金橋：Hội An 站 → Marseille 站。",
           "法國村：Bordeaux 站 → Louvre 站。",
           "另有直達山頂的路線；入站前先看目的地。"
+        ]
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "去月亮城堡：跟路牌搭山地火車 2 號線（Giếng Thần ↔ Hang Rồng），車程已包喺門票內。上車前確認方向。"
         ]
       },
       {
@@ -1563,6 +1587,22 @@
         "type": "link",
         "label": "Google Maps｜Bạch Đằng 河岸",
         "url": "https://www.google.com/maps/search/?api=1&query=Bach%20Dang%20Hoi%20An"
+      },
+      {
+        "type": "heading",
+        "text": "120,000 VND 門票包咩？"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "日本橋或關公廟二選一、1 間博物館，以及另外 3 處指定古蹟。",
+          "半日可揀日本橋、進記古宅及福建會館。唔使為用晒張票而趕行程。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "會安文化遺產保育中心｜2026 門票內容",
+        "url": "https://hoianheritage.danang.gov.vn/en/news/news-events/announcement-of-the-visiting-in-hoi-an-ancient-town-125.html"
       }
     ],
     "photo": "hoian",
@@ -1579,7 +1619,7 @@
     "blocks": [
       {
         "type": "intro",
-        "text": "法包：峴港揀 Ông Phú Đạt；有去會安就優先 Madam Khanh。河粉：今次比較後優先 Phở Cù Hà Nội。"
+        "text": "法包：峴港揀 Ông Phú Đạt；有去會安就優先 Madam Khanh。河粉先試 Phở Cù Hà Nội。"
       },
       {
         "type": "link",
@@ -1828,7 +1868,7 @@
         "title": "其他公司餐飲",
         "items": [
           "26 Oct：歡迎自助晚餐。",
-          "28 Oct：午餐包括在巴拿山行程內。"
+          "28 Oct：巴拿山午餐自行安排。"
         ]
       }
     ],
@@ -1916,7 +1956,7 @@
   {
     "id": "cash",
     "title": "USD 350｜換錢及預算",
-    "subtitle": "銀行現鈔參考：24 Oct 2026｜唔係保證兌換價",
+    "subtitle": "銀行現鈔參考：25 Oct 2026｜實收以櫃位報價為準",
     "blocks": [
       {
         "type": "banner",
@@ -1927,8 +1967,12 @@
         "items": [
           "Vietcombank 參考：1 USD 現鈔買入價＝25,610 VND。",
           "旅途心算：100,000 VND 約 HK$30。",
-          "實收金額看找換櫃位當日美元買入價及手續費。"
+          "換錢前問清楚：USD 350 最後可以收到幾多越南盾，有冇手續費。"
         ]
+      },
+      {
+        "type": "note",
+        "text": "如果用港幣現鈔換錢，同一銀行參考買入價為 HK$1＝3,201.75 VND。網站用 3,300 VND 換算 HK$1，方便估算開支；唔係找換店報價。"
       },
       {
         "type": "table",
@@ -2014,6 +2058,11 @@
         "type": "link",
         "label": "機場換錢服務",
         "url": "https://danangairport.vn/faqs"
+      },
+      {
+        "type": "link",
+        "label": "Vietcombank｜銀行匯率資料",
+        "url": "https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx"
       }
     ]
   },
@@ -2044,7 +2093,7 @@
         "items": [
           "市區可用 Grab；上車先核對車牌及目的地。",
           "包車先問總價，列明停點、等候及機場接送。",
-          "小店備現金；付款及找續看清鈔票面額。"
+          "小店備現金；付款及找贖時睇清鈔票面額。"
         ]
       },
       {
@@ -2730,6 +2779,12 @@
         ]
       },
       {
+        "type": "bullets",
+        "items": [
+          "去月亮城堡：跟路牌搭山地火車 2 號線（Giếng Thần ↔ Hang Rồng），車程已包喺門票內。上車前確認方向。"
+        ]
+      },
+      {
         "type": "heading",
         "text": "天氣清晰：黃金橋先影相"
       },
@@ -2797,7 +2852,7 @@
       {
         "type": "bullets",
         "items": [
-          "建議至少提早 60 分鐘開始排纜車及下山搵車；呢個係行程緩衝，唔係保證一小時到。",
+          "至少提早 60 分鐘開始排纜車下山；人多或大雨時再提早。",
           "認清回程纜車落邊個山腳站，避免去錯停車場。",
           "遇大雨、纜車調度或人多，再提早離開。"
         ]
@@ -2879,7 +2934,7 @@
         "type": "bullets",
         "items": [
           "快艇拖住降落傘喺海面升空；可問雙人同飛安排。",
-          "網頁顯示 Out of stock，先問 27 Oct 有冇營運。未確認就唔特登出發。",
+          "官網暫時未能直接預訂，27 Oct 是否開放要先問店方。",
           "午餐後最早 14:00 出發；預留交通、準備及等候時間，18:00 前返 Hyatt。"
         ]
       },
@@ -2913,7 +2968,7 @@
         "type": "bullets",
         "items": [
           "建議：14:30 左右出發 → 占婆雕刻博物館約 60 分鐘 → 附近飲嘢 → 17:15 左右返酒店。",
-          "適合普通雨天；如果大雨、積水或交通受阻，留酒店休息。"
+          "適合小雨時；如果大雨、積水或交通受阻，留酒店休息。"
         ]
       },
       {
@@ -2923,7 +2978,7 @@
       },
       {
         "type": "note",
-        "text": "以上時間係建議，未包含訂車／留位；目標 18:00 前返酒店，留時間沖涼換衫。"
+        "text": "呢個係建議行程；車同活動都未預訂。18:00 前返酒店，留時間沖涼換衫。"
       },
       {
         "type": "heading",
@@ -3102,7 +3157,7 @@
         "items": [
           "找換櫃位：T2 地下抵港大堂，跟 Money Exchange 指示。",
           "可先換 USD 50 作零用，約 128 萬盾；實收看櫃位匯價。",
-          "公司車就開就先集合，入住後再換錢。"
+          "公司車快開就先集合，入住後再換錢。"
         ]
       },
       {
@@ -3368,7 +3423,7 @@
       {
         "type": "bullets",
         "items": [
-          "按所持護照確認簽證及有效期。兩位嘅入境文件仍待核對。",
+          "按所持護照確認簽證要求及有效期；電子簽證必須已獲批核，申請收據唔等於入境許可。",
           "電子簽證：核對姓名、護照號碼、日期及入境口岸，保存批核文件。",
           "手機另存回程機票、酒店地址及保險援助電話。"
         ]
@@ -3429,6 +3484,27 @@
         "type": "link",
         "label": "酒店及求助電話",
         "url": "#help"
+      },
+      {
+        "type": "heading",
+        "text": "執行李要留意"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "電子煙及相關產品唔可以帶入越南。",
+          "香港航空尿袋限每人 2 個、每個不超過 100Wh。放手提行李；機上唔可以使用或充電。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "行李及尿袋詳細規定",
+        "url": "#flights"
+      },
+      {
+        "type": "link",
+        "label": "越南入境物品提醒｜英國政府",
+        "url": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security"
       }
     ]
   },
@@ -3751,7 +3827,7 @@
         "type": "bullets",
         "items": [
           "地址：113/3 Nguyễn Chí Thanh（巷內）。",
-          "每日 06:00–21:00；只收現金。",
+          "旅遊局資料列每日 06:00–22:30；出發前再睇當日營業狀態。帶現金較方便。",
           "每人預算 40,000–70,000 VND；停留約 30 分鐘。"
         ]
       },
@@ -3764,6 +3840,11 @@
         "type": "link",
         "label": "魚餅米線介紹｜Vietnam Tourism",
         "url": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/"
+      },
+      {
+        "type": "link",
+        "label": "Bà Hờn｜峴港旅遊局食店資料",
+        "url": "https://www.foodtourdanang.vn/bun-cha-ca-hon?food=55"
       },
       {
         "type": "heading",
@@ -4044,7 +4125,7 @@
   {
     "id": "weather",
     "title": "26–29 Oct｜峴港天氣",
-    "subtitle": "預報更新：25 Oct 2026・峴港市區",
+    "subtitle": "預報更新：25 Oct 2026 19:00（越南時間）・峴港市區",
     "blocks": [
       {
         "type": "table",
@@ -4056,23 +4137,23 @@
           ],
           [
             "26 Oct",
-            "24–32°C",
-            "多雲，預報無雨"
+            "24–33°C",
+            "多雲，無雨"
           ],
           [
             "27 Oct",
-            "23–32°C",
-            "多雲，有驟雨"
+            "24–32°C",
+            "多雲，有驟雨及雷暴"
           ],
           [
             "28 Oct",
             "24–31°C",
-            "驟雨及雷暴"
+            "多雲，有驟雨及雷暴"
           ],
           [
             "29 Oct",
-            "23–31°C",
-            "多雲，有中雨"
+            "24–33°C",
+            "多雲，有驟雨及雷暴"
           ]
         ],
         "companyRows": [],
@@ -4185,33 +4266,6 @@
         "type": "link",
         "label": "MICHELIN｜介紹、營業資料及實景相",
         "url": "https://guide.michelin.com/sg/en/da-nang-region/da-nang_2984390/restaurant/nu-%C4%91o-kitchen"
-      },
-      {
-        "type": "heading",
-        "text": "想就近食河粉／法包｜Hùng 68"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "地址：110 Trường Sa；由酒店預計 5–10 分鐘車。",
-          "小店供應越南菜；河粉及法包先問當日有冇。",
-          "營業時間及餐牌未確認，先查詢再出發。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Google Maps｜Hùng 68｜110 Trường Sa",
-        "url": "https://www.google.com/maps/search/?api=1&query=Hung%2068%20Restaurant%20110%20Truong%20Sa%20Da%20Nang"
-      },
-      {
-        "type": "link",
-        "label": "餐廳資料｜Restaurant Guru",
-        "url": "https://restaurantguru.com/Hung-68-Da-Nang"
-      },
-      {
-        "type": "link",
-        "label": "地址交叉核對｜本地餐廳目錄",
-        "url": "https://monandanang.vn/restaurant/g_ChIJO3VMPgARQjERzoOU8ZWX4eE-hung-68-restaurant-food-and-drink"
       },
       {
         "type": "heading",
@@ -4356,7 +4410,7 @@
         "items": [
           "13:30–14:00 抵達 T2 → 2F 辦理登機及寄行李 → 完成出境及安檢 → 食嘢、買手信 → 登機閘口。",
           "想放入寄艙行李嘅手信，要喺交行李前買好同執好。",
-          "安檢後先睇登機證及航班屏幕；食正餐建議預留 30–45 分鐘，購物另預 15–20 分鐘。呢啲係安排時間，唔係排隊保證。",
+          "安檢後先睇登機證及航班屏幕；食正餐建議預留 30–45 分鐘，購物另預 15–20 分鐘。",
           "16:50 係起飛時間；按登機證嘅登機時間到閘口，另留步行時間。"
         ]
       },
@@ -4568,7 +4622,7 @@
         "items": [
           "位置：T2・MF 夾層・出境候機區，完成出境及安檢後先去。",
           "有熱食、飲品、淋浴、充電及按摩椅。",
-          "官方成人價 US$29／最多 3 小時；兩人 US$58。每延長 30 分鐘 US$5.50。",
+          "參考入場價 US$29／人，最多 3 小時；入場前確認當日收費。",
           "有信用卡貴賓室權益，先確認呢間有冇包括及同行者點收費。"
         ]
       },
@@ -4608,7 +4662,7 @@
           "GF＝地下；1F＝一樓；2F＝二樓；MF＝夾層。",
           "Public＝安檢前公眾區；Restricted＝管制區。再留意 Departure（出發）同 Arrival（入境），唔係所有管制區都互通。",
           "先開 T2 官方樓層圖，選店舖所在樓層，再核對區域及店名。Google Maps 適合去機場，機場內搵店用官方圖同指示牌。",
-          "店舖名錄未列明最近登機閘口，所以唔寫估計閘口號碼；到場先睇屏幕及路牌。"
+          "到場先睇登機閘口，再按路牌搵店。"
         ]
       },
       {
@@ -4629,7 +4683,7 @@
     "blocks": [
       {
         "type": "note",
-        "text": "Google Maps 評分及食評數量：25 Oct 2026 查閱，不會自動更新。按食評數量、分數及具體內容比較；並非全市排名。食物照片已標明是否本店出品。"
+        "text": "評分及食評數字為 25 Oct 2026 早前查閱紀錄。最新評價請開 Google Maps；食物相是否店內出品已在圖說註明。"
       },
       {
         "type": "heading",
@@ -4664,7 +4718,7 @@
       },
       {
         "type": "intro",
-        "text": "想搵大量食客推薦嘅法包，呢間最值得放入會安行程。過萬則食評仍有 4.6 分；睇到嘅食評具體讚包皮脆、餡料味道濃同份量足。"
+        "text": "會安人氣法包店，第一次試可以揀綜合餡或烤豬肉。包皮脆、餡料濃味，兩人可以分食一個，再留肚試其他小食。"
       },
       {
         "type": "bullets",
@@ -4673,13 +4727,18 @@
           "建議試 Mixed Bánh Mì 綜合餡；另一個可揀烤豬肉，兩人交換試。",
           "地址：115 Trần Cao Vân，會安；唔係峴港市中心。",
           "想比較兩間會安名店，可以每店買一個分食，唔使每人食兩個。",
-          "售價及當日營業時間請開地圖核對；預留排隊時間。"
+          "每日 06:30–19:00。綜合法包及烤豬肉法包各 40,000 VND（約 HK$12）；以店內餐牌為準。"
         ]
       },
       {
         "type": "link",
         "label": "Google Maps｜地址、食評及導航",
         "url": "https://www.google.com/maps/search/?api=1&query=Madam%20Khanh%20115%20Tran%20Cao%20Van%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Madam Khanh｜官方餐牌",
+        "url": "https://madamkhanh.vn/thuc-don"
       },
       {
         "type": "heading",
@@ -4689,7 +4748,7 @@
       },
       {
         "type": "intro",
-        "text": "今次比較嘅幾間法包店之中，佢嘅 Google 食評最多。適合想試會安名店，或者同 Madam Khanh 比較口味；綜合分數我會先揀 Madam Khanh。"
+        "text": "今次比較嘅幾間法包店之中，佢嘅 Google 食評最多。適合想試會安名店，或者同 Madam Khanh 比較口味；兩間只揀一間嘅話，建議先試 Madam Khanh。"
       },
       {
         "type": "bullets",
@@ -4714,7 +4773,7 @@
     "blocks": [
       {
         "type": "note",
-        "text": "Google Maps 評分及食評數量：25 Oct 2026 查閱，不會自動更新。按食評數量、分數及具體內容比較；並非全市排名。食物照片已標明是否本店出品。"
+        "text": "評分及食評數字為 25 Oct 2026 早前查閱紀錄。最新評價請開 Google Maps；食物相是否店內出品已在圖說註明。"
       },
       {
         "type": "heading",
@@ -4724,7 +4783,7 @@
       },
       {
         "type": "intro",
-        "text": "牛肉河粉選擇，有牛腱、牛筋等配搭。食客常讚湯底有味、牛肉軟嫩；店面簡單，適合坐低食一碗熱湯河粉。"
+        "text": "主打牛肉河粉，可揀牛腱、牛筋等配料。食客常讚湯底有味、牛肉軟嫩；店面簡單，適合坐低食一碗熱湯河粉。"
       },
       {
         "type": "bullets",
@@ -4733,7 +4792,7 @@
           "可試牛肉河粉、牛腱或牛筋配搭，供應按當日餐牌。",
           "想要熟牛肉：phở bò chín；先試湯，再加青檸、辣椒及香草。",
           "地址：05 Trần Quốc Toản，峴港。",
-          "推薦先試呢間；售價以現場餐牌為準。"
+          "營業時間未能核實，出門前先睇 Google Maps 當日狀態；售價看店內餐牌。"
         ]
       },
       {
@@ -4749,7 +4808,7 @@
       },
       {
         "type": "intro",
-        "text": "有食客讚牛肉湯底同可加配蛋黃，亦有人覺得份量偏少。想試另一款河內風味可以考慮；今次比較我會先揀 Phở Cù。"
+        "text": "有食客讚牛肉湯底同可加配蛋黃，亦有人覺得份量偏少。想試另一款河內風味可以考慮；兩間只揀一間，建議先試 Phở Cù。"
       },
       {
         "type": "bullets",
@@ -4798,49 +4857,38 @@
   },
   {
     "id": "food_references",
-    "title": "餐廳推薦｜參考咩資料？",
-    "subtitle": "評分只係其中一項，唔係好食保證",
+    "title": "點解揀呢幾間？",
+    "subtitle": "食評數量、評分及招牌菜一齊比較",
     "blocks": [
       {
         "type": "intro",
-        "text": "Google Maps 評分及食評數量：25 Oct 2026 查閱，不會自動更新。按食評數量、分數及具體內容比較；並非全市排名。食物照片已標明是否本店出品。"
+        "text": "法包同河粉以多人推薦、招牌菜清楚嘅店為優先，唔會單純因為順路而推薦。"
       },
       {
         "type": "bullets",
         "items": [
-          "分開「食評多」、「分數高」同「具體讚邊款食物」，再作選擇。",
-          "Google Maps 公開頁未登入，今次可睇總分、數量同部分食評；未逐條讀晒或完整檢查最新負評。",
-          "各旅遊網站轉載嘅 Google 分數可能過期，今次採用直接開 Google Maps 查到嘅數字。"
-        ]
-      },
-      {
-        "type": "heading",
-        "text": "未列首選嘅兩間熱門店"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "Cô Ba Phở bò：4.7 分／6,729 則食評；Google 頁面當時顯示最近移除了可疑高分評論。",
-          "Happy Bread Mì AA：4.4 分／4,681 則食評；Google 頁面當時亦有同一提示。",
-          "以上提示唔代表食物一定差，但唔宜只憑高分或食評數量就當成首選。"
+          "法包：峴港先試 Ông Phú Đạt 嘅甕燒豬肉；去會安就先揀 Madam Khanh。",
+          "河粉：先試 Phở Cù Hà Nội；Phở Thìn 同 Phở Bắc Hải 另列作比較。",
+          "網站評分及食評數字係 25 Oct 2026 早前查閱紀錄，唔會即時更新。最新評價請開各店 Google Maps。",
+          "酒店附近同機場食店以方便為主；同專程去食嘅推薦分開介紹。"
         ]
       },
       {
         "type": "link",
-        "label": "Google Maps｜Cô Ba Phở bò",
-        "url": "https://www.google.com/maps/search/?api=1&query=Co%20Ba%20Pho%20Bo%20154%20Bach%20Dang%20Da%20Nang"
+        "label": "法包｜介紹、食評及地圖",
+        "url": "#food_banhmi"
       },
       {
         "type": "link",
-        "label": "Google Maps｜Happy Bread",
-        "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Bread%20Mi%20AA%2010%20Hung%20Vuong%20Da%20Nang"
+        "label": "河粉｜介紹、食評及地圖",
+        "url": "#food_pho"
       }
     ]
   },
   {
     "id": "cornpink",
     "title": "Cornpink House｜內衣・泳裝・睡衣",
-    "subtitle": "Day 2 下午可選｜官網資料於 25 Oct 2026 覆核",
+    "subtitle": "每日 12:00–21:00・適合 Day 2 下午去",
     "blocks": [
       {
         "type": "intro",
@@ -4914,6 +4962,11 @@
         "type": "link",
         "label": "Google Maps｜Cornpink House",
         "url": "https://www.google.com/maps/search/?api=1&query=Cornpink%20House%2010%20My%20Da%20Dong%2010%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "致電 Cornpink｜+84 70 869 9195",
+        "url": "tel:+84708699195"
       }
     ],
     "map": {
@@ -4925,7 +4978,7 @@
   {
     "id": "bana_food",
     "title": "巴拿山午餐｜自己揀餐廳",
-    "subtitle": "單點、自助餐及小食｜官方 2026 參考資料",
+    "subtitle": "單點、自助餐及小食・位置、價錢及營業時間",
     "blocks": [
       {
         "type": "intro",
@@ -5180,7 +5233,7 @@
   {
     "id": "bana_treats",
     "title": "巴拿山｜免費啤酒及糕點點樣換",
-    "subtitle": "門票附送優惠・位置及樓層・QR code 兌換教學｜25 Oct 2026 覆核",
+    "subtitle": "每張適用門票：兩杯啤酒或一件糕點",
     "blocks": [
       {
         "type": "banner",
@@ -5205,7 +5258,7 @@
         "type": "bullets",
         "items": [
           "位置：山頂法國村一帶，認住 Ba Na Brew House／Sun KraftBeer 酒廠名稱。Ba Na 1901 餐廳位於酒廠大樓內。",
-          "去到入口先出示門票 QR code，問職員免費啤酒喺邊個櫃位換，再跟指示上樓。官方未公布固定兌換樓層，唔好直接當 4 樓就係換領處。",
+          "到 Ba Na Brew House 入口出示門票 QR code，請職員指示當日換領櫃位。Ba Na 1901 餐廳喺 4–6 樓，換領位置由現場安排。",
           "可換兩杯 Sun KraftBeer，每杯 250 ml，合共 500 ml；唔係無限添飲。"
         ]
       },
@@ -5259,7 +5312,7 @@
         "type": "bullets",
         "items": [
           "位置：法國村。當地旅行社指店舖喺 Saint Denis 教堂附近小巷，可先以教堂作地標，再跟店名搵。",
-          "官方未列出店舖樓層；到 Eric Kayser 店內櫃枱出示門票 QR code，唔係去酒廠樓上換糕點。",
+          "糕點喺 Eric Kayser 店內櫃枱換，出示門票 QR code 即可請職員核對優惠。",
           "官方列過牛角包 Croissant、朱古力酥 Pain au Chocolat、提子丹麥酥 Raisins Danish；每張適用門票換一件，款式及存量以當日為準。"
         ]
       },
@@ -5301,7 +5354,7 @@
         "type": "bullets",
         "items": [
           "先玩滑車、自由落體等刺激遊戲，再到法國村影相、換糕點或啤酒。",
-          "建議預留 30–45 分鐘休息及換領；如果參觀酒廠或者排隊，再加時間。呢個係行程預算。",
+          "建議預留 30–45 分鐘休息及換領；如果參觀酒廠或者排隊，再加時間。",
           "同區可以一齊去：Saint Denis 教堂 → Eric Kayser → Ba Na Brew House／Ba Na 1901；按到達位置調轉次序亦可以。",
           "園內搵路用現場路牌或 Sun Paradise Land App eMap；Google Maps 只供查看位置，唔一定顯示樓層同入口。"
         ]
@@ -5610,7 +5663,7 @@
           },
           {
             "id": "electronics-bank",
-            "text": "尿袋（放手提行李）"
+            "text": "尿袋（每人最多 2 個，每個不超過 100Wh；放手提行李）"
           },
           {
             "id": "electronics-bankpouch",
