@@ -2084,44 +2084,6 @@
     ]
   },
   {
-    "id": "checklist",
-    "title": "出發前檢查清單",
-    "subtitle": "出發前及回程前一晚逐項檢查",
-    "blocks": [
-      {
-        "type": "heading",
-        "text": "出發前"
-      },
-      {
-        "type": "text",
-        "text": "□ 護照、簽證／入境許可\n□ 機票姓名、行李額、航班時間\n□ 若玩拖曳傘：確認人數、含稅價、接送及取消條款\n□ Day 1 上車時間、位置及聯絡電話"
-      },
-      {
-        "type": "company",
-        "title": "Day 4 自行去機場",
-        "items": [
-          "通知公司接送負責人，不乘 13:30 公司車。"
-        ]
-      },
-      {
-        "type": "heading",
-        "text": "28 OCT 晚上"
-      },
-      {
-        "type": "text",
-        "text": "□ 揀定 Day 4 路線\n□ 按所選路線訂車，確認行李隨車／酒店寄存\n□ 確認早餐及退房安排\n□ 保存機票、酒店及機場定位"
-      },
-      {
-        "type": "heading",
-        "text": "隨身物品"
-      },
-      {
-        "type": "text",
-        "text": "□ 護照、簽證、登機資料\n□ USD 350、銀行卡、小額越南盾\n□ 手機、充電線、轉插、尿袋\n□ 薄外套、雨衣、運動鞋\n□ 泳衣、防曬、個人藥物"
-      }
-    ]
-  },
-  {
     "id": "navigation",
     "title": "導航連結",
     "subtitle": "按名稱開啟地圖；出發前留意分店及營業時間。",
@@ -5433,25 +5395,25 @@
   },
   {
     "id": "packing",
-    "title": "四日三夜｜詳細行李清單",
-    "subtitle": "26–29 Oct 2026・逐項剔選・按需要帶",
+    "title": "執行李清單",
+    "subtitle": "四日三夜・衣物數量以每人計",
     "blocks": [
       {
         "type": "intro",
-        "text": "按四日三夜、公司活動、沙灘及巴拿山整理。衣物數量每人計；轉插、護理用品等可按需要共用。剔選代表已處理：已放好，或者確認唔需要帶。"
+        "text": "執好一樣，剔一樣。標示「按需要」嘅物品自行選擇；轉插、洗漱用品等可以共用。"
       },
       {
         "type": "note",
-        "text": "點分類可展開／收起。剔選只儲存喺呢部裝置嘅瀏覽器，唔會同步到另一部手機；下載離線版只包含文字清單。"
+        "text": "按分類展開清單。剔選會保留喺目前瀏覽器，唔會同步到另一部手機。"
       },
       {
         "type": "packing",
         "id": "docs",
-        "title": "證件及出入境｜放手提袋",
+        "title": "證件及文件",
         "items": [
           {
             "id": "docs-passport",
-            "text": "護照正本；出發前再核對有效期及入境要求"
+            "text": "護照"
           },
           {
             "id": "docs-hkid",
@@ -5459,73 +5421,65 @@
           },
           {
             "id": "docs-visa",
-            "text": "有效簽證／入境許可（按所持護照準備）；電子版另存離線副本"
+            "text": "簽證／入境許可"
           },
           {
             "id": "docs-flight",
-            "text": "來回電子機票、訂位編號及已辦理嘅登機證"
+            "text": "電子機票及登機證"
           },
           {
             "id": "docs-hotel",
-            "text": "Hyatt 酒店預訂／公司住宿確認、地址及電話"
+            "text": "酒店住宿確認"
           },
           {
             "id": "docs-insurance",
-            "text": "旅遊保險保單及緊急支援電話；玩拖曳傘先確認承保範圍"
+            "text": "旅遊保險保單"
           },
           {
             "id": "docs-backup",
-            "text": "護照資料頁及簽證備份；與正本分開保存，手機副本加鎖"
-          },
-          {
-            "id": "docs-contacts",
-            "text": "公司接送聯絡電話、集合資料；未收到嘅先留意通知"
+            "text": "護照及簽證副本"
           }
         ]
       },
       {
         "type": "packing",
         "id": "money",
-        "title": "現金及付款｜兩人可以分開保管",
+        "title": "現金及銀行卡",
         "items": [
           {
             "id": "money-usd",
-            "text": "已預備嘅 USD 350；呢個係你原定總額，唔係每人再帶 USD 350"
+            "text": "美金 USD 350"
           },
           {
             "id": "money-hkd",
-            "text": "少量港幣／八達通，返香港搭車用"
+            "text": "少量港幣及八達通"
           },
           {
             "id": "money-cards",
-            "text": "海外可用信用卡／提款卡；確認付款驗證訊息收得到"
+            "text": "信用卡／提款卡"
           },
           {
             "id": "money-wallet",
-            "text": "細銀包或散紙袋；換錢後分開放小額越南盾"
-          },
-          {
-            "id": "money-reserve",
-            "text": "後備現金及銀行卡，與日常銀包分開放"
+            "text": "銀包／散紙袋"
           }
         ]
       },
       {
         "type": "packing",
         "id": "clothes",
-        "title": "四日三夜衣物｜以下數量每人計",
+        "title": "衣物及鞋",
         "items": [
           {
             "id": "clothes-tops",
-            "text": "輕薄上衣 4–5 件（計埋出發身上嗰件）；預留出汗後換衫"
+            "text": "上衣 4–5 件（包括出發當日穿著）"
           },
           {
             "id": "clothes-bottoms",
-            "text": "短褲／薄長褲／裙合共 2–3 件，揀容易配搭嘅"
+            "text": "褲／裙 2–3 件"
           },
           {
             "id": "clothes-underwear",
-            "text": "內衣褲 5 套；預留濕咗或沖涼後換"
+            "text": "內衣褲 5 套"
           },
           {
             "id": "clothes-socks",
@@ -5537,135 +5491,88 @@
           },
           {
             "id": "clothes-jacket",
-            "text": "薄外套／薄風褸 1 件；機艙、冷氣房及巴拿山用"
+            "text": "薄外套／風褸 1 件"
           },
           {
             "id": "clothes-dinner",
-            "text": "公司午餐及晚宴衣物 1–2 套，可與日常衫配搭；有 dress code 就跟公司通知"
+            "text": "公司活動及晚宴衣物 1–2 套"
           },
           {
             "id": "clothes-shoes",
-            "text": "防滑、好行嘅運動鞋 1 對，出發時著住"
+            "text": "防滑運動鞋 1 對"
           },
           {
             "id": "clothes-sandals",
-            "text": "沙灘拖鞋／涼鞋 1 對；另外用鞋袋裝"
+            "text": "拖鞋／涼鞋 1 對"
           },
           {
             "id": "clothes-cover",
-            "text": "薄長褲／披肩按需要帶，去寺廟時遮肩及膝"
+            "text": "披肩（按需要）"
           }
         ]
       },
       {
         "type": "packing",
         "id": "beach",
-        "title": "泳池、沙灘、睇日出日落",
+        "title": "沙灘及游水用品",
         "items": [
           {
             "id": "beach-swim",
-            "text": "泳衣／泳褲 2 套，方便輪替晾乾"
+            "text": "泳衣／泳褲 2 套"
           },
           {
             "id": "beach-coverup",
-            "text": "沙灘罩衫或易穿脫上衣 1 件"
+            "text": "沙灘罩衫 1 件"
           },
           {
             "id": "beach-sunblock",
-            "text": "防曬用品；需要補搽嘅份量放細袋"
+            "text": "防曬"
           },
           {
             "id": "beach-hat",
-            "text": "帽及太陽眼鏡；大風時收好"
+            "text": "帽及太陽眼鏡"
           },
           {
             "id": "beach-drybag",
-            "text": "防水袋／防潑水小袋，放手機、銀包及房卡"
+            "text": "手機防水袋"
           },
           {
             "id": "beach-wetbag",
-            "text": "濕泳衣專用袋，與乾淨衣物分開"
+            "text": "濕泳衣袋"
           },
           {
             "id": "beach-towel",
-            "text": "輕便快乾毛巾（可選）；酒店泳池／沙灘毛巾到場確認借用範圍"
+            "text": "快乾毛巾（按需要）"
           },
           {
             "id": "beach-mat",
-            "text": "輕便沙灘墊／沙灘巾（可選），想坐沙上休息先帶"
-          },
-          {
-            "id": "beach-dawn",
-            "text": "睇日出用薄外套；夜晚返酒店用手機照明"
+            "text": "沙灘墊／沙灘巾（按需要）"
           }
         ]
       },
       {
         "type": "packing",
         "id": "bana",
-        "title": "Day 3 巴拿山｜前一晚執好小背囊",
+        "title": "雨具",
         "items": [
           {
             "id": "bana-raincoat",
-            "text": "輕便雨衣；山上有風時比遮方便"
+            "text": "輕便雨衣"
           },
           {
             "id": "bana-umbrella",
-            "text": "摺遮，放背囊側袋；強風時唔好勉強撐開"
+            "text": "摺遮"
           },
           {
             "id": "bana-bagcover",
-            "text": "背囊防雨套／大密實袋，保護電子用品"
-          },
-          {
-            "id": "bana-sparesocks",
-            "text": "後備乾襪 1 對及少量紙巾"
-          },
-          {
-            "id": "bana-ticket",
-            "text": "自己張門票 QR code 截圖；纜車及啤酒／糕點換領會用到"
-          },
-          {
-            "id": "bana-pickup",
-            "text": "公司車車牌、回程集合位置及時間，收到後儲存手機"
-          },
-          {
-            "id": "bana-layer",
-            "text": "出門檢查：薄外套、雨衣、防滑鞋已帶齊"
-          }
-        ]
-      },
-      {
-        "type": "packing",
-        "id": "parasail",
-        "title": "如果 Day 2 玩拖曳傘｜未決定可先略過",
-        "items": [
-          {
-            "id": "parasail-change",
-            "text": "快乾上衣、泳衣／泳褲及一套乾淨衫褲"
-          },
-          {
-            "id": "parasail-smalltowel",
-            "text": "小毛巾及濕衣袋"
-          },
-          {
-            "id": "parasail-booking",
-            "text": "店家名稱、確認訊息、集合點及付款／預約資料（預約後才有）"
-          },
-          {
-            "id": "parasail-valuables",
-            "text": "準備可寄存貴重物品嘅小袋；寄存位置先問店家"
-          },
-          {
-            "id": "parasail-camera",
-            "text": "防水相機／手機固定繩（可選）；上傘可唔可以帶，由營運商決定"
+            "text": "背囊防雨套／防水袋"
           }
         ]
       },
       {
         "type": "packing",
         "id": "wash",
-        "title": "洗漱及個人護理",
+        "title": "洗漱及個人用品",
         "items": [
           {
             "id": "wash-teeth",
@@ -5673,62 +5580,66 @@
           },
           {
             "id": "wash-skin",
-            "text": "洗面、護膚及卸妝用品，用旅行裝"
+            "text": "洗面、護膚及卸妝用品"
+          },
+          {
+            "id": "wash-makeup",
+            "text": "化妝品（按需要）"
           },
           {
             "id": "wash-hair",
-            "text": "梳、髮圈；常用洗頭水／護髮素按需要分裝"
+            "text": "梳、髮圈及旅行裝洗護髮用品"
           },
           {
             "id": "wash-shave",
-            "text": "剃鬚用品（有需要先帶）"
+            "text": "剃鬚用品（按需要）"
           },
           {
             "id": "wash-deodorant",
-            "text": "止汗／除臭用品"
+            "text": "止汗用品"
           },
           {
             "id": "wash-hygiene",
-            "text": "衛生巾、棉條或其他個人衛生用品（按需要）"
+            "text": "衛生用品（按需要）"
           },
           {
             "id": "wash-lens",
-            "text": "眼鏡、隱形眼鏡、鏡盒及護理液（按需要）"
+            "text": "眼鏡／隱形眼鏡、鏡盒及護理液"
           },
           {
             "id": "wash-tissues",
-            "text": "紙巾、濕紙巾及小支潔手液"
+            "text": "紙巾、濕紙巾及潔手液"
           },
           {
             "id": "wash-repellent",
-            "text": "防蚊用品；按產品標籤使用"
+            "text": "防蚊用品"
           },
           {
             "id": "wash-liquidbag",
-            "text": "手提液體用透明可重封袋：每個容器不超過 100 ml，全部放入一個不超過 1 L 嘅袋"
+            "text": "透明密實袋及旅行分裝瓶"
           }
         ]
       },
       {
         "type": "packing",
         "id": "health",
-        "title": "個人藥物及小用品",
+        "title": "藥物及急救用品",
         "items": [
           {
             "id": "health-regularmed",
-            "text": "平日必需藥物，帶足行程份量及少量備用；放手提袋，保留原包裝／標籤"
+            "text": "日常藥物（連原包裝）"
           },
           {
             "id": "health-prescription",
-            "text": "處方或醫生證明副本（如所帶藥物需要）；入境限制按藥物核對"
+            "text": "處方／醫生證明副本（如需要）"
           },
           {
             "id": "health-usualmed",
-            "text": "自己平時用開嘅常備藥（如需要）；唔確定就先問藥劑師"
+            "text": "平時用開嘅常備藥"
           },
           {
             "id": "health-plasters",
-            "text": "膠布、防磨腳貼及少量紗布"
+            "text": "膠布及防磨腳貼"
           },
           {
             "id": "health-mask",
@@ -5739,106 +5650,68 @@
       {
         "type": "packing",
         "id": "electronics",
-        "title": "手機、充電及公司活動",
+        "title": "電子用品",
         "items": [
           {
             "id": "electronics-phone",
-            "text": "手機及對應充電線；出發前充滿電"
+            "text": "手機及充電線"
           },
           {
             "id": "electronics-adapter",
-            "text": "兼容越南 A／C 插座嘅萬用轉插；香港三腳插頭未必直插到"
+            "text": "萬用轉插"
           },
           {
             "id": "electronics-charger",
-            "text": "充電器；標示 100–240V 嘅通常可配轉插使用"
+            "text": "充電器"
           },
           {
             "id": "electronics-bank",
-            "text": "尿袋放手提袋：香港航空每人最多 2 個，每個不超過 100 Wh；容量標示要清楚"
+            "text": "尿袋（放手提行李）"
           },
           {
             "id": "electronics-bankpouch",
-            "text": "尿袋獨立保護袋；放容易拎到嘅位置，上機唔放頭頂行李架"
+            "text": "尿袋保護袋"
           },
           {
             "id": "electronics-earphones",
             "text": "耳機及充電盒"
           },
           {
-            "id": "electronics-data",
-            "text": "eSIM／漫遊已設定；保存安裝資料，確認到埗可上網"
-          },
-          {
-            "id": "electronics-offline",
-            "text": "下載旅行指南、酒店地址及需要嘅地圖，試一次離線開啟"
-          },
-          {
-            "id": "electronics-work",
-            "text": "筆記簿及筆；公司 Training 所需電腦／平板及充電器（按公司要求）"
-          },
-          {
             "id": "electronics-cameraextra",
-            "text": "相機、記憶卡及電池（可選）；備用電池放手提袋並保護接點"
+            "text": "相機、記憶卡及電池（按需要）"
+          },
+          {
+            "id": "electronics-work-device",
+            "text": "電腦／平板及充電器（公司活動如需要）"
           }
         ]
       },
       {
         "type": "packing",
         "id": "bags",
-        "title": "行李收納及回程",
+        "title": "袋及其他用品",
         "items": [
           {
             "id": "bags-daybag",
-            "text": "輕便小背囊／斜孭袋，日間活動用"
+            "text": "小背囊／斜孭袋"
           },
           {
             "id": "bags-laundry",
-            "text": "污衣袋、鞋袋及幾個密實袋"
+            "text": "污衣袋、鞋袋及密實袋"
           },
           {
             "id": "bags-luggage",
-            "text": "行李牌、行李鎖；記低行李箱外觀或影張相"
+            "text": "行李牌及行李鎖"
           },
           {
             "id": "bags-shopping",
-            "text": "摺疊購物袋；預留手信空間及回程重量"
+            "text": "摺疊購物袋"
           },
           {
-            "id": "bags-carrychange",
-            "text": "手提袋放一套後備內衣褲及上衣，延誤或淋濕都有得換"
-          },
-          {
-            "id": "bags-lastcheck",
-            "text": "離開酒店前：護照、銀包、手機、充電器、尿袋、保險箱物品及晾緊嘅泳衣逐樣睇"
+            "id": "bags-notebook",
+            "text": "筆記簿及筆"
           }
         ]
-      },
-      {
-        "type": "heading",
-        "text": "上機前再睇一次"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "尿袋及備用鋰電池只可放手提行李。香港航空禁止機上用尿袋充電，亦禁止幫尿袋充電。",
-          "液體限制按容器容量計：150 ml 樽就算只剩少量，都唔符合 100 ml 容器要求。",
-          "大支防曬、護膚品如需寄艙，先核對航空公司相關限量；行李重量按你張機票為準。"
-        ]
-      },
-      {
-        "type": "note",
-        "text": "行李規則於 25 Oct 2026 查閱香港航空及香港民航處；出發當日如有更新，以航空公司及安檢要求為準。"
-      },
-      {
-        "type": "link",
-        "label": "香港航空｜手提行李及尿袋規定",
-        "url": "https://content.hongkongairlines.com/en_CA/fly-with-us/baggage/handcarry"
-      },
-      {
-        "type": "link",
-        "label": "香港民航處｜手提液體規定",
-        "url": "https://www.cad.gov.hk/english/packing_tips.html"
       }
     ]
   }
