@@ -4524,8 +4524,8 @@
   },
   {
     "id": "airport",
-    "title": "峴港機場 T2｜食嘢・買手信・休息",
-    "subtitle": "29 Oct 回程｜HX549 16:50 起飛",
+    "title": "峴港機場 T2｜安檢前後食買指南",
+    "subtitle": "29 Oct 回程・HX549 16:50 起飛・按所在區域搵店",
     "map": {
       "type": "link",
       "label": "Google Maps｜峴港機場國際航站樓 T2",
@@ -4534,147 +4534,284 @@
     "blocks": [
       {
         "type": "intro",
-        "text": "回香港用國際航站樓 T2。完成登機、安檢及出境手續後，可以食嘢、飲咖啡或買手信。"
+        "text": "回香港用國際航站樓 T2。先睇自己喺安檢前定安檢後，再揀餐廳同商店；同一樓層亦可能分公眾區及管制區。"
       },
       {
         "type": "banner",
-        "text": "食過午餐：Puro Gusto 咖啡 → Vietnam’s Delights 手信。\n未食午餐：Apricot Bistro 河粉／法包 → 有時間再行街。"
+        "text": "想食河粉／法包：完成出境及安檢後，去 2F Apricot Bistro。\n想買咖啡、果乾、朱古力手信：安檢後去 2F Vietnam’s Delights。\n未能辦理登機、想坐低等：安檢前去 MF Highlands Coffee。"
       },
       {
         "type": "heading",
-        "text": "Day 4｜到機場之後點安排"
+        "text": "到機場後，跟呢個次序"
       },
       {
         "type": "bullets",
         "items": [
-          "目標 13:30–14:00 抵達 T2，先到 2F 辦理登機及寄行李。",
-          "安檢及出境後，先看閘口及登機時間，再安排食嘢。",
-          "正餐預留 30–45 分鐘；咖啡 20–30 分鐘；購物 15–20 分鐘。",
-          "16:50 起飛；按登機證時間到閘口，另預步行時間。"
+          "13:30–14:00 抵達 T2 → 2F 辦理登機及寄行李 → 完成出境及安檢 → 食嘢、買手信 → 登機閘口。",
+          "想放入寄艙行李嘅手信，要喺交行李前買好同執好。",
+          "安檢後先睇登機證及航班屏幕；食正餐建議預留 30–45 分鐘，購物另預 15–20 分鐘。呢啲係安排時間，唔係排隊保證。",
+          "16:50 係起飛時間；按登機證嘅登機時間到閘口，另留步行時間。"
         ]
       },
       {
+        "type": "banner",
+        "text": "① 安檢前｜公眾區 Public\n未入候機區，仍可辦理登機、寄行李；以下店舖唔使過安檢就去到。"
+      },
+      {
         "type": "heading",
-        "text": "出境後｜Apricot Bistro 越南餐"
+        "text": "Highlands Coffee｜咖啡及糕點"
       },
       {
         "type": "bullets",
         "items": [
-          "位置：T2・2F・出境後。",
-          "有牛肉／雞肉河粉、法包、烤肉米線及鹽咖啡。",
-          "適合未食午餐，或者想再食一餐越南菜。",
-          "價格看當日餐牌。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Apricot Bistro｜官方介紹及位置",
-        "url": "https://danangairport.vn/vn/restaurant-detail-page/brand-detail?bid=470"
-      },
-      {
-        "type": "heading",
-        "text": "出境後｜咖啡、甜品及其他選擇"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "Puro Gusto｜T2・2F：意式咖啡，適合食完午餐後休息。",
-          "Star Coffee_Airside｜T2・2F：飲品及糕點。",
-          "Crystal Jade｜T2・2F：粵菜。",
-          "三間都喺出境後。"
+          "位置：T2・MF 夾層・安檢前公眾區。",
+          "食飲：越南咖啡、茶、糕點。",
+          "幾時去：櫃位未開、有時間等候時；櫃位已開就先辦登機。"
         ]
       },
       {
         "type": "link",
-        "label": "T2 餐廳名錄｜官方位置及餐飲介紹",
+        "label": "Highlands Coffee｜官方位置",
+        "url": "https://danangairport.vn/restaurant-detail-page/brand-detail?bid=9"
+      },
+      {
+        "type": "heading",
+        "text": "Star Coffee｜地下咖啡店"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・GF 地下・安檢前公眾區。",
+          "幾時去：已喺地下、想飲杯咖啡時；回程喺 2F 辦登機，唔使特登落樓搵。",
+          "留意：呢間係 Star Coffee；安檢後另有 Star Coffee_Airside，兩間位置唔同。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "咖啡店樓層及區域｜官方餐飲名錄",
         "url": "https://danangairport.vn/experiences-dine?t=2"
       },
       {
         "type": "heading",
-        "text": "未入安檢｜想先飲杯咖啡"
+        "text": "藥房｜臨時買藥先搵呢度"
       },
       {
         "type": "bullets",
         "items": [
-          "Highlands Coffee｜T2・MF 夾層・公眾區。",
-          "Star Coffee｜T2・GF 地下・公眾區。",
-          "先處理登機及行李；櫃位未開、有時間先坐低。",
-          "T1 係國內航站樓，搵店時留意 T2 標示。"
+          "位置：T2・2F・安檢前，54 號登機櫃位附近嘅售票辦公室內。",
+          "幾時去：過安檢前；有指定藥物或用品，要向店員確認有冇貨。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "藥房及 ATM 位置｜機場官方 FAQ",
+        "url": "https://danangairport.vn/faqs?chcode=01&chid=1"
+      },
+      {
+        "type": "heading",
+        "text": "安檢前買嘢，要留意"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "咖啡及樽裝水最好飲完先過安檢；唔好預普通外帶飲品可以直接拎入去。",
+          "一般手提液體每個容器最多 100 ml，全部放入一個最多 1 L 嘅透明可重封袋；大支護膚品等先按航空公司規定放入寄艙行李。",
+          "想大量買手信、要放喼，建議市區買好。下面介紹嘅 Vietnam’s Delights、Lucky Souvenir 及 Lotte 出發店都喺安檢後。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "T2 官方出境及手提液體規定",
+        "url": "https://danangairport.vn/airport-guide-departure-guide?t=2"
+      },
+      {
+        "type": "banner",
+        "text": "② 安檢後｜出境候機區 Restricted / Departure\n完成出境及安檢手續先到。食飯、補買手信同休息可以留喺呢邊安排。"
+      },
+      {
+        "type": "heading",
+        "text": "Apricot Bistro｜河粉、法包"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F・安檢後出境候機區。",
+          "食咩：牛肉／雞肉河粉、法包、烤肉米線及鹽咖啡。",
+          "幾時去：未食午餐，過關後先食呢間；落單前睇餐牌價錢及等候時間。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Apricot Bistro｜官方餐飲介紹及位置",
+        "url": "https://danangairport.vn/vn/restaurant-detail-page/brand-detail?bid=470"
+      },
+      {
+        "type": "heading",
+        "text": "Puro Gusto｜食飽後飲咖啡"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F・安檢後出境候機區。",
+          "食飲：意式咖啡；適合已食午餐，想坐低休息。"
         ]
       },
       {
         "type": "heading",
-        "text": "有咩好行？最後一轉買手信"
+        "text": "Star Coffee_Airside｜飲品、糕點"
       },
       {
         "type": "bullets",
         "items": [
-          "Vietnam’s Delights｜2F：越南咖啡、茶、朱古力、果乾及紀念品。",
-          "Lucky Souvenir Shop｜2F 分店：小飾物及越南紀念品。",
-          "Lotte Duty Free｜2F 分店：免稅商品，購買前可先格價。",
-          "以上均在 T2 出境後；預留 15–20 分鐘逛一兩間。"
+          "位置：T2・2F・安檢後出境候機區。",
+          "食飲：咖啡、飲品及糕點；唔係地下公眾區嗰間 Star Coffee。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Crystal Jade｜想食中菜"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F・安檢後出境候機區。",
+          "食咩：粵菜；想食一餐坐低慢慢食嘅中菜，可以考慮。"
         ]
       },
       {
         "type": "link",
-        "label": "Vietnam’s Delights｜官方商品介紹",
-        "url": "https://danangairport.vn/shop-detail-page/brand-detail?bid=13"
+        "label": "以上餐廳｜官方樓層及區域",
+        "url": "https://danangairport.vn/experiences-dine?t=2"
+      },
+      {
+        "type": "heading",
+        "text": "Vietnam’s Delights｜優先睇嘅手信店"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F・安檢後出境候機區。",
+          "買咩：越南咖啡、茶、朱古力、果乾、糖果及手工紀念品。",
+          "幾時去：食完嘢、去閘口前；想集中買食物手信，先行呢間。"
+        ]
       },
       {
         "type": "link",
-        "label": "T2 商店名錄｜官方位置",
+        "label": "Vietnam’s Delights｜官方商品及位置",
+        "url": "https://danangairport.vn/shop-detail-page/brand-detail?bid=13"
+      },
+      {
+        "type": "heading",
+        "text": "Lucky Souvenir Shop｜小禮物及零食"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F 有安檢後出發分店；GF、1F 亦有出發候機區分店。",
+          "買咩：袋、飾物、手工藝品、咖啡、果乾及糖果。",
+          "幾時去：先行 2F 分店；如果閘口喺其他樓層，沿途有店先再睇，唔使逐層搵。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Lucky Souvenir｜各出發分店位置",
+        "url": "https://danangairport.vn/shop-detail-page/brand-detail?bid=14"
+      },
+      {
+        "type": "heading",
+        "text": "Lotte Duty Free｜化妝品、香水及免稅商品"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F・安檢後出發店。",
+          "買咩：化妝品、香水、酒類、朱古力及品牌商品；貨品按分店而異。",
+          "留意：官網亦列有 GF 入境店，唔係今次離境購物要去嗰間。",
+          "先格價再買；買液體時問清楚手提及封袋要求，保留單據。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Lotte｜官方出發／入境分店位置",
+        "url": "https://danangairport.vn/shop-detail-page/brand-detail?bid=11"
+      },
+      {
+        "type": "heading",
+        "text": "Mini Mart｜水、汽水及小食"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・GF 地下・安檢後候機區。",
+          "買咩：飲品、糖果及小食。",
+          "幾時去：閘口附近有經過先買；唔好因為寫「地下」就當佢喺安檢前。轉插、充電線等有冇貨未確認，最好自己帶齊。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Mini Mart 及其他商店｜官方位置",
         "url": "https://danangairport.vn/experiences-shop?t=2"
       },
       {
         "type": "heading",
-        "text": "想休息｜Lounge、睡眠艙及按摩椅"
+        "text": "Vanda Lounge｜想坐得舒服啲"
       },
       {
         "type": "bullets",
         "items": [
-          "Vanda Lounge｜T2 出境後 MF：熱食、飲品、淋浴、充電及按摩椅。",
-          "成人 US$29／最多 3 小時；兩位成人 US$58。延長每 30 分鐘 US$5.50。",
-          "有信用卡貴賓室權益：先查支援邊間及同行者收費。",
-          "Sleep Pod 睡眠艙｜T2 出境後 2F；價格向櫃位查詢。",
-          "按摩椅｜T2 管制區 GF、1F、MF；使用前看收費。",
-          "正常候機飲咖啡就夠；提早到好多或航班延誤，再考慮付費休息室。"
+          "位置：T2・MF 夾層・出境候機區，完成出境及安檢後先去。",
+          "有熱食、飲品、淋浴、充電及按摩椅。",
+          "官方成人價 US$29／最多 3 小時；兩人 US$58。每延長 30 分鐘 US$5.50。",
+          "有信用卡貴賓室權益，先確認呢間有冇包括及同行者點收費。"
         ]
       },
       {
         "type": "link",
-        "label": "Vanda Lounge｜官方價錢及設施",
+        "label": "Vanda Lounge｜官方收費及設施",
         "url": "https://danangairport.vn/lounge-detail-page/lounges-detail?sid=16"
       },
       {
+        "type": "heading",
+        "text": "Sleep Pod／按摩椅｜候機休息"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Sleep Pod：T2・2F・安檢後出發區；收費向現場櫃位查詢。",
+          "按摩椅：T2・GF、1F、MF 管制區；使用前睇收費，按自己閘口附近嘅位置選擇。"
+        ]
+      },
+      {
         "type": "link",
-        "label": "睡眠艙及按摩椅｜機場官方資料",
+        "label": "睡眠艙｜官方位置",
+        "url": "https://danangairport.vn/relax-detail-page/brand-detail?bid=249"
+      },
+      {
+        "type": "link",
+        "label": "按摩椅及休息設施｜官方樓層",
         "url": "https://danangairport.vn/experiences-relax"
       },
       {
         "type": "heading",
-        "text": "搵路及即時資料"
+        "text": "機場入面點搵路？"
       },
       {
         "type": "bullets",
         "items": [
-          "GF 地下；1F 一樓；2F 二樓；MF 夾層。",
-          "Public 公眾區；Restricted 管制區。",
-          "去機場用 Google Maps；機場內搵店用官方樓層圖及指示牌。"
+          "GF＝地下；1F＝一樓；2F＝二樓；MF＝夾層。",
+          "Public＝安檢前公眾區；Restricted＝管制區。再留意 Departure（出發）同 Arrival（入境），唔係所有管制區都互通。",
+          "先開 T2 官方樓層圖，選店舖所在樓層，再核對區域及店名。Google Maps 適合去機場，機場內搵店用官方圖同指示牌。",
+          "店舖名錄未列明最近登機閘口，所以唔寫估計閘口號碼；到場先睇屏幕及路牌。"
         ]
       },
       {
         "type": "link",
-        "label": "T2 官方樓層圖及航站樓指南",
+        "label": "開啟 T2 官方樓層圖",
         "url": "https://danangairport.vn/airport-guide-terminal-2"
       },
       {
-        "type": "link",
-        "label": "機場官網｜航班資訊",
-        "url": "https://danangairport.vn/"
-      },
-      {
         "type": "note",
-        "text": "資料覆核：25 Oct 2026。店舖時間、價格、登機時間及閘口以當日為準。"
+        "text": "位置及商品資料於 25 Oct 2026 按機場官方名錄覆核。店舖營業、價格及存貨以現場為準；以上預留時間為行程建議。"
       }
     ]
   },
