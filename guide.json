@@ -1845,7 +1845,7 @@
     "blocks": [
       {
         "type": "link",
-        "label": "★ 沙灘休息、日出日落位置及方向圖",
+        "label": "日出日落時間及地圖",
         "url": "#sunbeach"
       },
       {
@@ -2557,7 +2557,7 @@
       },
       {
         "type": "link",
-        "label": "日出日落時間、方位及景點來源",
+        "label": "日出日落時間及地圖",
         "url": "#sunbeach"
       },
       {
@@ -2850,7 +2850,7 @@
       },
       {
         "type": "link",
-        "label": "日出、晚霞及河邊日落｜地圖",
+        "label": "日出日落時間及地圖",
         "url": "#sunbeach"
       },
       {
@@ -3881,7 +3881,7 @@
       },
       {
         "type": "link",
-        "label": "日出日落地圖、坐邊度及時間",
+        "label": "日出日落時間及地圖",
         "url": "#sunbeach"
       },
       {
@@ -3925,7 +3925,7 @@
       },
       {
         "type": "link",
-        "label": "日出位置及方向圖",
+        "label": "日出日落時間及地圖",
         "url": "#sunbeach"
       },
       {
@@ -4107,7 +4107,7 @@
     "blocks": [
       {
         "type": "link",
-        "label": "★ 沙灘休息、日出日落位置及方向圖",
+        "label": "日出日落時間及地圖",
         "url": "#sunbeach"
       },
       {
@@ -4278,112 +4278,36 @@
   },
   {
     "id": "sunbeach",
-    "title": "沙灘休息・日出日落",
-    "subtitle": "26–29 Oct｜以下為越南時間",
+    "title": "日出日落時間",
+    "subtitle": "26–29 Oct 2026・越南時間（香港慢 1 小時）",
     "blocks": [
-      {
-        "type": "intro",
-        "text": "睇日出：Hyatt 前面嘅沙灘最方便。睇晚霞：下午留酒店海邊。想望住太陽落山：去韓江東岸，向西望。"
-      },
-      {
-        "type": "heading",
-        "text": "日出｜酒店前 Non Nuoc 沙灘"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "位置：主泳池前方、Vive Océane 外面嘅開揚沙灘。",
-          "05:20 到，約 05:42–05:43 日出；可坐到 06:10 左右。",
-          "面向東偏南，指南針約 103–104°。",
-          "前一晚問酒店清晨通道及躺椅安排。",
-          "可先試 27 日早上；有雷雨就留室內。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Google Maps｜Hyatt 酒店／前方沙灘",
-        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
-      },
-      {
-        "type": "heading",
-        "text": "下午休息｜酒店沙灘及 Vive Océane"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "Day 2 可留 15:30–17:30 睇海；落雨轉咖啡店。",
-          "Vive Océane 酒吧 11:00–23:00；飲品另付，座位及最低消費先問。",
-          "太陽喺酒店後方、向內陸落山。面向海可以睇晚霞，睇唔到太陽沉入海平線。",
-          "17:40 左右返房換衫，19:00 食晚餐。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Google Maps｜Vive Océane 海邊餐廳",
-        "url": "https://www.google.com/maps/search/?api=1&query=Vive%20Oceane%20Beach%20Club%20Hyatt%20Regency%20Danang"
-      },
-      {
-        "type": "heading",
-        "text": "日落｜Nguyễn Văn Trỗi 步行橋東岸公園"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "位置：Công viên bờ Đông cầu Nguyễn Văn Trỗi，步行橋東岸公園。",
-          "向西偏南望韓江及城市；部分建築可能遮住接近地平線嘅太陽。",
-          "由 Hyatt 預計 20–30 分鐘車。",
-          "Day 2 可於 16:15–16:30 到，17:19 日落，17:25 叫車返酒店。",
-          "玩拖曳傘嗰日唔再排呢一站；落雨或交通差就取消。"
-        ]
-      },
-      {
-        "type": "link",
-        "label": "Google Maps｜Nguyễn Văn Trỗi 步行橋東岸公園",
-        "url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4ng%20vi%C3%AAn%20b%E1%BB%9D%20%C4%90%C3%B4ng%20c%E1%BA%A7u%20Nguy%E1%BB%85n%20V%C4%83n%20Tr%E1%BB%97i%20%C4%90%C3%A0%20N%E1%BA%B5ng"
-      },
-      {
-        "type": "heading",
-        "text": "日出日落方向地圖"
-      },
-      {
-        "type": "sunmap"
-      },
-      {
-        "type": "link",
-        "label": "全螢幕開啟方向地圖",
-        "url": "sun-map.html"
-      },
-      {
-        "type": "heading",
-        "text": "四日時間表"
-      },
       {
         "type": "table",
         "rows": [
           [
             "日期",
-            "日出／方向",
-            "日落／方向"
+            "日出",
+            "日落"
           ],
           [
             "26 Oct",
-            "05:42 · 103°",
-            "17:19 · 257°"
+            "05:42",
+            "17:19"
           ],
           [
             "27 Oct",
-            "05:42 · 103°",
-            "17:19 · 257°"
+            "05:42",
+            "17:19"
           ],
           [
             "28 Oct",
-            "05:42 · 103°",
-            "17:18 · 257°"
+            "05:42",
+            "17:18"
           ],
           [
             "29 Oct",
-            "05:43 · 104°",
-            "17:18 · 256°"
+            "05:43",
+            "17:18"
           ]
         ],
         "companyRows": [],
@@ -4391,83 +4315,17 @@
         "companyAll": false
       },
       {
-        "type": "note",
-        "text": "日出日落為天文計算，雲雨及遮擋會影響景觀。約 05:20 開始有晨光，日落後至約 17:40 仍有少量天光。"
-      },
-      {
-        "type": "heading",
-        "text": "四日安排"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "26 日：預計 17:30 後入住，已過 17:19 日落，唔安排追日落；有時間就酒店內散步。",
-          "27 日：05:20 日出可選；下午可留海邊休息。河邊日落同拖曳傘都係替代方案，三個方向揀一個。",
-          "28 日：晨早若有雷雨就留房休息；公司巴拿山行程至 17:30，唔另排日落。",
-          "29 日：05:20 起身睇天氣，想去就酒店沙灘試最後一次日出，之後早餐、退房；下午已要去機場。"
-        ]
-      },
-      {
-        "type": "heading",
-        "text": "天氣同座位"
-      },
-      {
-        "type": "bullets",
-        "items": [
-          "出門前看最新預報；雷暴時離開沙灘及河岸。",
-          "帶水、薄外套或毛巾；清晨通道較暗，穿鞋行。"
-        ]
+        "type": "sunmap"
       },
       {
         "type": "link",
-        "label": "26–29 Oct 天氣預報",
-        "url": "#weather"
+        "label": "全螢幕開啟地圖",
+        "url": "sun-map.html"
       },
       {
         "type": "link",
-        "label": "Day 2 海邊休息時間表",
-        "url": "#recommend2"
-      },
-      {
-        "type": "heading",
-        "text": "酒店實際位置圖"
-      },
-      {
-        "type": "link",
-        "label": "Hyatt 官方園區圖｜第 2 頁",
-        "url": "https://www.hyatt.com/content/dam/hotel/propertysites/assets/regency/danhr/documents/en_us/home/Resort-Maps.pdf"
-      },
-      {
-        "type": "note",
-        "text": "2024 年 8 月版：6＝主泳池及休息區、7＝水上／沙灘活動、17＝Vive Océane。由主泳池向沙灘方向行；圖內設施名稱及通道以現場為準。"
-      },
-      {
-        "type": "heading",
-        "text": "資料來源"
-      },
-      {
-        "type": "link",
-        "label": "Timeanddate｜2026 年 10 月日出日落",
+        "label": "日出日落時間來源",
         "url": "https://www.timeanddate.com/sun/vietnam/da-nang?month=10&year=2026"
-      },
-      {
-        "type": "link",
-        "label": "Hyatt｜餐飲時間及實景相",
-        "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa/dining"
-      },
-      {
-        "type": "link",
-        "label": "峴港旅遊局｜河邊日落位置",
-        "url": "https://danangfantasticity.com/en/discovery/where-to-watch-the-sunset-in-da-nang"
-      },
-      {
-        "type": "link",
-        "label": "峴港報｜步行橋東岸休憩環境",
-        "url": "https://en.baodanang.vn/relaxing-in-da-nang-chill-corners-3299076.html"
-      },
-      {
-        "type": "note",
-        "text": "日出日落方向按海岸位置及太陽方位計算。酒店通道及座位安排另確認。"
       }
     ]
   },
