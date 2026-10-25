@@ -1,0 +1,163 @@
+{
+  "golden-bridge": {
+    "src": "golden-bridge.jpg",
+    "caption": "巴拿山黃金橋",
+    "credit": "Trung Le",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Bridge_%28Vietnam%29.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "french-village": {
+    "src": "french-village.jpg",
+    "caption": "巴拿山法國村",
+    "credit": "Vivu Vietnam",
+    "source": "https://commons.wikimedia.org/wiki/File:Ba_Na_Hills_French_Village.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "marble-cave": {
+    "src": "marble-cave.jpg",
+    "caption": "五行山・玄空洞",
+    "credit": "Christophe95",
+    "source": "https://commons.wikimedia.org/wiki/File:Huyen_Khong_Cave_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sontra-statue": {
+    "src": "sontra-statue.jpg",
+    "caption": "山茶半島靈應寺・觀音像",
+    "credit": "CEphoto, Uwe Aranas",
+    "source": "https://commons.wikimedia.org/wiki/File:Son-Tra-Peninsula_Da-Nang_Vietnam_Statue-of-the-Bodhisattva-of-Mercy-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "cham-sculpture": {
+    "src": "cham-sculpture.jpg",
+    "caption": "占婆雕刻博物館・象頭神石雕",
+    "credit": "Ms Sarah Welch",
+    "source": "https://commons.wikimedia.org/wiki/File:Ganesha%2C_Champa_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "hoian": {
+    "src": "hoian.jpg",
+    "caption": "會安古城・陳富街",
+    "credit": "Steffen Schmitz",
+    "source": "https://commons.wikimedia.org/wiki/File:H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-10.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "banhmi": {
+    "src": "banhmi.jpg",
+    "caption": "菜式參考：越式法包，攝於胡志明市，非本店出品",
+    "credit": "源義信",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pho": {
+    "src": "pho.jpg",
+    "caption": "菜式參考：越南河粉，非本店出品",
+    "credit": "Andy Li",
+    "source": "https://commons.wikimedia.org/wiki/File:Pho_on_the_window_table.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "banhxeo": {
+    "src": "banhxeo.jpg",
+    "caption": "菜式參考：越式煎餅，非本店出品；各地做法有別",
+    "credit": "Kent Wang",
+    "source": "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_x%C3%A8o_1.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "coffee": {
+    "src": "coffee.jpg",
+    "caption": "飲品參考：越式滴漏咖啡，非本店出品",
+    "credit": "Andy Li",
+    "source": "https://commons.wikimedia.org/wiki/File:Vietnamese_Hot_Drip_Coffee_-_The_Big_Bowl.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "new-cathedral": {
+    "src": "new-cathedral.jpg",
+    "caption": "峴港粉紅教堂・外觀",
+    "credit": "Christophe95",
+    "source": "https://commons.wikimedia.org/wiki/File:Da_Nang_Cathedral.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceDescription": "The cathedral of Da Nang, Vietnam."
+  },
+  "new-mykhe": {
+    "src": "new-mykhe.jpg",
+    "caption": "美溪沙灘・海岸實景",
+    "credit": "Jpatokal",
+    "source": "https://commons.wikimedia.org/wiki/File:My_Khe_Beach_Danang_Coastline.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceDescription": "Aerial view of My Khe Beach, Da Nang.  Taken from Radisson Hotel."
+  },
+  "new-dragon": {
+    "src": "new-dragon.jpg",
+    "caption": "韓江上的龍橋・實景",
+    "credit": "Person-with-No Name",
+    "source": "https://commons.wikimedia.org/wiki/File:Da_Nang_Dragon_Bridge.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceDescription": "Cầu Rồng Đà Nẵng"
+  },
+  "new-myson": {
+    "src": "new-myson.jpg",
+    "caption": "美山聖地・B、C、D 區塔群實景",
+    "credit": "Chainwit.",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_-_M%E1%BB%B9_S%C6%A1n_Group_B,_C_and_D_-_img_23.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceDescription": "Mỹ Sơn Sanctuary Group B, C and D"
+  },
+  "new-miquang": {
+    "src": "new-miquang.jpg",
+    "caption": "Mì Quảng 1A 店內廣南麵・歷史實拍，供應以當日為準",
+    "credit": "Jpatokal",
+    "source": "https://commons.wikimedia.org/wiki/File:Mi_Quang_1A_Danang.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceDescription": "A bowl of mi quang noodles with pork and shrimp (Mi quảng tôm thịt) at Mi Quang 1A, Da Nang, Vietnam."
+  },
+  "new-caolau": {
+    "src": "new-caolau.jpg",
+    "caption": "菜式參考：會安高樓麵，非 Cao Lầu Thanh 店內出品",
+    "credit": "Chainwit.",
+    "source": "https://commons.wikimedia.org/wiki/File:Cao_l%E1%BA%A7u_H%E1%BB%99i_An_(2024).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceDescription": "Cao lầu in Hội An"
+  },
+  "new-bunchaca": {
+    "src": "new-bunchaca.jpg",
+    "caption": "菜式參考：魚餅湯米線，非 Bà Hờn 店內出品",
+    "credit": "Phương Huy (thảo luận)",
+    "source": "https://commons.wikimedia.org/wiki/File:B%C3%BAn_ch%E1%BA%A3_c%C3%A1,_th%C3%A1ng_8_n%C4%83m_2018.JPG",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:B%C3%BAn_ch%E1%BA%A3_c%C3%A1,_th%C3%A1ng_8_n%C4%83m_2018.JPG",
+    "sourceDescription": "Bún chả cá, tháng 8 năm 2018"
+  },
+  "new-coconut": {
+    "src": "new-coconut.jpg",
+    "caption": "會安椰林水道・竹籃船實景（非指定營運商）",
+    "credit": "Ethan Brooke",
+    "source": "https://www.pexels.com/photo/vibrant-basket-boats-in-h-i-an-s-lush-waterways-29627569/",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "sourceDescription": "Hội An, Quảng Nam, Vietnam; basket boats and lush greenery along the Hội An waterways."
+  },
+  "new-kembo": {
+    "src": "new-kembo.jpg",
+    "caption": "菜式實拍：峴港牛油果雪糕 Kem bơ；未指明市場檔口",
+    "credit": "Christian Berg / Vietnam Tourism",
+    "source": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/",
+    "license": "原圖及版權來源",
+    "licenseUrl": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/",
+    "attributionType": "editorial"
+  }
+}

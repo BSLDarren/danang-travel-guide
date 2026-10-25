@@ -1,0 +1,5845 @@
+[
+  {
+    "id": "cover",
+    "title": "峴港｜四日三夜",
+    "subtitle": "26-29 OCT 2026",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "公司旅行・自由行指南"
+      },
+      {
+        "type": "text",
+        "text": "巴拿山・拖曳傘・地道美食"
+      },
+      {
+        "type": "banner",
+        "text": "Day 2｜拖曳傘（待預約）\nDay 3｜巴拿山\nDay 4｜市區觀光，自行前往機場"
+      },
+      {
+        "type": "note",
+        "text": "資料覆核：25 Oct 2026\n封面照片：Sun World"
+      }
+    ]
+  },
+  {
+    "id": "overview",
+    "title": "四日行程一覽",
+    "subtitle": "以下行程用越南時間；航班另註香港／越南時間。",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "日期",
+            "行程",
+            "重要時間"
+          ],
+          [
+            "26 Mon",
+            "抵達、入住、歡迎晚宴",
+            "19:00 歡迎晚宴"
+          ],
+          [
+            "27 Tue",
+            "培訓、午餐、下午自由時間",
+            "10:00 培訓\n19:00 公司晚餐"
+          ],
+          [
+            "28 Wed",
+            "巴拿山、歡送晚宴",
+            "09:30 出發\n19:00 歡送晚宴"
+          ],
+          [
+            "29 Thu",
+            "半日遊、自行去機場",
+            "13:00 出發去機場\n13:30–14:00 抵達"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        "companyAll": false
+      },
+      {
+        "type": "note",
+        "text": "紅框＝公司安排；自由參加／必須出席會另行註明。"
+      },
+      {
+        "type": "heading",
+        "text": "行程重點"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Day 2：美溪拖曳傘待店方確認；其餘時間可留酒店沙灘或飲咖啡。",
+          "Day 3：巴拿山。預報有雷雨，先安排室內遊戲。",
+          "Day 4：博物館、法包及河粉；13:00 出發去機場。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "航班與機場",
+        "url": "#flights"
+      },
+      {
+        "type": "link",
+        "label": "Day 2 及拖曳傘",
+        "url": "#day2"
+      },
+      {
+        "type": "link",
+        "label": "巴拿山攻略及地圖",
+        "url": "#day3"
+      },
+      {
+        "type": "link",
+        "label": "Day 4 路線及景點",
+        "url": "#day4"
+      },
+      {
+        "type": "link",
+        "label": "餐廳、餐單及酒店",
+        "url": "#food"
+      },
+      {
+        "type": "link",
+        "label": "換錢、實用提示及導航",
+        "url": "#cash"
+      },
+      {
+        "type": "note",
+        "text": "拖曳傘及私人車輛尚未預約。"
+      }
+    ]
+  },
+  {
+    "id": "flights",
+    "title": "航班與機場",
+    "subtitle": "香港快越南 1 小時｜HKT 香港；ICT 越南",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "航班",
+            "出發",
+            "抵達"
+          ],
+          [
+            "26 Oct / HX548",
+            "HKG 14:55 HKT",
+            "DAD 15:50 ICT"
+          ],
+          [
+            "29 Oct / HX549",
+            "DAD 16:50 ICT",
+            "HKG 19:45 HKT"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "去程｜香港機場 T2"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "建議 11:55 到香港機場，即起飛前 3 小時。",
+          "T2 辦理登機：Q 區；自助設施：R 區。",
+          "寄行李 → 安檢及出境 → 接駁列車 → 登機閘口。",
+          "閘口及登機時間看登機證和機場屏幕。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "回程｜峴港機場 T2"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "13:00 左右離開市區，前往峴港機場 T2。",
+          "目標 13:30–14:00 抵達；大雨或塞車時再提早。",
+          "16:50 起飛。登機證上嘅登機時間會早過起飛時間。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "香港航空峴港櫃位於起飛前 50 分鐘截止辦理手續。航班時間按你提供嘅資料，出發前再看航空公司通知。"
+      },
+      {
+        "type": "link",
+        "label": "香港航空｜香港機場 T2 資訊",
+        "url": "https://www.hongkongairlines.com/webfile/static/pdf/Check-in%20counter%20relcoation%20to%20T2%20FAQ%20-%20EN.pdf?siteId=6"
+      },
+      {
+        "type": "link",
+        "label": "香港航空｜各地機場資訊",
+        "url": "https://content.hongkongairlines.com/en_US/airport-information/worldwide/airportinfo"
+      },
+      {
+        "type": "link",
+        "label": "機場有咩食玩？T2 餐飲、手信及休息",
+        "url": "#airport"
+      }
+    ]
+  },
+  {
+    "id": "day1",
+    "title": "DAY 1｜抵達峴港",
+    "subtitle": "26 OCT · MON｜紅框為公司安排",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "時間",
+            "安排"
+          ],
+          [
+            "11:55 HKT",
+            "到香港機場 T2"
+          ],
+          [
+            "14:55 HKT",
+            "HX548 出發"
+          ],
+          [
+            "15:50 ICT",
+            "抵達峴港；入境、取行李"
+          ],
+          [
+            "16:45-17:30",
+            "公司車往 Hyatt\n發車時間以接送通知為準"
+          ],
+          [
+            "17:30-18:30",
+            "Hyatt 入住"
+          ],
+          [
+            "19:00-21:00",
+            "歡迎自助晚餐｜必須出席\nXanh House Terrace"
+          ]
+        ],
+        "companyRows": [
+          4,
+          5,
+          6
+        ],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "抵達後"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "開啟漫遊／eSIM，保存酒店定位。",
+          "準備小額越南盾。",
+          "保存上車位置、司機及接送聯絡電話。",
+          "入境排隊較耐，及早通知接送方。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "晚宴前可到酒店花園或海灘散步。"
+      },
+      {
+        "type": "link",
+        "label": "落地第一步",
+        "url": "#arrival"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜Xanh House",
+      "url": "https://www.google.com/maps/search/?api=1&query=Xanh%20House%20Hyatt%20Regency%20Danang"
+    }
+  },
+  {
+    "id": "day2",
+    "title": "DAY 2｜培訓・自由時間",
+    "subtitle": "27 OCT · TUE｜紅框為公司安排",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "時間",
+            "安排"
+          ],
+          [
+            "09:00-10:00",
+            "公司早餐"
+          ],
+          [
+            "10:00-12:15",
+            "培訓｜必須出席"
+          ],
+          [
+            "12:30-14:00",
+            "公司午餐｜必須出席\nDarren Menu 3；Ting Menu 2"
+          ],
+          [
+            "14:00–18:30",
+            "自由時間\n拖曳傘、飲咖啡、購物或酒店休息"
+          ],
+          [
+            "建議 18:00 前",
+            "返 Hyatt，沖涼換衫"
+          ],
+          [
+            "19:00-21:00",
+            "公司晚餐｜自由參加；兩人已選餐\nOsteria al Mare"
+          ]
+        ],
+        "companyRows": [
+          1,
+          2,
+          3,
+          6
+        ],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "下午揀一個方向就夠"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "拖曳傘：先確認有冇營運、下午時段及集合點。",
+          "咖啡及購物：Cornpink House、Phin Cũ，兩店之間搭車。",
+          "落雨：占婆博物館或室內咖啡店；雨勢大就留酒店。",
+          "留酒店：沙灘、泳池、咖啡店。留意海灘及泳池開放情況。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "下午活動選擇",
+        "url": "#free2"
+      },
+      {
+        "type": "link",
+        "label": "落雨點安排",
+        "url": "#rain"
+      },
+      {
+        "type": "link",
+        "label": "Day 2 建議時間表",
+        "url": "#recommend2"
+      }
+    ]
+  },
+  {
+    "id": "parasailing",
+    "title": "美溪沙灘拖曳傘｜Parasailing",
+    "subtitle": "Day 2 可選｜未預約，先確認開放",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "由快艇拖住降落傘，慢慢升到海面上空，望住美溪海岸同城市景色。"
+      },
+      {
+        "type": "banner",
+        "text": "尚未確認 27 Oct 營運\n店方網頁顯示「Out of stock」（暫無法網上預訂）。先聯絡店方，再按當日海況決定。"
+      },
+      {
+        "type": "heading",
+        "text": "參考價錢"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "單人：650,000 VND，約 HK$197。",
+          "雙人合共：900,000 VND，約 HK$273。",
+          "店方參考價。雙人同飛、總重量限制、稅項、接送及拍攝費要另確認。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "玩幾耐？"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "網頁列體驗約 15 分鐘；空中時間及等候時間另問店方。",
+          "下午時段列為 14:00–18:00，27 Oct 開放情況未確認。",
+          "交通、登記及等候合共先預留約 2 小時。",
+          "17:15 左右啟程返 Hyatt，目標 18:00 前到。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 2｜確認開放先出發"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "當日上午確認開放、時段及集合點；未有答覆就留酒店休息。",
+          "公司午餐至 14:00，之後先出發。",
+          "拖曳傘 → 有時間飲咖啡 → 18:00 前返酒店 → 19:00 晚餐。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "帶咩？落水安排要先問"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "泳衣或短褲、毛巾、防曬及替換衣物；手機、眼鏡等物品先安排妥善存放。",
+          "店方列有救生衣、吊帶及活動裝備。",
+          "店方示範流程包括降落水面、再接返沙灘；預約時確認實際起降方式，同埋會唔會濕身。",
+          "確認雙人總重量限制、健康及參加要求，以及保險範圍。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "天氣及取消"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "要按現場風浪及雷雨情況決定，上午確認後仍可能取消。",
+          "付款前問清天氣取消點退款、等候太耐可否取消。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Da Nang Outdoor Adventures｜活動、價錢及聯絡",
+        "url": "https://danangadventures.com/product/parasailing/"
+      },
+      {
+        "type": "link",
+        "label": "致電營運商｜+84 935 191 716",
+        "url": "tel:+84935191716"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜美溪沙灘（集合點待店方確認）",
+        "url": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Day 2 海邊休息及後備安排",
+        "url": "#recommend2"
+      },
+      {
+        "type": "link",
+        "label": "四日天氣預報",
+        "url": "#weather"
+      },
+      {
+        "type": "note",
+        "text": "相片係美溪沙灘實景。Google Maps 只顯示沙灘區域，集合點由店方提供。"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜美溪沙灘（集合點待店方確認）",
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
+    },
+    "photo": "new-mykhe"
+  },
+  {
+    "id": "day3",
+    "title": "DAY 3｜巴拿山",
+    "subtitle": "28 OCT · WED｜公司車接送；自行遊覽",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "時間",
+            "公司安排"
+          ],
+          [
+            "08:00-09:00",
+            "早餐"
+          ],
+          [
+            "09:30",
+            "公司車出發往巴拿山"
+          ],
+          [
+            "日間",
+            "巴拿山行程｜自由參加\n纜車及按摩按公司安排；午餐自行揀餐廳"
+          ],
+          [
+            "17:30",
+            "預計結束日間行程\n回程按公司車時間"
+          ],
+          [
+            "19:00-21:00",
+            "歡送晚宴｜必須出席\nVive Océane"
+          ]
+        ],
+        "companyRows": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "遊覽重點"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "天氣好：黃金橋、花園、法國村。",
+          "落雨：Fantasy Park；戶外景點等雨勢減弱先去。",
+          "隨身帶：薄外套、雨衣、防滑鞋、充電器。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "車程約 45-70 分鐘。保存車牌、回程時間及上車位置；預留排隊、纜車及步行時間。"
+      },
+      {
+        "type": "link",
+        "label": "建議遊覽次序",
+        "url": "#bana_route"
+      },
+      {
+        "type": "link",
+        "label": "午餐餐廳及參考價",
+        "url": "#bana_food"
+      },
+      {
+        "type": "link",
+        "label": "刺激遊戲點揀",
+        "url": "#bana_thrills"
+      },
+      {
+        "type": "link",
+        "label": "免費啤酒及糕點｜位置、樓層、兌換步驟",
+        "url": "#bana_treats"
+      }
+    ]
+  },
+  {
+    "id": "bana_play",
+    "title": "巴拿山｜必去景點",
+    "subtitle": "先去黃金橋、法國村，再揀遊戲",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "01｜黃金橋 Golden Bridge"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "必看：巨手托起的金色橋身。",
+          "建議時間：30-45 分鐘。",
+          "位置：山腰區域，前往法國村需轉乘。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "02｜法國村 French Village"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "必看：教堂外觀、廣場及石砌小巷。",
+          "建議時間：45-60 分鐘。",
+          "適合午餐前後慢慢行、影合照。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "03｜Fantasy Park"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "想刺激：自由落體塔；想輕鬆：碰碰車。",
+          "建議時間：45-75 分鐘。",
+          "雨天可先玩室內；收費項目先看價錢。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "04｜其他選擇"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "滑車：Alpine Coaster。",
+          "城堡及廣場：Moon Castle、Eclipse Plaza。",
+          "花園散步：Le Jardin d’Amour。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜景點資訊",
+        "url": "https://sunworld.vn/banahills"
+      },
+      {
+        "type": "link",
+        "label": "刺激遊戲詳細介紹",
+        "url": "#bana_thrills"
+      },
+      {
+        "type": "link",
+        "label": "自己揀午餐餐廳",
+        "url": "#bana_food"
+      }
+    ]
+  },
+  {
+    "id": "bana_lower",
+    "title": "巴拿山｜黃金橋及花園",
+    "subtitle": "建議預留 75-100 分鐘",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "黃金橋由兩隻巨手托起，橋上可以望到山谷。影完相可步行去花園，再轉纜車上法國村。遇薄霧時，集中影巨手、橋身及合照。"
+      },
+      {
+        "type": "heading",
+        "text": "黃金橋 Golden Bridge"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：約 150 米長的金色步道，由兩隻巨手托起。",
+          "晴天：可欣賞山谷及遠山。",
+          "有薄霧：適合拍橋身、巨手與雲霧。"
+        ]
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "影相位：橋頭拍巨手及橋身全景。",
+          "橋上：沿金色欄杆取景，拍出橋身弧線。",
+          "建議時間：30-45 分鐘；影相時不要阻塞通道。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Le Jardin d’Amour 花園"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：不同主題的花壇、雕塑及步道。",
+          "適合：散步、影合照；花種隨季節更換。",
+          "建議時間：25-35 分鐘，可接在黃金橋之後。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Debay 酒窖（另收費）"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：花園區附近。",
+          "特色：參觀酒窖；品酒內容按所選套票。",
+          "Debay 酒窖：100,000 VND 起；飲品按所選套票。預留 15–25 分鐘。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "黃金橋介紹｜Sun World",
+        "url": "https://sunworld.vn/en/banahills/activities/golden-bridge"
+      },
+      {
+        "type": "link",
+        "label": "花園介紹｜Sun World",
+        "url": "https://sunworld.vn/en/banahills/iconic-landmark/discover-the-vibrant-colors-of-ba-na-hills-flower-gardens-all-year-round-28995"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Le Jardin d’Amour 花園",
+        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Jardin%20d%20Amour%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Debay 酒窖",
+        "url": "https://www.google.com/maps/search/?api=1&query=Debay%20Wine%20Cellar%20Ba%20Na%20Hills"
+      }
+    ],
+    "photo": "golden-bridge",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜黃金橋",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Bridge%20Ba%20Na%20Hills%20Da%20Nang"
+    }
+  },
+  {
+    "id": "bana_upper",
+    "title": "巴拿山｜法國村及遊樂區",
+    "subtitle": "法國村・Fantasy Park・滑車・月亮王國",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "法國村有教堂、尖塔、石板街及廣場，適合影相散步。遊戲主要集中喺 Fantasy Park；想玩滑車或參觀月亮王國，可按剩餘時間揀一項。"
+      },
+      {
+        "type": "heading",
+        "text": "法國村"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：尖頂教堂、廣場、城堡外牆及石砌小巷。",
+          "影相位：Saint Denis 教堂外、門廊及小巷。",
+          "建議時間：45-60 分鐘。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Fantasy Park"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "主要遊戲：自由落體塔、碰碰車及動感影院。",
+          "室內遊樂區，適合雨天。",
+          "建議時間：45-75 分鐘；留意身高及參加限制。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Alpine Coaster 滑車"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "玩法：乘滑車沿山坡軌道落山，感受彎道與速度。",
+          "先聽工作人員講解操作，與前車保持距離。",
+          "官方列滑車 70,000 VND；車道及次數看票面，3 號獨立價格未確認。",
+          "雨天可能暫停。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "月亮王國"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "必看：Moon Castle 城堡及 Eclipse Plaza 廣場。",
+          "影相位：廣場邊緣，回望城堡全景。",
+          "體驗：Flying Eyes、Moon Junction；留意場次。",
+          "建議時間：30-45 分鐘。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "遊樂區及月亮王國｜Sun World",
+        "url": "https://sunworld.vn/banahills/tin-tuc-sunworld/sun-world-ba-na-hills-so-do-chi-tiet-huong-dan-tham-quan-tron-ven-2026-19250"
+      },
+      {
+        "type": "heading",
+        "text": "按興趣揀"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "影相：法國村教堂、小巷、月亮王國。",
+          "遊戲：Fantasy Park；有時間再排滑車。",
+          "時間緊：保留黃金橋及法國村。",
+          "落雨：先去室內遊樂區。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "睇建議遊覽次序",
+        "url": "#bana_route"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Fantasy Park",
+        "url": "https://www.google.com/maps/search/?api=1&query=Fantasy%20Park%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Alpine Coaster",
+        "url": "https://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜月亮王國",
+        "url": "https://www.google.com/maps/search/?api=1&query=Moon%20Castle%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "note",
+        "text": "山上搵路用園區圖及路牌；Google Maps 只供查看景點位置。"
+      },
+      {
+        "type": "link",
+        "label": "刺激遊戲詳細玩法及樓層",
+        "url": "#bana_thrills"
+      },
+      {
+        "type": "link",
+        "label": "法國村及月亮王國食飯選擇",
+        "url": "#bana_food"
+      },
+      {
+        "type": "link",
+        "label": "免費啤酒及糕點｜位置、樓層、兌換步驟",
+        "url": "#bana_treats"
+      }
+    ],
+    "photo": "french-village",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜法國村",
+      "url": "https://www.google.com/maps/search/?api=1&query=French%20Village%20Ba%20Na%20Hills%20Da%20Nang"
+    }
+  },
+  {
+    "id": "bana_cost",
+    "title": "巴拿山｜纜車及收費",
+    "subtitle": "園內交通及自費項目",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "纜車路線"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "黃金橋：Hội An 站 → Marseille 站。",
+          "法國村：Bordeaux 站 → Louvre 站。",
+          "另有直達山頂的路線；入站前先看目的地。"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "自費項目",
+            "VND 參考價",
+            "約 HKD"
+          ],
+          [
+            "Alpine Coaster 滑車",
+            "官方列 70,000；車道／次數看票面",
+            "約 21"
+          ],
+          [
+            "Debay 酒窖",
+            "100,000 起",
+            "30"
+          ],
+          [
+            "互動光影館",
+            "150,000",
+            "46"
+          ],
+          [
+            "攀爬項目",
+            "100,000",
+            "30"
+          ],
+          [
+            "Wow Pass",
+            "300,000",
+            "91"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "company",
+        "title": "纜車按公司安排；午餐自行選擇",
+        "items": [
+          "先取公司安排嘅票，唔好重複買入場票。餐券及優惠以實際票面為準。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "24 Jul 2026 官方參考價。滑車 3 號獨立票價未確認；10D 及有獎遊戲另收費。Wow Pass 包含範圍先問清楚，以當日票面為準。"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜官方價目",
+        "url": "https://sunworld.vn/vi/banahills/tin-tuc-sunworld/bang-gia-ve-va-dich-vu-tai-sun-world-ba-na-hills-nam-2026-19796"
+      },
+      {
+        "type": "link",
+        "label": "午餐食店及參考價",
+        "url": "#bana_food"
+      },
+      {
+        "type": "link",
+        "label": "邊啲遊戲入場後不另收費？",
+        "url": "#bana_thrills"
+      },
+      {
+        "type": "link",
+        "label": "免費啤酒及糕點｜位置、樓層、兌換步驟",
+        "url": "#bana_treats"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜巴拿山入口",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sun%20World%20Ba%20Na%20Hills%20entrance%20Da%20Nang"
+    }
+  },
+  {
+    "id": "map",
+    "title": "巴拿山｜園區地圖",
+    "subtitle": "Sun World 2025.06 中文原圖",
+    "blocks": []
+  },
+  {
+    "id": "map_help",
+    "title": "巴拿山｜地圖索引",
+    "subtitle": "景點名稱、編號及手機地圖",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "地圖編號",
+            "景點"
+          ],
+          [
+            "B2-8",
+            "Golden Bridge 黃金橋"
+          ],
+          [
+            "B2-10 / B2-11",
+            "Le Jardin d’Amour 花園 / Debay 酒窖"
+          ],
+          [
+            "A2",
+            "Fantasy Park"
+          ],
+          [
+            "A3 / A4",
+            "Alpine Coaster 1 / 2"
+          ],
+          [
+            "A8 / A10",
+            "Saint Denis 教堂 / Helios 瀑布"
+          ],
+          [
+            "B1-1 / B1-5",
+            "Moon Castle / Eclipse Plaza"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "note",
+        "text": "現有原圖為 2025 年 6 月版。官網 2026 年新增滑車 3 號入口在 Fantasy Park B1，舊圖可能未標示；以現場及官方 App 地圖為準。"
+      },
+      {
+        "type": "heading",
+        "text": "手機地圖"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "下載 Sun Paradise Land App，開啟巴拿山地圖。",
+          "可搜尋纜車站、餐廳及洗手間。",
+          "保存回程纜車站及停車場位置。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "完整園區地圖（按此開啟）",
+        "url": "https://hoiandaytrip.com/wp-content/uploads/2024/11/Flyer-SW-BaNa-Chi-6.2025-02-scaled.jpg"
+      },
+      {
+        "type": "link",
+        "label": "Sun Paradise Land App 及 QR 優惠",
+        "url": "https://sunworld.vn/en/banahills/vouchers/ba-na-hills-visitors-can-enjoy-free-bus-transfers-from-da-nang-24412"
+      },
+      {
+        "type": "note",
+        "text": "門票優惠用 QR code 兌換；可用項目以票上所列為準。"
+      },
+      {
+        "type": "link",
+        "label": "官方｜滑車 1、2、3 號位置",
+        "url": "https://sunworld.vn/en/banahills/activities/tube-sliding-boards"
+      },
+      {
+        "type": "link",
+        "label": "免費啤酒及糕點｜位置、樓層、兌換步驟",
+        "url": "#bana_treats"
+      }
+    ]
+  },
+  {
+    "id": "day4",
+    "title": "DAY 4｜半日自由行選擇",
+    "subtitle": "活動未決定｜選一個主要景點，再安排食法包及河粉",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "景點",
+            "特色",
+            "時間／門票"
+          ],
+          [
+            "占婆雕刻博物館",
+            "歷史、雕刻；雨天亦適合",
+            "60-90 分鐘\n60,000 VND"
+          ],
+          [
+            "韓市場及市中心",
+            "買手信、飲咖啡、食河粉",
+            "60-90 分鐘\n消費另計"
+          ],
+          [
+            "五行山",
+            "洞穴、寺廟及觀景位",
+            "約 2 小時\n40,000 VND"
+          ],
+          [
+            "山茶靈應寺",
+            "觀音像及海景",
+            "約 1 小時\n一般免費"
+          ],
+          [
+            "美溪沙灘",
+            "海邊散步、影相",
+            "30-45 分鐘"
+          ],
+          [
+            "會安古城",
+            "古屋、會館及河岸",
+            "2-2.5 小時\n古城票 120,000 VND"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "怎樣選？"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "A 市區：博物館、韓市場、法包及河粉。",
+          "B 五行山：洞穴、寺廟及觀景位。",
+          "C 山茶：靈應寺、觀音像及海景。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜2026 景點票價",
+        "url": "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites"
+      },
+      {
+        "type": "link",
+        "label": "Day 4 建議時間表",
+        "url": "#recommend4"
+      }
+    ]
+  },
+  {
+    "id": "day4a",
+    "title": "Day 4｜市區半日遊",
+    "subtitle": "建議時間表｜包車及行李安排未落實",
+    "blocks": [
+      {
+        "type": "table",
+        "rows": [
+          [
+            "建議時間",
+            "安排"
+          ],
+          [
+            "07:30–08:15",
+            "酒店早餐，食少量。"
+          ],
+          [
+            "08:30–09:00",
+            "退房、上車及放行李；車輛須預先安排。"
+          ],
+          [
+            "09:20–09:50",
+            "Ông Phú Đạt：分享燒豬肉法包；太飽可略過。"
+          ],
+          [
+            "10:15–11:30",
+            "占婆雕刻博物館，預留約 60–75 分鐘。"
+          ],
+          [
+            "11:45–12:30",
+            "Phở Cù Hà Nội 食河粉（建議，可再揀）。"
+          ],
+          [
+            "12:30–13:00",
+            "等車及交通緩衝，唔再加景點。"
+          ],
+          [
+            "13:00 左右",
+            "離開市區，直接前往機場；大雨或塞車就更早走。"
+          ],
+          [
+            "目標 13:30–14:00",
+            "到 DAD T2；為 16:50 HX549 留足時間。"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "company",
+        "title": "公司機場車：13:30",
+        "items": [
+          "本日不乘公司車，自行前往機場。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "以上以行李隨車為前提；寄存 Hyatt 時改用推薦頁嘅取行李版本。雨勢大時直接減站、提早去機場。"
+      }
+    ]
+  },
+  {
+    "id": "day4bc",
+    "title": "DAY 4｜其他路線",
+    "subtitle": "可選路線示例；未決定、未訂車",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "B｜五行山、法包及河粉"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "07:00：酒店早餐。",
+          "07:45-09:45：五行山。",
+          "10:00-10:45：返酒店沖涼、退房。",
+          "11:15 食法包 → 12:15 食河粉 → 13:00 往機場。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "C｜山茶靈應寺及海景"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "08:00：退房。",
+          "09:00-10:00：山茶靈應寺。",
+          "10:40 食法包 → 飲咖啡 → 12:15 食河粉。",
+          "13:00：出發往機場；行李隨車須預先安排。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "會安｜半日行程"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "07:30：退房出發；08:15-10:30：會安古城。",
+          "11:00：離開會安，返峴港食午餐，再去機場。",
+          "這條路線不另加五行山或山茶；暴雨時改行市區。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "車程按當日交通而定。29 Oct 周四日間沒有龍橋噴火／噴水表演。"
+      }
+    ]
+  },
+  {
+    "id": "marble_detail",
+    "title": "五行山｜洞穴及寺廟",
+    "subtitle": "Day 4 可選｜建議約 2 小時；要行石級",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "五行山主要參觀水山，沿途有洞穴、佛寺及觀景台。玄空洞最值得睇：天然光由洞頂照入，映住石壁同佛像。搭升降機上山後，仍然要行石級。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "由五座石灰岩山組成，以金、木、水、火、土命名。",
+          "主要遊覽水山 Thủy Sơn，集中看洞穴及佛寺。",
+          "石級較多，適合穿防滑運動鞋。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "必看｜玄空洞 Huyền Không"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：洞頂透入天然光，照在石壁及佛像上。",
+          "晴天可能見到光束；陰雨天洞內較暗。",
+          "先讓眼睛適應光線，再慢慢行，留意石級。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "寺廟及觀景位"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "三台寺 Tam Thai：看寺廟、在庭院休息。",
+          "山上靈應寺及舍利塔：看建築及海岸景色。",
+          "五行山靈應寺與山茶靈應寺是兩個不同景點。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "建議路線"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "水山 → 靈應寺及舍利塔 → 玄空洞 → 三台寺。",
+          "按入口及升降機位置調整方向。",
+          "建議預留兩小時，不必行齊每個洞窟。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "水山門票 40,000 VND；升降機單程 15,000 VND；陰府洞另收 20,000 VND。"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜五行山",
+        "url": "https://www.google.com/maps/search/?api=1&query=The%20Marble%20Mountains%20Thuy%20Son%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "景點介紹｜Vietnam Tourism",
+        "url": "https://vietnam.travel/things-to-do/around-marble-mountains/"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "由 Hyatt 出發較近，可朝早去，再返酒店換衫退房。",
+          "如果落大雨、鞋底唔防滑，或者當日想輕鬆啲，可以改去博物館。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "開放時間：07:00–17:00。穿防滑鞋，帶水；入寺衣著端莊。雨天石級濕滑，可改去博物館。"
+      }
+    ],
+    "photo": "marble-cave",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜五行山",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Marble%20Mountains%20Da%20Nang"
+    }
+  },
+  {
+    "id": "sontra_detail",
+    "title": "山茶｜觀音像及海景",
+    "subtitle": "Day 4 可選｜寺院及海景；建議 60–75 分鐘",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "山茶靈應寺最出名係白色觀音像。寺院面向海灣，可以行庭院、睇羅漢像，再到平台影海岸及城市全景。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：沿海公路、面海寺院及白色觀音像。",
+          "適合：看海、影相、慢慢逛寺院。",
+          "建議時間：60-75 分鐘。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "必看位置"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "觀音像：高約 67 米，是寺院最著名的地標。",
+          "庭院：盆景、羅漢像及門樓，值得細看雕刻。",
+          "面海平台：可拍海灣、沙灘及峴港市景。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "步行路線"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "停車區 → 寺門及庭院 → 主殿 → 觀音像 → 平台。",
+          "進主殿按現場規定脫鞋，保持安靜。",
+          "影相時不要阻塞通道或打擾禮佛。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "沿途風景"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "沿途可欣賞海岸線，拍照只在安全位置停車。",
+          "回程可去美溪一帶食法包、飲咖啡。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "寺院一般免費；停車另計。帶水及防曬用品，遇大雨或濃霧可改去博物館。"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜山茶靈應寺",
+        "url": "https://www.google.com/maps/search/?api=1&query=Linh%20Ung%20Bai%20But%20Pagoda%20Son%20Tra%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "景點介紹｜Da Nang Fantasticity",
+        "url": "https://danangfantasticity.com/en/culture/linh-ung-pagoda"
+      }
+    ],
+    "photo": "sontra-statue",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜山茶靈應寺",
+      "url": "https://www.google.com/maps/search/?api=1&query=Linh%20Ung%20Bai%20But%20Pagoda%20Son%20Tra%20Da%20Nang"
+    }
+  },
+  {
+    "id": "city_detail",
+    "title": "市中心｜博物館及河岸",
+    "subtitle": "占婆雕刻博物館・韓市場・龍橋",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "★ 推薦行程及時間表",
+        "url": "#recommend4"
+      },
+      {
+        "type": "intro",
+        "text": "占婆雕刻博物館收藏神像、動物石雕及祭壇浮雕。預留一小時睇美山、茶嶠及同陽展區，再到市區食河粉。有時間先加韓市場。"
+      },
+      {
+        "type": "heading",
+        "text": "占婆雕刻博物館"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：占婆神像、動物雕塑及石刻裝飾。",
+          "作品可見印度教及佛教的影響。",
+          "適合：喜歡歷史、建築及雕刻；雨天亦適合。"
+        ]
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "重點展區：美山、茶嶠、同陽。",
+          "細看雕像手勢、服飾及浮雕細節。",
+          "建議時間：60-90 分鐘；門票約 60,000 VND。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "韓市場｜買手信"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "買甚麼：咖啡、乾果、零食及小手信。",
+          "先行一圈格價；買衣物及紀念品前先問清價錢。",
+          "食品看有效日期；建議預留 30-45 分鐘。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "龍橋及韓江｜散步、影相"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：黃色龍形橋身橫跨韓江。",
+          "影相位：河岸可拍到整座橋。",
+          "可在博物館後順路行一陣，預留 15-20 分鐘。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "回程日 13:00 左右出發去機場。"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜博物館",
+        "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Museum%20of%20Cham%20Sculpture"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜韓市場",
+        "url": "https://www.google.com/maps/search/?api=1&query=Han%20Market%20119%20Tran%20Phu%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "博物館展區介紹",
+        "url": "https://centralvietnamguide.com/da-nang-museum-of-cham-sculpture/"
+      },
+      {
+        "type": "heading",
+        "text": "第一次入博物館可以點睇"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先看展廳地圖，揀美山、茶嶠或同陽展區。",
+          "留意象頭神、舞者、祭壇浮雕，配合英文展品說明參觀。",
+          "部分空間沒有冷氣。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "博物館參考開放時間 07:30–17:00；地址 02 Đường 2 Tháng 9。韓市場地址 119 Trần Phú。"
+      },
+      {
+        "type": "note",
+        "text": "你哋旅程係星期一至四；龍橋恆常噴火噴水表演主要於星期五至日 21:00，今次唔預排表演。特別加場以官方公告為準。"
+      },
+      {
+        "type": "link",
+        "label": "景點票價｜峴港旅遊局",
+        "url": "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites"
+      },
+      {
+        "type": "link",
+        "label": "龍橋表演時間｜峴港旅遊局",
+        "url": "https://danangfantasticity.com/en/key-times-to-save-for-your-da-nang-travel-itinerary"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜龍橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Bridge%20Da%20Nang"
+      }
+    ],
+    "photo": "cham-sculpture",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜占婆雕刻博物館",
+      "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Museum%20of%20Cham%20Sculpture%202%20Duong%202%20Thang%209"
+    }
+  },
+  {
+    "id": "hoian_detail",
+    "title": "會安｜古屋及河岸",
+    "subtitle": "Day 4 較遠選項｜早出發；古城停留約 2–2.5 小時",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "會安以前係商港，老街保留黃牆古屋、木門窗、會館同河岸。早上適合散步、參觀古屋及飲咖啡；回程日只能安排早上，睇唔到晚間燈籠。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "背景：昔日商港，保留中、日及歐洲文化的痕跡。",
+          "特色：黃牆古屋、木門窗、燈籠及河岸。",
+          "早上適合行古城、影相、飲咖啡。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "日本橋 Chùa Cầu"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "特色：有瓦頂的古橋，連接老街兩側。",
+          "亦是 20,000 越南盾鈔票上的地標。",
+          "先在橋外拍全景，再按門票範圍入內參觀。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "古屋及會館"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "進記古宅 Tan Ky：傳統商人住宅、木構及院落。",
+          "福建會館 Phúc Kiến：華人會館及祭祀建築。",
+          "半日遊可選其中一間，其餘時間行老街。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "散步路線"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "日本橋 → Trần Phú 老街 → 古屋或會館。",
+          "再到 Bạch Đằng 河岸散步、飲咖啡。",
+          "影相可留意黃牆、木門及騎樓；小心單車。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "回程日建議 07:30 出發、11:00 離開會安。古城票約 120,000 VND，參觀範圍按門票所列。"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜會安古城",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Ancient%20Town"
+      },
+      {
+        "type": "link",
+        "label": "會安介紹｜Vietnam Tourism",
+        "url": "https://vietnam.travel/things-to-do/the-best-ways-to-explore-the-ancient-town-of-hoi-an"
+      },
+      {
+        "type": "heading",
+        "text": "適唔適合今次"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "適合：想睇古屋、古橋及老街，願意早起。",
+          "07:30 出發，11:00 離開會安；車輛及行李要預先安排。",
+          "下大雨或道路積水就取消，改留峴港。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Hyatt → 會安先預 35–50 分鐘；會安 → 峴港機場先預 50–75 分鐘，屬行程估算，未計突發交通或大雨。建議 11:00 離開會安。"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜日本橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Japanese%20Covered%20Bridge%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜進記古宅",
+        "url": "https://www.google.com/maps/search/?api=1&query=Tan%20Ky%20Old%20House%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜福建會館",
+        "url": "https://www.google.com/maps/search/?api=1&query=Phuc%20Kien%20Assembly%20Hall%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Bạch Đằng 河岸",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bach%20Dang%20Hoi%20An"
+      }
+    ],
+    "photo": "hoian",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜會安古城",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Ancient%20Town%20Vietnam"
+    }
+  },
+  {
+    "id": "food",
+    "title": "法包及越南河粉",
+    "subtitle": "分開比較，按口味揀",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "法包：峴港揀 Ông Phú Đạt；有去會安就優先 Madam Khanh。河粉：今次比較後優先 Phở Cù Hà Nội。"
+      },
+      {
+        "type": "link",
+        "label": "法包｜三間介紹及地圖",
+        "url": "#food_banhmi"
+      },
+      {
+        "type": "link",
+        "label": "越南河粉｜三間介紹及地圖",
+        "url": "#food_pho"
+      },
+      {
+        "type": "link",
+        "label": "推薦依據及食評限制",
+        "url": "#food_references"
+      }
+    ]
+  },
+  {
+    "id": "wishlist",
+    "title": "餐廳及購物",
+    "subtitle": "有時間再去；價錢為預算，請以店內餐牌為準",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Bánh Xèo Bà Dưỡng｜越式煎餅"
+      },
+      {
+        "type": "intro",
+        "text": "越式煎餅切成小塊，加蔬菜香草，用米紙包住再蘸醬。Bà Dưỡng 喺巷入面，搵店要睇清門牌。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "兩人先叫一份煎餅，再按胃口加烤肉串。",
+          "停留約 45–60 分鐘；兩人預算 150,000–250,000 VND。",
+          "帶現金；蘸醬含花生及豬肉，有敏感要先問清。"
+        ]
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：K280/23 Hoàng Diệu（巷內）。",
+          "營業時間：每日 09:30–21:30。",
+          "可取代 Day 4 其中一餐。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜煎餅店",
+        "url": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20X%C3%A8o%20B%C3%A0%20D%C6%B0%E1%BB%A1ng%20K280/23%20Ho%C3%A0ng%20Di%E1%BB%87u"
+      },
+      {
+        "type": "heading",
+        "text": "Phin Cũ Coffee"
+      },
+      {
+        "type": "intro",
+        "text": "懷舊咖啡店，有木傢俬及較安靜嘅座位。適合 Day 2 購物後休息，試滴漏咖啡或鹽咖啡。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "cà phê sữa đá：冰煉奶咖啡。",
+          "cà phê đen đá：冰黑咖啡；少甜講 ít đường。",
+          "cà phê muối：鹽咖啡，供應看餐牌。"
+        ]
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：04 An Cư 6。",
+          "每杯預算 30,000–60,000 VND；停留 30–45 分鐘。",
+          "營業時間未確認；出發前查看地圖。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜咖啡店",
+        "url": "https://www.google.com/maps/search/?api=1&query=Phin%20C%C5%A9%20Coffee%204%20An%20C%C6%B0%206%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "heading",
+        "text": "Cornpink House｜內衣及泳裝"
+      },
+      {
+        "type": "intro",
+        "text": "越南本地內衣、泳裝及睡衣店；有蕾絲、棉質、碎花及兩件頭款式。Day 2 下午可安排 30–45 分鐘逛店。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：10 Mỹ Đa Đông 10；官網時間每日 12:00–21:00。",
+          "泳裝舊款網上標價約 280,000–400,000 VND，現場售價及現貨未確認。",
+          "官網換貨政策只換上身、不換下身；店內試身及泳裝規則先問清楚。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "款式、價錢、換貨及行程安排",
+        "url": "#cornpink"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Cornpink House",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cornpink%20House%2010%20My%20Da%20Dong%2010%20Da%20Nang"
+      },
+      {
+        "type": "heading",
+        "text": "Hải Sản SẤM｜海鮮"
+      },
+      {
+        "type": "intro",
+        "text": "海鮮店，可按當日供應揀蝦、貝類、魚或魷魚。落單前先確認重量、煮法同總價。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先問清按公斤、100 克定每份計價。",
+          "秤重後確認食材價錢及加工費，先叫店員煮。",
+          "三晚已有公司晚餐；想食海鮮可改其中一日午餐。"
+        ]
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "參考地址：183–185 Nguyễn Phan Vinh，Sơn Trà。",
+          "地址及營業時間仍待店方確認，出發前先聯絡。",
+          "食海鮮預留約 60–90 分鐘。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜SẤM（地址待確認）",
+        "url": "https://www.google.com/maps/search/?api=1&query=H%E1%BA%A3i%20S%E1%BA%A3n%20S%E1%BA%A4M%20t%C6%B0%C6%A1i%20s%E1%BB%91ng%20b%C3%ACnh%20d%C3%A2n%20%C4%90%C3%80%20N%E1%BA%B4NG"
+      }
+    ]
+  },
+  {
+    "id": "meals27",
+    "title": "餐單｜27 OCT",
+    "subtitle": "紅框為公司餐飲安排｜Darren & Ting 已選菜式",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "12:30-14:00｜公司午餐・必須出席"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Darren｜Menu 3",
+            "Ting｜Menu 2"
+          ],
+          [
+            "烤魷魚及八爪魚\n西班牙辣肉腸、薯仔、芝麻菜",
+            "雞肉凱撒沙律\n羅馬生菜、脆煙肉、麵包粒"
+          ],
+          [
+            "雞肉卷\n綠蘆筍、蘑菇忌廉汁",
+            "香煎鱸魚\n玉米糊、番茄莎莎、羅勒"
+          ],
+          [
+            "椰子芝士蛋糕\n菠蘿、脆粒、熱帶水果醬",
+            "蜂蜜牛奶奶凍\n開心果、牛奶雪糕、蜂蜜薄脆"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": true
+      },
+      {
+        "type": "heading",
+        "text": "19:00-21:00｜Osteria al Mare"
+      },
+      {
+        "type": "note",
+        "text": "公司晚餐・自由參加；兩人已選餐。"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Darren",
+            "Ting"
+          ],
+          [
+            "Linguine ai Gamberi\n蝦意大利扁麵",
+            "Lobster Linguine Arrabbiata\n龍蝦辣番茄扁麵"
+          ],
+          [
+            "Nutella Pizza\n榛子朱古力醬薄餅",
+            "Tiramisu\n提拉米蘇"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": true
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜Osteria al Mare",
+      "url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Mare%20Hyatt%20Regency%20Danang"
+    }
+  },
+  {
+    "id": "meals28",
+    "title": "餐單｜28 OCT",
+    "subtitle": "19:00-21:00｜Vive Océane Beach Club & Restaurant",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "歡送晚宴｜必須出席"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "菜式",
+            "Darren",
+            "Ting"
+          ],
+          [
+            "前菜",
+            "Vegetarian - Fresh Vegetable Spring Roll\n鮮蔬春卷",
+            "Garlic Prawn\n蒜香蝦"
+          ],
+          [
+            "主菜",
+            "Set 2\nHerb-Roasted Chicken\n香草烤雞\n法式燴雜菜、油封蒜頭",
+            "Set 1\nGrilled Beef Flank Steak\n烤牛腹脅扒\n薯蓉、蘑菇、芝麻菜、法式香草蛋黃醬"
+          ],
+          [
+            "甜品",
+            "Warm Chocolate Cake\n暖朱古力蛋糕",
+            "Island Banana Split\n香蕉船"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": true
+      },
+      {
+        "type": "company",
+        "title": "其他公司餐飲",
+        "items": [
+          "26 Oct：歡迎自助晚餐。",
+          "28 Oct：午餐包括在巴拿山行程內。"
+        ]
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜Vive Océane",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vive%20Oceane%20Beach%20Club%20Restaurant%20Hyatt%20Regency%20Danang"
+    }
+  },
+  {
+    "id": "hotel",
+    "title": "酒店｜Hyatt Regency Danang",
+    "subtitle": "Hyatt Regency Danang Resort & Spa",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "★ 沙灘休息、日出日落位置及方向圖",
+        "url": "#sunbeach"
+      },
+      {
+        "type": "link",
+        "label": "★ 酒店附近值得食同玩",
+        "url": "#nearby"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：5 Trường Sa, Ngũ Hành Sơn, Đà Nẵng。",
+          "電話：+84 236 398 1234。"
+        ]
+      },
+      {
+        "type": "company",
+        "title": "公司住宿安排",
+        "items": [
+          "26-29 Oct：三晚住宿，包早餐。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "酒店設施"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "海灘、泳池、花園：適合入住後或下午休息。",
+          "VIE Spa／健身室：營業時間及收費向酒店查詢。"
+        ]
+      },
+      {
+        "type": "company",
+        "title": "公司晚餐地點",
+        "items": [
+          "26 Oct：Xanh House Terrace。",
+          "27 Oct：Osteria al Mare（自由參加）。",
+          "28 Oct：Vive Océane Beach Club & Restaurant。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Osteria 平日早餐 06:30-10:30；早餐餐廳以入住安排為準。"
+      },
+      {
+        "type": "link",
+        "label": "酒店地圖（按此開啟）",
+        "url": "https://www.hyatt.com/content/dam/hotel/propertysites/assets/regency/danhr/documents/en_us/home/Resort-Maps.pdf"
+      },
+      {
+        "type": "link",
+        "label": "Hyatt｜餐廳資訊",
+        "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa/dining"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜酒店",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜Hyatt 酒店",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+    }
+  },
+  {
+    "id": "cash",
+    "title": "USD 350｜換錢及預算",
+    "subtitle": "銀行現鈔參考：24 Oct 2026｜唔係保證兌換價",
+    "blocks": [
+      {
+        "type": "banner",
+        "text": "USD 350 約值 HK$2,700\n按銀行美元現鈔買入價，可換約\n8,963,500 VND（896 萬越南盾）"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Vietcombank 參考：1 USD 現鈔買入價＝25,610 VND。",
+          "旅途心算：100,000 VND 約 HK$30。",
+          "實收金額看找換櫃位當日美元買入價及手續費。"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "越南盾",
+            "約港幣"
+          ],
+          [
+            "50,000 / 100,000",
+            "HK$15 / HK$30"
+          ],
+          [
+            "500,000 / 1,000,000",
+            "HK$152 / HK$303"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "拖曳傘預算"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "雙人拖曳傘參考價：900,000 VND，約 HK$273。",
+          "按上述匯率換得約 896 萬盾，扣除此費用後餘約 806 萬盾。",
+          "接送、餐飲及其他開支另計；拖曳傘未預約。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "預留小面額現鈔付車費及小食；VAT 及付款方式於預約時確認。"
+      },
+      {
+        "type": "link",
+        "label": "Vietcombank｜現鈔匯率",
+        "url": "https://www.vietcombank.com.vn/en/Personal/Cong-cu-Tien-ich/Ty-gia"
+      },
+      {
+        "type": "link",
+        "label": "XE｜美元／越南盾",
+        "url": "https://www.xe.com/en-us/currencyconverter/convert/?Amount=1&From=USD&To=VND"
+      },
+      {
+        "type": "heading",
+        "text": "USD 350 可以點換"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "可先換 USD 50，按上述參考價約 128 萬盾。",
+          "機場、銀行及持牌找換店可比較實收金額；有疑問可請酒店協助。",
+          "換錢前問清手續費，當面點鈔及保留單據。",
+          "留部分 20,000、50,000、100,000 小鈔。20,000 同 500,000 顏色相近，要睇清面額。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "付款前睇清楚"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "小店準備現金；用信用卡前問有冇附加費。",
+          "ATM 手續費及提款上限看銀行提示。",
+          "餐牌 50k＝50,000 VND，約 HK$15。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "匯率不會自動更新；網站換算器只供心算。"
+      },
+      {
+        "type": "link",
+        "label": "貨幣及付款｜Vietnam Tourism",
+        "url": "https://vietnam.travel/things-to-do/currency-and-payments-vietnam/"
+      },
+      {
+        "type": "link",
+        "label": "機場換錢服務",
+        "url": "https://danangairport.vn/faqs"
+      }
+    ]
+  },
+  {
+    "id": "tips",
+    "title": "越南旅遊提示",
+    "subtitle": "轉插・上網・交通・天氣・入境",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "電源及上網"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "電壓：220V；帶兼容 A／C 插頭的萬用轉插。",
+          "香港三腳插頭未必能直接使用。",
+          "充電器標示 100-240V，一般不用變壓器。",
+          "出發前準備 eSIM／漫遊及離線地圖。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "交通及付款"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "市區可用 Grab；上車先核對車牌及目的地。",
+          "包車先問總價，列明停點、等候及機場接送。",
+          "小店備現金；付款及找續看清鈔票面額。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "十月天氣"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "十月雨水較多，預留室內活動。",
+          "巴拿山較涼，可能有霧；帶薄外套及雨衣。",
+          "穿防滑鞋；拖曳傘及纜車運作視乎天氣。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "入境文件"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "帶齊護照、簽證／入境許可、回程機票及酒店資料。",
+          "入境要求按所持護照及簽證類別而定。",
+          "電子簽證只用官方網站；核對姓名、號碼及日期。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "越南官方 e-Visa",
+        "url": "https://evisa.gov.vn/"
+      },
+      {
+        "type": "link",
+        "label": "Vietnam Tourism｜旅客資訊",
+        "url": "https://vietnam.travel/node/26"
+      }
+    ]
+  },
+  {
+    "id": "checklist",
+    "title": "出發前檢查清單",
+    "subtitle": "出發前及回程前一晚逐項檢查",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "出發前"
+      },
+      {
+        "type": "text",
+        "text": "□ 護照、簽證／入境許可\n□ 機票姓名、行李額、航班時間\n□ 若玩拖曳傘：確認人數、含稅價、接送及取消條款\n□ Day 1 上車時間、位置及聯絡電話"
+      },
+      {
+        "type": "company",
+        "title": "Day 4 自行去機場",
+        "items": [
+          "通知公司接送負責人，不乘 13:30 公司車。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "28 OCT 晚上"
+      },
+      {
+        "type": "text",
+        "text": "□ 揀定 Day 4 路線\n□ 按所選路線訂車，確認行李隨車／酒店寄存\n□ 確認早餐及退房安排\n□ 保存機票、酒店及機場定位"
+      },
+      {
+        "type": "heading",
+        "text": "隨身物品"
+      },
+      {
+        "type": "text",
+        "text": "□ 護照、簽證、登機資料\n□ USD 350、銀行卡、小額越南盾\n□ 手機、充電線、轉插、尿袋\n□ 薄外套、雨衣、運動鞋\n□ 泳衣、防曬、個人藥物"
+      }
+    ]
+  },
+  {
+    "id": "navigation",
+    "title": "導航連結",
+    "subtitle": "按名稱開啟地圖；出發前留意分店及營業時間。",
+    "blocks": [
+      {
+        "type": "note",
+        "text": "按名稱喺 Google Maps 開啟位置；店名及地址已帶入搜尋。未確認位置、活動區域及市場均有註明。"
+      },
+      {
+        "type": "heading",
+        "text": "住宿、機場及公司餐廳"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜DAD 國際航站樓 T2",
+        "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20International%20Airport%20Terminal%202"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Hyatt 酒店",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Xanh House",
+        "url": "https://www.google.com/maps/search/?api=1&query=Xanh%20House%20Hyatt%20Regency%20Danang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Osteria al Mare",
+        "url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Mare%20Hyatt%20Regency%20Danang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Vive Océane",
+        "url": "https://www.google.com/maps/search/?api=1&query=Vive%20Oceane%20Beach%20Club%20Restaurant%20Hyatt%20Regency%20Danang"
+      },
+      {
+        "type": "heading",
+        "text": "景點"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜巴拿山入口",
+        "url": "https://www.google.com/maps/search/?api=1&query=Sun%20World%20Ba%20Na%20Hills%20entrance%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜黃金橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Bridge%20Ba%20Na%20Hills%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Le Jardin d’Amour 花園",
+        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Jardin%20d%20Amour%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Debay 酒窖",
+        "url": "https://www.google.com/maps/search/?api=1&query=Debay%20Wine%20Cellar%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜法國村",
+        "url": "https://www.google.com/maps/search/?api=1&query=French%20Village%20Ba%20Na%20Hills%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Fantasy Park",
+        "url": "https://www.google.com/maps/search/?api=1&query=Fantasy%20Park%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Alpine Coaster",
+        "url": "https://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜月亮王國",
+        "url": "https://www.google.com/maps/search/?api=1&query=Moon%20Castle%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜五行山",
+        "url": "https://www.google.com/maps/search/?api=1&query=The%20Marble%20Mountains%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜山茶靈應寺",
+        "url": "https://www.google.com/maps/search/?api=1&query=Linh%20Ung%20Bai%20But%20Pagoda%20Son%20Tra%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜占婆雕刻博物館",
+        "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Museum%20of%20Cham%20Sculpture%202%20Duong%202%20Thang%209"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜韓市場",
+        "url": "https://www.google.com/maps/search/?api=1&query=Han%20Market%20119%20Tran%20Phu%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜龍橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Bridge%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜會安古城",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Ancient%20Town%20Vietnam"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜日本橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Japanese%20Covered%20Bridge%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜進記古宅",
+        "url": "https://www.google.com/maps/search/?api=1&query=Tan%20Ky%20Old%20House%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜福建會館",
+        "url": "https://www.google.com/maps/search/?api=1&query=Phuc%20Kien%20Assembly%20Hall%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Bạch Đằng 河岸",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bach%20Dang%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜粉紅教堂",
+        "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Cathedral%20156%20Tran%20Phu%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜美溪沙灘",
+        "url": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜情人橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Love%20Bridge%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜山茶夜市（核對最新位置）",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cho%20Dem%20Son%20Tra%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜迦南島椰林",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bay%20Mau%20Coconut%20Forest%20Cam%20Thanh%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜美山聖地",
+        "url": "https://www.google.com/maps/search/?api=1&query=My%20Son%20Sanctuary%20Vietnam"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜美溪沙灘（集合點待店方確認）",
+        "url": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
+      },
+      {
+        "type": "heading",
+        "text": "美食及購物"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜燒豬肉法包",
+        "url": "https://www.google.com/maps/search/?api=1&query=Heo%20n%C6%B0%E1%BB%9Bng%20lu%20%C3%94ng%20Ph%C3%BA%20%C4%90%E1%BA%A1t%20128%20Nguy%E1%BB%85n%20Duy%20Hi%E1%BB%87u%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜越南河粉",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20B%E1%BA%AFc%20H%E1%BA%A3i%20185%20Tr%E1%BA%A7n%20Ph%C3%BA%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜煎餅店",
+        "url": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20X%C3%A8o%20B%C3%A0%20D%C6%B0%E1%BB%A1ng%20K280/23%20Ho%C3%A0ng%20Di%E1%BB%87u"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜咖啡店",
+        "url": "https://www.google.com/maps/search/?api=1&query=Phin%20C%C5%A9%20Coffee%204%20An%20C%C6%B0%206%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Cornpink House",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cornpink%20House%2010%20My%20Da%20Dong%2010%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜SẤM（地址待確認）",
+        "url": "https://www.google.com/maps/search/?api=1&query=H%E1%BA%A3i%20S%E1%BA%A3n%20S%E1%BA%A4M%20t%C6%B0%C6%A1i%20s%E1%BB%91ng%20b%C3%ACnh%20d%C3%A2n%20%C4%90%C3%80%20N%E1%BA%B4NG"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Mì Quảng 1A",
+        "url": "https://www.google.com/maps/search/?api=1&query=16.0722697%2C108.2191652"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Cao Lầu Thanh",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cao%20Lau%20Thanh%2026%20Thai%20Phien%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Bún Chả Cá Bà Hờn",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bun%20Cha%20Ca%20Ba%20Hon%20113%2F3%20Nguyen%20Chi%20Thanh%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜北美安市場",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cho%20Bac%20My%20An%20Da%20Nang"
+      },
+      {
+        "type": "heading",
+        "text": "Hyatt 附近｜食玩選擇"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜ICE Galleria（Hyatt 內）",
+        "url": "https://www.google.com/maps/search/?api=1&query=ICE%20Galleria%20Hyatt%20Regency%20Danang%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Baguette（Hyatt 內）",
+        "url": "https://www.google.com/maps/search/?api=1&query=Baguette%20Hyatt%20Regency%20Danang%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Nu Đồ Kitchen",
+        "url": "https://www.google.com/maps/search/?api=1&query=Nu%20Do%20Kitchen%2011/1%20Luu%20Quang%20Thuan%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Hùng 68｜110 Trường Sa",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hung%2068%20Restaurant%20110%20Truong%20Sa%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜五行山入口",
+        "url": "https://www.google.com/maps/search/?api=1&query=The%20Marble%20Mountains%2081%20Huyen%20Tran%20Cong%20Chua%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Non Nuoc 石雕村",
+        "url": "https://www.google.com/maps/search/?api=1&query=Non%20Nuoc%20Stone%20Carving%20Village%20Huyen%20Tran%20Cong%20Chua%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜酒店海灘位置",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+      },
+      {
+        "type": "heading",
+        "text": "海邊休息與日出日落"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Hyatt 酒店／前方沙灘",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Vive Océane 海邊餐廳",
+        "url": "https://www.google.com/maps/search/?api=1&query=Vive%20Oceane%20Beach%20Club%20Hyatt%20Regency%20Danang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Nguyễn Văn Trỗi 步行橋東岸公園",
+        "url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4ng%20vi%C3%AAn%20b%E1%BB%9D%20%C4%90%C3%B4ng%20c%E1%BA%A7u%20Nguy%E1%BB%85n%20V%C4%83n%20Tr%E1%BB%97i%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "link",
+        "label": "日出日落方向地圖",
+        "url": "sun-map.html"
+      },
+      {
+        "type": "heading",
+        "text": "回程機場｜T2"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜峴港機場國際航站樓 T2",
+        "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20International%20Airport%20Terminal%202"
+      },
+      {
+        "type": "link",
+        "label": "T2 官方樓層圖及店舖位置",
+        "url": "https://danangairport.vn/airport-guide-terminal-2"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Madam Khanh — The Banh Mi Queen",
+        "url": "https://www.google.com/maps/search/?api=1&query=Madam%20Khanh%20115%20Tran%20Cao%20Van%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Bánh Mì Phượng",
+        "url": "https://www.google.com/maps/search/?api=1&query=Banh%20Mi%20Phuong%202B%20Phan%20Chau%20Trinh%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Phở Cù Hà Nội",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Cu%20Ha%20Noi%2005%20Tran%20Quoc%20Toan%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Phở Thìn Đà Nẵng",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Thin%2060%20Pasteur%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Phở Bắc Hải",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Bac%20Hai%20185%20Tran%20Phu%20Da%20Nang"
+      },
+      {
+        "type": "heading",
+        "text": "巴拿山｜餐廳"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Brasserie Restaurant",
+        "url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Restaurant%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Beer Plaza",
+        "url": "https://www.google.com/maps/search/?api=1&query=Beer%20Plaza%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Rosa Fried Chicken",
+        "url": "https://www.google.com/maps/search/?api=1&query=Rosa%20Fried%20Chicken%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Four Seasons Restaurant",
+        "url": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Restaurant%20Ba%20Na%20Hills"
+      }
+    ]
+  },
+  {
+    "id": "sources",
+    "title": "實用網站｜景點及交通",
+    "subtitle": "資料覆核：25 Oct 2026｜價格及開放時間可能調整",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "香港航空｜T2 資訊",
+        "url": "https://www.hongkongairlines.com/webfile/static/pdf/Check-in%20counter%20relcoation%20to%20T2%20FAQ%20-%20EN.pdf?siteId=6"
+      },
+      {
+        "type": "link",
+        "label": "香港航空｜DAD 機場手續",
+        "url": "https://content.hongkongairlines.com/en_US/airport-information/worldwide/airportinfo"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜2026 園區路線",
+        "url": "https://sunworld.vn/banahills/tin-tuc-sunworld/sun-world-ba-na-hills-so-do-chi-tiet-huong-dan-tham-quan-tron-ven-2026-19250"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜2026 價目",
+        "url": "https://sunworld.vn/vi/banahills/tin-tuc-sunworld/bang-gia-ve-va-dich-vu-tai-sun-world-ba-na-hills-nam-2026-19796"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜電子地圖及 QR 優惠",
+        "url": "https://sunworld.vn/en/banahills/vouchers/ba-na-hills-visitors-can-enjoy-free-bus-transfers-from-da-nang-24412"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜2025.06 中文地圖",
+        "url": "https://hoiandaytrip.com/wp-content/uploads/2024/11/Flyer-SW-BaNa-Chi-6.2025-02-scaled.jpg"
+      },
+      {
+        "type": "link",
+        "label": "Da Nang Outdoor Adventures｜拖曳傘資料及聯絡",
+        "url": "https://danangadventures.com/product/parasailing/"
+      },
+      {
+        "type": "link",
+        "label": "Hyatt｜餐飲及酒店位置",
+        "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa/dining"
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜2026 景點收費",
+        "url": "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites"
+      },
+      {
+        "type": "link",
+        "label": "Vietnam Tourism｜五行山",
+        "url": "https://vietnam.travel/things-to-do/around-marble-mountains/"
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜靈應寺",
+        "url": "https://danangfantasticity.com/en/culture/linh-ung-pagoda"
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜龍橋表演時間",
+        "url": "https://danangfantasticity.com/en/key-times-to-save-for-your-da-nang-travel-itinerary"
+      },
+      {
+        "type": "link",
+        "label": "機場設施及換錢",
+        "url": "https://danangairport.vn/faqs"
+      },
+      {
+        "type": "link",
+        "label": "越南菜式介紹",
+        "url": "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/"
+      },
+      {
+        "type": "link",
+        "label": "峴港美食介紹",
+        "url": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/"
+      },
+      {
+        "type": "link",
+        "label": "緊急求助電話",
+        "url": "https://www.gov.uk/foreign-travel-advice/vietnam/getting-help"
+      },
+      {
+        "type": "link",
+        "label": "寫作結構參考｜永安峴港攻略",
+        "url": "https://www.wingontravel.com/discovery/content/danang-hoian-pure-play-guide.html"
+      },
+      {
+        "type": "heading",
+        "text": "今次新增參考"
+      },
+      {
+        "type": "link",
+        "label": "旅行團路線及選擇",
+        "url": "#tour_ideas"
+      },
+      {
+        "type": "link",
+        "label": "廣南麵｜MICHELIN",
+        "url": "https://guide.michelin.com/vn/en/article/features/what-is-mi-quang"
+      },
+      {
+        "type": "link",
+        "label": "會安美食｜Vietnam Tourism",
+        "url": "https://beta-v2.vietnam.travel/things-to-do/explore-food-hoi-an"
+      },
+      {
+        "type": "heading",
+        "text": "25 Oct 天氣及酒店附近資料"
+      },
+      {
+        "type": "link",
+        "label": "四日天氣：來源及查閱日期",
+        "url": "#weather"
+      },
+      {
+        "type": "link",
+        "label": "酒店附近：逐項來源及地圖",
+        "url": "#nearby"
+      },
+      {
+        "type": "link",
+        "label": "日出日落時間、方位及景點來源",
+        "url": "#sunbeach"
+      },
+      {
+        "type": "heading",
+        "text": "峴港機場 T2｜25 Oct 核對"
+      },
+      {
+        "type": "link",
+        "label": "餐飲及店舖位置",
+        "url": "https://danangairport.vn/experiences-dine?t=2"
+      },
+      {
+        "type": "link",
+        "label": "購物及手信",
+        "url": "https://danangairport.vn/experiences-shop?t=2"
+      },
+      {
+        "type": "link",
+        "label": "Vanda Lounge 官方價目",
+        "url": "https://danangairport.vn/lounge-detail-page/lounges-detail?sid=16"
+      },
+      {
+        "type": "link",
+        "label": "休息設施",
+        "url": "https://danangairport.vn/experiences-relax"
+      },
+      {
+        "type": "heading",
+        "text": "今次覆核來源"
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜2026 景點開放時間及收費",
+        "url": "https://danangfantasticity.com/cn/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites"
+      },
+      {
+        "type": "link",
+        "label": "MICHELIN｜Bánh Xèo Bà Dưỡng",
+        "url": "https://guide.michelin.com/gb/en/da-nang-region/da-nang_2984390/restaurant/banh-xeo-ba-duong"
+      },
+      {
+        "type": "link",
+        "label": "MICHELIN｜Mì Quảng 1A",
+        "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/mi-quang-1a"
+      },
+      {
+        "type": "link",
+        "label": "MICHELIN｜Nu Đồ Kitchen",
+        "url": "https://guide.michelin.com/us/en/da-nang-region/da-nang_2984390/restaurant/nu-%C4%91o-kitchen"
+      },
+      {
+        "type": "link",
+        "label": "MICHELIN｜Bún Chả Cá Bà Hờn",
+        "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/bun-cha-ca-hon"
+      },
+      {
+        "type": "heading",
+        "text": "巴拿山｜食飯及遊戲（25 Oct 覆核）"
+      },
+      {
+        "type": "link",
+        "label": "官方｜餐廳與單點參考價",
+        "url": "https://sunworld.vn/banahills/cam-nang-du-lich/cam-nang-du-lich-ba-na-hills"
+      },
+      {
+        "type": "link",
+        "label": "官方｜自助餐午餐價及時段",
+        "url": "https://sunworld.vn/vi/banahills/an-choi/7-nha-hang-buffet-tai-ba-na-hills-sieu-hap-dan-nhat-dinh-phai-thu"
+      },
+      {
+        "type": "link",
+        "label": "官方｜遊戲規則",
+        "url": "https://sunworld.vn/en/banahills/sunworld-news/game-and-ride-rules-in-fantasy-parkhtml"
+      },
+      {
+        "type": "link",
+        "label": "官方｜滑車最新位置",
+        "url": "https://sunworld.vn/en/banahills/activities/tube-sliding-boards"
+      }
+    ]
+  },
+  {
+    "id": "source-food",
+    "title": "實用網站｜餐飲及生活",
+    "subtitle": "營業時間及價錢以店方當日資料為準。",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "Ông Phú Đạt｜店舖資料",
+        "url": "https://www.momo.vn/page/9850530"
+      },
+      {
+        "type": "link",
+        "label": "Ông Phú Đạt｜法包參考價",
+        "url": "https://motorbikedanang.com/blog/banh-mi-ong-phu-dat-da-nang"
+      },
+      {
+        "type": "link",
+        "label": "Phở Bắc Hải｜店舖資料",
+        "url": "https://www.momo.vn/page/9830327"
+      },
+      {
+        "type": "link",
+        "label": "Bà Dưỡng｜地址及營業時間",
+        "url": "https://visitdanang.travel/vi/banh-xeo-ba-duong"
+      },
+      {
+        "type": "link",
+        "label": "Phin Cũ｜地址及營業時間",
+        "url": "https://danang.coffee/phin-cu-cafe/"
+      },
+      {
+        "type": "link",
+        "label": "Cornpink｜店舖資料",
+        "url": "https://cornpinkhouse.info/do-lot-da-nang/"
+      },
+      {
+        "type": "link",
+        "label": "Vietcombank｜現鈔匯價",
+        "url": "https://www.vietcombank.com.vn/en/Personal/Cong-cu-Tien-ich/Ty-gia"
+      },
+      {
+        "type": "link",
+        "label": "XE｜USD／HKD",
+        "url": "https://www.xe.com/en-us/currencyconverter/convert/?Amount=1&From=USD&To=HKD"
+      },
+      {
+        "type": "link",
+        "label": "Wise｜HKD／VND",
+        "url": "https://wise.com/vn/currency-converter/hkd-to-vnd-rate"
+      },
+      {
+        "type": "link",
+        "label": "Vietnam Tourism｜貨幣及付款",
+        "url": "https://www.vietnam.travel/things-to-do/currency-and-payments-vietnam"
+      },
+      {
+        "type": "link",
+        "label": "Grab｜包時租車",
+        "url": "https://www.grab.com/vn/en/transport/rent/"
+      },
+      {
+        "type": "link",
+        "label": "餐廳口碑比較及 Google 覆核說明",
+        "url": "#food_references"
+      },
+      {
+        "type": "link",
+        "label": "Cornpink｜換貨政策",
+        "url": "https://cornpinkhouse.info/trang-chinh-sach-bao-hanh-va-doi-tra/"
+      }
+    ]
+  },
+  {
+    "id": "bana_route",
+    "title": "巴拿山｜點玩先唔嘥時間",
+    "subtitle": "公司 09:30 出發｜午餐自行揀餐廳",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "上山先睇天氣同纜車到邊區；同區玩完先轉區。你哋鍾意刺激，我會保留黃金橋影相、自由落體，再按天氣加山坡滑車。"
+      },
+      {
+        "type": "company",
+        "title": "公司接送及行程",
+        "items": [
+          "09:30 公司車出發；日間行程預計至 17:30，實際回程集合按公司通知。",
+          "纜車及按摩按公司安排；午餐自行揀餐廳。",
+          "記低車牌、停車場及集合時間；19:00 返酒店出席歡送晚宴。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "天氣清晰：黃金橋先影相"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "若開放：山腳 Hội An 站 → Marseille 站，到黃金橋。",
+          "黃金橋建議 30–45 分鐘；花園再留 20–30 分鐘。想多玩遊戲，花園可以短逛，酒窖可略過。",
+          "跟 Bordeaux → Louvre 指示轉上法國村；若先搭直達山頂線，就調轉兩區次序。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "去到山頂：先玩，再食午餐"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Fantasy Park 自由落體塔 → 睇滑車隊伍；戶外開放而隊伍可接受先玩。",
+          "滑車不一定要三條玩晒；想省時間揀一條已足夠。",
+          "午餐揀法國村一帶 Brasserie、Rosa 或 Beer Plaza，減少為食飯折返。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "食完：影相同較輕鬆嘅體驗"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "法國村：教堂外、石砌小巷及廣場，預留 30–45 分鐘影合照。",
+          "想去月亮城堡：留約 45–60 分鐘，再揀 Flying Eyes 或 Moon Junction。",
+          "時間緊就保留黃金橋＋法國村＋兩款遊戲，唔使每個景點都去。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "落雨／濃霧：調轉次序"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先到 Fantasy Park 玩室內自由落體、5D／4D；戶外景點等雨勢減弱先去。",
+          "雷雨或纜車暫停時按園方安排；室內區亦要先確認能否到達。",
+          "若黃金橋只係薄霧，可影巨手及橋身近景；濃霧就唔好花太多時間等山景。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "省錢同省時間"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先睇實際門票／QR 優惠，確認可兌換項目及時段，唔假設公司票包所有優惠。",
+          "Wow Pass 官方參考 300,000 VND；見到實際隊長，問清包邊條纜車或遊戲先決定，唔等於所有遊戲免費。",
+          "用園區原圖或 Sun Paradise Land App eMap 搵餐廳及站名，Google Maps 只作位置參考。",
+          "按摩如果有固定時間，前後留緩衝；實際預約時間未確認。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "回程預留時間"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "建議至少提早 60 分鐘開始排纜車及下山搵車；呢個係行程緩衝，唔係保證一小時到。",
+          "認清回程纜車落邊個山腳站，避免去錯停車場。",
+          "遇大雨、纜車調度或人多，再提早離開。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "餐廳位置及價錢",
+        "url": "#bana_food"
+      },
+      {
+        "type": "link",
+        "label": "刺激遊戲、收費及樓層",
+        "url": "#bana_thrills"
+      },
+      {
+        "type": "link",
+        "label": "真實園區地圖",
+        "url": "#map"
+      },
+      {
+        "type": "link",
+        "label": "2026 官方園區路線",
+        "url": "https://sunworld.vn/banahills/tin-tuc-sunworld/sun-world-ba-na-hills-so-do-chi-tiet-huong-dan-tham-quan-tron-ven-2026-19250"
+      },
+      {
+        "type": "link",
+        "label": "天氣及雨天安排",
+        "url": "#weather"
+      },
+      {
+        "type": "link",
+        "label": "免費啤酒及糕點｜位置、樓層、兌換步驟",
+        "url": "#bana_treats"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜巴拿山入口",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sun%20World%20Ba%20Na%20Hills%20entrance%20Da%20Nang"
+    }
+  },
+  {
+    "id": "free2",
+    "title": "Day 2｜下午活動選擇",
+    "subtitle": "27 Oct 午餐後至傍晚｜18:00 前返酒店",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "沙灘休息；落雨轉咖啡店"
+      },
+      {
+        "type": "link",
+        "label": "日出、晚霞及河邊日落｜地圖",
+        "url": "#sunbeach"
+      },
+      {
+        "type": "link",
+        "label": "睇推薦時間表及後備安排",
+        "url": "#recommend2"
+      },
+      {
+        "type": "link",
+        "label": "25 Oct 查閱：四日天氣及拖曳傘判斷",
+        "url": "#weather"
+      },
+      {
+        "type": "company",
+        "title": "已定公司時間",
+        "items": [
+          "10:00–12:15 培訓；12:30–14:00 午餐。",
+          "19:00–21:00 Osteria al Mare 晚餐；兩人已選餐。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "A｜美溪沙灘拖曳傘"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "快艇拖住降落傘喺海面升空；可問雙人同飛安排。",
+          "網頁顯示 Out of stock，先問 27 Oct 有冇營運。未確認就唔特登出發。",
+          "午餐後最早 14:00 出發；預留交通、準備及等候時間，18:00 前返 Hyatt。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "拖曳傘詳情",
+        "url": "#parasailing"
+      },
+      {
+        "type": "heading",
+        "text": "B｜咖啡及購物"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "建議：14:30 左右出發 → Cornpink House → Phin Cũ Coffee → 17:15 左右啟程返酒店。",
+          "兩店之間搭車；每店留約 30–45 分鐘，交通另預。",
+          "如果想食煎餅，可代替購物或咖啡其中一站，唔好全部硬塞入去。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "咖啡、煎餅及購物",
+        "url": "#wishlist"
+      },
+      {
+        "type": "heading",
+        "text": "C｜博物館及咖啡"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "建議：14:30 左右出發 → 占婆雕刻博物館約 60 分鐘 → 附近飲嘢 → 17:15 左右返酒店。",
+          "適合普通雨天；如果大雨、積水或交通受阻，留酒店休息。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "市區景點",
+        "url": "#city_detail"
+      },
+      {
+        "type": "note",
+        "text": "以上時間係建議，未包含訂車／留位；目標 18:00 前返酒店，留時間沖涼換衫。"
+      },
+      {
+        "type": "heading",
+        "text": "另一個活動選項"
+      },
+      {
+        "type": "link",
+        "label": "椰林竹籃船｜先確認接送時間",
+        "url": "#coconut_detail"
+      },
+      {
+        "type": "link",
+        "label": "美溪沙灘｜輕鬆散步",
+        "url": "#mykhe_detail"
+      },
+      {
+        "type": "link",
+        "label": "Cornpink｜款式、價錢及換貨",
+        "url": "#cornpink"
+      }
+    ]
+  },
+  {
+    "id": "free4",
+    "title": "Day 4｜半日遊選擇",
+    "subtitle": "29 Oct｜13:00 出發去機場",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "★ 雨天首選：占婆博物館＋法包／河粉"
+      },
+      {
+        "type": "link",
+        "label": "睇推薦時間表及後備安排",
+        "url": "#recommend4"
+      },
+      {
+        "type": "note",
+        "text": "29 日預報有雨，優先揀市區博物館；天氣轉好先考慮五行山、山茶或會安。"
+      },
+      {
+        "type": "intro",
+        "text": "四個選擇揀一個，再配一餐。29 日預報有雨，優先考慮市區博物館；包車及行李安排要先落實。"
+      },
+      {
+        "type": "heading",
+        "text": "A｜博物館・法包河粉（雨天首選）"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "早餐／退房 → 法包 → 占婆博物館 → 河粉 → 機場。",
+          "博物館約 60–75 分鐘；兩餐太多可減一餐。",
+          "13:00 出發去機場；當日唔再加遠程景點。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "市區介紹",
+        "url": "#city_detail"
+      },
+      {
+        "type": "heading",
+        "text": "B｜五行山・返酒店沖涼・食嘢"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "適合：想睇洞穴寺廟，唔介意行石級。",
+          "建議 07:45–09:45 五行山，10:00 左右返 Hyatt 沖涼退房，再出市區食法包／河粉。",
+          "行李先留酒店，退房後帶走；實際退房時間按酒店安排。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "五行山介紹",
+        "url": "#marble_detail"
+      },
+      {
+        "type": "heading",
+        "text": "C｜山茶靈應寺・咖啡・河粉"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "適合：天氣好，想睇海景、觀音像同慢慢影相。",
+          "建議 08:00 左右退房，09:00–10:00 靈應寺，再到市區食嘢。",
+          "往返山茶加埋其他停點，較適合預約車輛並安排好行李。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "山茶介紹",
+        "url": "#sontra_detail"
+      },
+      {
+        "type": "heading",
+        "text": "D｜會安早上散步"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "適合：最想睇古城，願意早起及預約車輛。",
+          "建議 07:30 出發；古城行 2–2.5 小時，11:00 離開。",
+          "不包括燈籠夜景；可在會安食早午餐，減少返回市區再搵食嘅停點。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "會安介紹",
+        "url": "#hoian_detail"
+      },
+      {
+        "type": "company",
+        "title": "公司機場接送",
+        "items": [
+          "公司車 13:30；計劃自行去機場；請先通知公司接送負責人。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "車輛及行李點安排",
+        "url": "#transport"
+      },
+      {
+        "type": "heading",
+        "text": "市區線可以加一站"
+      },
+      {
+        "type": "link",
+        "label": "粉紅教堂｜順路影相",
+        "url": "#pink_church"
+      },
+      {
+        "type": "link",
+        "label": "更多旅行團常去景點",
+        "url": "#tour_ideas"
+      }
+    ]
+  },
+  {
+    "id": "arrival",
+    "title": "落地第一步｜由機場去酒店",
+    "subtitle": "26 Oct｜HX548 15:50 抵達 DAD T2（越南時間）",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "1｜入境及取行李"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "準備護照、有效簽證／入境許可、回程機票及酒店資料。",
+          "跟 Immigration → Baggage Claim → Customs 指示；行李帶以機場顯示為準。",
+          "香港快越南 1 小時；手機轉越南時間後，網站行程可直接對照。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "2｜先上網，再聯絡接送"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "出發前裝好 eSIM 或開通漫遊；到埗後切換正確數據線路，按供應商指示開啟數據漫遊。",
+          "數據 eSIM 未必有本地電話號碼；通話／短訊功能要另外確認。",
+          "機場有 SIM 卡櫃位；購買前睇清總價、流量、有效日數及能否通話。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "3｜換少量現金"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "找換櫃位：T2 地下抵港大堂，跟 Money Exchange 指示。",
+          "可先換 USD 50 作零用，約 128 萬盾；實收看櫃位匯價。",
+          "公司車就開就先集合，入住後再換錢。"
+        ]
+      },
+      {
+        "type": "company",
+        "title": "4｜公司接送",
+        "items": [
+          "公司資料列 16:45–17:30 接送；確實集合位置、接送電話及開車時間待通知。",
+          "未見到接送人員：留喺抵港大堂，聯絡公司接送負責人；入境延誤就及早報告。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "如果需要自行搭車"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先通知公司接送負責人，再用 Grab 或請機場服務台協助。",
+          "Grab 國際線上車區有 Lane 1／Lane 2，實際跟 App 指定位置行；上車核對車牌。",
+          "目的地用完整酒店名，唔好只輸入 Hyatt。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "酒店地址及電話",
+        "url": "#help"
+      },
+      {
+        "type": "link",
+        "label": "Grab 官方 DAD 接送資訊",
+        "url": "https://www.grab.com/global/airport-rides/da-nang-international-airport/"
+      },
+      {
+        "type": "link",
+        "label": "機場設施及換錢位置",
+        "url": "https://danangairport.vn/faqs"
+      }
+    ]
+  },
+  {
+    "id": "transport",
+    "title": "交通及行李",
+    "subtitle": "Day 2、Day 4 尚未訂車",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "市區短途｜GrabCar"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "上車前核對車牌、車款及司機；目的地用店名連街道。",
+          "有兩個大喼時，先確認車款行李空間，必要時揀較大車型。",
+          "付款前睇清 App 選咗現金定信用卡，避免已扣卡又畀現金。",
+          "行程估算：Hyatt → 市區約 20–35 分鐘；市區 → 機場約 15–30 分鐘。大雨或繁忙時間另加緩衝。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 4 多站遊｜預約包車"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "多站行程可預約包車，行李隨車；護照、現金及貴重物品跟身。",
+          "報價列清：停點、等候、送機、停車費、路費及超時費。",
+          "訂車時提供人數及行李數量。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "如果行李寄存在 Hyatt"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先向酒店確認退房後寄存安排。",
+          "建議最遲 12:15 左右返酒店取行李，13:00 左右由酒店去機場；按當日路況再提早。",
+          "會安或山茶再折返酒店，會增加車程；未安排包車時，優先考慮五行山或精簡市區線。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "回程時間"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "13:00 左右由市區出發；大雨或塞車就更早。",
+          "目標 13:30–14:00 抵達峴港機場 T2。",
+          "HX549 16:50 起飛；登機時間以登機證為準。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Grab 官方資訊",
+        "url": "https://www.grab.com/vn/en/transport/"
+      },
+      {
+        "type": "link",
+        "label": "回程航班",
+        "url": "#flights"
+      }
+    ]
+  },
+  {
+    "id": "rain",
+    "title": "落雨點安排",
+    "subtitle": "按當日預報、道路及營運通知揀活動",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "26–29 Oct 天氣預報｜25 Oct 查閱",
+        "url": "#weather"
+      },
+      {
+        "type": "heading",
+        "text": "Day 2｜海邊休息／咖啡，拖曳傘當日確認"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "天氣好留酒店海邊；普通陣雨轉 ICE Galleria，想購物先考慮 Cornpink。",
+          "落大雨：留酒店休息；Spa 另收費、需確認空位。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Day 2 詳細推薦",
+        "url": "#recommend2"
+      },
+      {
+        "type": "heading",
+        "text": "Day 3｜巴拿山"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "室內 Fantasy Park 優先；戶外活動視當日營運、雷暴及能見度。",
+          "纜車、滑車或部分設施可能因天氣暫停；若官方停運或公司更改行程，按通知安排。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "巴拿山雨天路線",
+        "url": "#bana_route"
+      },
+      {
+        "type": "heading",
+        "text": "Day 4｜少停幾站，早去機場"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "保留博物館同食嘢，唔安排濕滑石級、山路或遠程古城。",
+          "13:00 左右開始往機場；路況受影響就再提早。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Day 4 雨天時間表",
+        "url": "#recommend4"
+      },
+      {
+        "type": "link",
+        "label": "酒店附近及室內選擇",
+        "url": "#nearby"
+      },
+      {
+        "type": "note",
+        "text": "天氣更新：25 Oct。出門前再看最新預報及景點開放通知。"
+      }
+    ]
+  },
+  {
+    "id": "help",
+    "title": "隨身資料｜酒店、機場及求助",
+    "subtitle": "可直接顯示畀司機／職員睇",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "返酒店"
+      },
+      {
+        "type": "intro",
+        "text": "Hyatt Regency Danang Resort & Spa\n5 Trường Sa, Ngũ Hành Sơn, Đà Nẵng"
+      },
+      {
+        "type": "link",
+        "label": "致電 Hyatt：+84 236 398 1234",
+        "url": "tel:+842363981234"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜酒店",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt+Regency+Danang+Resort+and+Spa+5+Truong+Sa"
+      },
+      {
+        "type": "heading",
+        "text": "去機場"
+      },
+      {
+        "type": "intro",
+        "text": "Da Nang International Airport — Terminal 2\nSân bay quốc tế Đà Nẵng — Nhà ga T2\nHX549 · 29 Oct · 16:50 → 香港 19:45"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜DAD T2 ",
+        "url": "https://www.google.com/maps/search/?api=1&query=Da+Nang+International+Airport+Terminal+2"
+      },
+      {
+        "type": "heading",
+        "text": "需要協助"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "救護車 115；警察 113；消防 114。電話服務以越南語為主，可請酒店協助溝通。",
+          "非即時危急情況需要睇醫生：聯絡酒店及旅遊保險援助熱線，確認醫療機構及理賠文件。",
+          "香港居民在外遇事，可聯絡香港入境處 24 小時協助熱線 +852 1868。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "救護車 115",
+        "url": "tel:115"
+      },
+      {
+        "type": "link",
+        "label": "警察 113",
+        "url": "tel:113"
+      },
+      {
+        "type": "link",
+        "label": "香港入境處 +852 1868",
+        "url": "tel:+8521868"
+      },
+      {
+        "type": "link",
+        "label": "越南緊急電話｜英國政府",
+        "url": "https://www.gov.uk/foreign-travel-advice/vietnam/getting-help"
+      },
+      {
+        "type": "link",
+        "label": "香港居民在外求助｜入境處",
+        "url": "https://www.immd.gov.hk/eng/services/24_hour_assistance_hotline.html"
+      },
+      {
+        "type": "note",
+        "text": "公司接送聯絡人、拖曳傘確認及包車司機資料尚未提供；收到後請另存手機通訊錄及截圖。"
+      }
+    ]
+  },
+  {
+    "id": "first_visit",
+    "title": "第一次去越南｜實用小貼士",
+    "subtitle": "出發準備・用錢・食嘢・市區出行",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "護照及入境"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "按所持護照確認簽證及有效期。兩位嘅入境文件仍待核對。",
+          "電子簽證：核對姓名、護照號碼、日期及入境口岸，保存批核文件。",
+          "手機另存回程機票、酒店地址及保險援助電話。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "越南官方電子簽證",
+        "url": "https://evisa.gov.vn/"
+      },
+      {
+        "type": "heading",
+        "text": "轉插、上網及導航"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "轉插：帶支援 A／C 插頭嘅萬用轉插；越南電壓 220V。",
+          "充電器標示 100–240V，一般不用變壓器。",
+          "出發前登入 Grab，設定付款方式及下載離線地圖。",
+          "離線指南可睇文字及相片；導航、天氣及通話仍需要相應服務。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "食嘢同飲水"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "飲樽裝水，買水時睇封口；優先揀即煮、客流較多嘅食店。",
+          "落醬、辣椒同香草前先試原味；有食物敏感要直接畀店員睇，唔好單靠菜名判斷。",
+          "帶防曬、防蚊用品及平日需要嘅藥物。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "行街同購物"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "過馬路先睇燈號及車流，唔好突然衝出或一路睇手機一路過。",
+          "路邊影相留意電單車；手機同袋放近身。",
+          "買手信先問清單價、數量及總價；食品睇有效日期，唔好只憑包裝判斷。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "健康及安全資訊｜Vietnam Tourism",
+        "url": "https://vietnam.travel/plan-your-trip/health-safety/"
+      },
+      {
+        "type": "link",
+        "label": "換錢及現金安排",
+        "url": "#cash"
+      },
+      {
+        "type": "link",
+        "label": "酒店及求助電話",
+        "url": "#help"
+      }
+    ]
+  },
+  {
+    "id": "pink_church",
+    "title": "粉紅教堂｜市區順路影相",
+    "subtitle": "Day 2／Day 4 可選 · 建議停留 20–30 分鐘",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "★ 推薦行程及時間表",
+        "url": "#recommend4"
+      },
+      {
+        "type": "intro",
+        "text": "粉紅外牆同尖頂鐘樓係峴港大教堂最易認嘅特色。教堂近韓市場，可順路停留 20–30 分鐘影相。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "影相：教堂正面、尖塔、粉紅外牆。",
+          "順路安排：韓市場 → 教堂 → Trần Phú 一帶食河粉。",
+          "教堂仍有宗教活動；參觀範圍按當日開放，彌撒期間保持安靜。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "旅行團參考｜永安",
+        "url": "https://www.wingontravel.com/tours/detail-17795"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜粉紅教堂",
+      "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Cathedral%20156%20Tran%20Phu%20Da%20Nang"
+    },
+    "photo": "new-cathedral"
+  },
+  {
+    "id": "mykhe_detail",
+    "title": "美溪沙灘｜海邊散步",
+    "subtitle": "Day 2／Day 4 可選 · 建議停留 30–60 分鐘",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "美溪沙灘適合沿海散步、影相及飲咖啡，亦係拖曳傘活動地點之一。只想坐低睇海，可以留喺 Hyatt 前面嘅沙灘。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "建議停留 30–60 分鐘；可配搭 Day 2 咖啡或拖曳傘。",
+          "散步毋須門票；飲品、沙灘椅及水上活動另付費。",
+          "紅旗、大浪或雷雨時唔落水。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "景點介紹｜Vietnam Tourism",
+        "url": "https://vietnam.travel/node/31"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜美溪沙灘",
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
+    },
+    "photo": "new-mykhe"
+  },
+  {
+    "id": "riverside_detail",
+    "title": "情人橋・龍橋・山茶夜市",
+    "subtitle": "日間河岸／晚餐後可選 · 建議停留 45–75 分鐘",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "韓江東岸可以行情人橋、影龍橋，再逛山茶夜市。公司晚餐後有精神先出門，預留返酒店嘅車程。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "日間：揀情人橋及河岸短行，唔好將夜市排喺 Day 4 早上。",
+          "夜晚：先行河岸，再按當日營業情況逛夜市；唔需要為夜市再食一餐正餐。",
+          "費用：一般河岸散步及逛夜市毋須門票；購物及食物另付。",
+          "你哋係星期一至四到訪，唔預排龍橋恆常週末噴火表演。",
+          "出發前查看地圖上嘅最新營業位置。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜情人橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Love%20Bridge%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜龍橋",
+        "url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Bridge%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜山茶夜市（核對最新位置）",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cho%20Dem%20Son%20Tra%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "旅行團參考｜永安",
+        "url": "https://www.wingontravel.com/tours/detail-17795"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜情人橋",
+      "url": "https://www.google.com/maps/search/?api=1&query=Love%20Bridge%20Da%20Nang"
+    },
+    "photo": "new-dragon"
+  },
+  {
+    "id": "coconut_detail",
+    "title": "迦南島椰林｜竹籃船體驗",
+    "subtitle": "Day 2 可選 · 須先確認時間及接送",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "會安 Cẩm Thanh／Bảy Mẫu 水椰林可以坐圓形竹籃船，由船夫帶你穿梭水道。部分套餐有撒網或轉船表演；怕暈可先講明唔轉船。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "玩甚麼：由船夫划船穿梭椰林；部分套餐有撒網或轉船表演，內容視乎營運商。",
+          "怕暈可以事先講明唔轉船；確認有合適救生衣。",
+          "時間估算：體驗連等候預留 60–90 分鐘；由 Hyatt 來回連車程預留約 3–4 小時，未計大雨或塞車。",
+          "Day 2：14:00 午餐後先出發，預約時確認 18:00 前返酒店；當日下午唔再加會安古城。",
+          "Day 4：如果想玩，應取代會安古城，唔建議兩樣夾埋。",
+          "收費：不同碼頭、船程及接送組合價錢不同；未取得報價。預訂前確認按人定按船計、門票、接送及小費。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Google Maps 先開椰林區域；實際上船碼頭要由所訂營運商提供，區域定位唔係集合點。"
+      },
+      {
+        "type": "link",
+        "label": "椰林介紹｜Quang Nam Tourism",
+        "url": "https://visitquangnam.com/experiences/nature/cam-thanh/"
+      },
+      {
+        "type": "link",
+        "label": "旅行團參考｜永安",
+        "url": "https://www.wingontravel.com/tours/detail-17795"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜迦南島椰林",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bay%20Mau%20Coconut%20Forest%20Cam%20Thanh%20Hoi%20An"
+    },
+    "photo": "new-coconut"
+  },
+  {
+    "id": "myson_detail",
+    "title": "美山聖地｜占婆紅磚塔群",
+    "subtitle": "較遠景點 · 今次唔建議放入 Day 4",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "美山聖地係占婆宗教遺址，以紅磚塔廟、石雕同山谷景色聞名。由峴港出發要預留半日至大半日，今次四日行程較難安排。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "重點：紅磚塔廟、宗教石雕；1999 年列入世界文化遺產。",
+          "連來回交通預留至少 5–6 小時，今次 Day 2 及 Day 4 時間較緊。",
+          "外國旅客門票參考：150,000 VND；開放時間 06:00–18:00。",
+          "接送及導賞另計；今次可先去占婆博物館。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "世界遺產介紹｜UNESCO",
+        "url": "https://whc.unesco.org/en/list/949/"
+      },
+      {
+        "type": "link",
+        "label": "旅行團路線參考｜縱橫遊（2023 年舊行程）",
+        "url": "https://media.wwpkg.com.hk/live/Resources/Tour/20230824/7fccbad5-6219-4b82-83f9-3776044ce1e6.pdf"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜美山聖地",
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Son%20Sanctuary%20Vietnam"
+    },
+    "photo": "new-myson"
+  },
+  {
+    "id": "tour_ideas",
+    "title": "旅行團常去邊？",
+    "subtitle": "參考公開行程，揀適合今次自由時間嘅選項 · 25 Oct 2026 查閱",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "永安、東瀛遊嘅峴港行程都會將山城、古城、海邊同地道飲食配搭埋一齊。今次公司已經安排巴拿山，自由時間可以優先揀市區、會安，或者椰林體驗。"
+      },
+      {
+        "type": "heading",
+        "text": "路線參考"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "永安 AVDAD05KJ：巴拿山、五行山、會安、椰林竹籃船、粉紅教堂及韓江河岸；飲食安排有越式料理、海鮮火鍋等。",
+          "東瀛遊 HTVDAL05：以峴港、會安美食遊為主，公開介紹有巴拿山、椰林竹籃船及會安古城。",
+          "縱橫遊 VAD5UO（2023 年舊行程）：另有美山聖地及占婆博物館。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "今次可以點揀"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "最容易加：粉紅教堂、韓市場、博物館、法包及河粉，配合 Day 4 市區線。",
+          "想試活動：Day 2 拖曳傘或椰林竹籃船二選一，先確認天氣及返酒店時間。",
+          "想睇古城：Day 4 早上會安，唔再加美山或椰林。",
+          "想輕鬆：美溪沙灘配咖啡，或者留喺酒店休息。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "旅行團資料只供參考；網站餐廳另按旅遊局及餐飲指南選擇。"
+      },
+      {
+        "type": "link",
+        "label": "永安｜峴港＋會安純玩五天",
+        "url": "https://www.wingontravel.com/tours/detail-17795"
+      },
+      {
+        "type": "link",
+        "label": "東瀛遊｜峴港、會安美食五天",
+        "url": "https://www.egltours.com/website/itinerary/HTVDAL05/"
+      },
+      {
+        "type": "link",
+        "label": "縱橫遊｜2023 年行程參考",
+        "url": "https://media.wwpkg.com.hk/live/Resources/Tour/20230824/7fccbad5-6219-4b82-83f9-3776044ce1e6.pdf"
+      }
+    ]
+  },
+  {
+    "id": "food_extra",
+    "title": "其他地道美食",
+    "subtitle": "按路線揀一兩間；所列價錢為用餐預算",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Mì Quảng 1A｜廣南麵",
+        "photo": "new-miquang"
+      },
+      {
+        "type": "intro",
+        "text": "廣南麵用闊身米麵配少量濃湯，加入肉類、香草及脆米餅。拌勻再食，味道比河粉濃。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：1A Hải Phòng（MICHELIN 所列地址）。",
+          "每日 06:00–21:00；只收現金。",
+          "可選蝦、豬肉或雞等配料，供應看餐牌。",
+          "每人預算 40,000–80,000 VND；可取代 Day 4 河粉午餐。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Mì Quảng 1A",
+        "url": "https://www.google.com/maps/search/?api=1&query=16.0722697%2C108.2191652"
+      },
+      {
+        "type": "link",
+        "label": "菜式及食店介紹｜MICHELIN",
+        "url": "https://guide.michelin.com/vn/en/article/features/what-is-mi-quang"
+      },
+      {
+        "type": "heading",
+        "text": "Cao Lầu Thanh｜會安高樓麵",
+        "photo": "new-caolau"
+      },
+      {
+        "type": "intro",
+        "text": "會安高樓麵口感較厚、較有嚼勁，配豬肉、芽菜、香草及脆片。湯汁少，食前拌勻。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：26 Thái Phiên，Hội An。",
+          "每人預算 40,000–70,000 VND；停留約 30–45 分鐘。",
+          "只安排喺會安行程；Day 4 仍要 11:00 離開古城。",
+          "出發前查看營業狀態。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Cao Lầu Thanh",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cao%20Lau%20Thanh%2026%20Thai%20Phien%20Hoi%20An"
+      },
+      {
+        "type": "link",
+        "label": "會安美食介紹｜Vietnam Tourism",
+        "url": "https://beta-v2.vietnam.travel/things-to-do/explore-food-hoi-an"
+      },
+      {
+        "type": "heading",
+        "text": "Bún Chả Cá Bà Hờn｜魚餅湯米線",
+        "photo": "new-bunchaca"
+      },
+      {
+        "type": "intro",
+        "text": "魚餅配番茄湯底，味道帶少少酸，清爽開胃。想食牛肉河粉以外嘅湯麵可以揀呢間。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：113/3 Nguyễn Chí Thanh（巷內）。",
+          "每日 06:00–21:00；只收現金。",
+          "每人預算 40,000–70,000 VND；停留約 30 分鐘。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Bún Chả Cá Bà Hờn",
+        "url": "https://www.google.com/maps/search/?api=1&query=Bun%20Cha%20Ca%20Ba%20Hon%20113%2F3%20Nguyen%20Chi%20Thanh%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "魚餅米線介紹｜Vietnam Tourism",
+        "url": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/"
+      },
+      {
+        "type": "heading",
+        "text": "北美安市場｜牛油果雪糕",
+        "photo": "new-kembo"
+      },
+      {
+        "type": "intro",
+        "text": "Kem bơ 係牛油果蓉配雪糕及椰子配料，口感濃滑。北美安市場有檔口供應，適合下午食小食。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地點：Chợ Bắc Mỹ An（北美安市場）。",
+          "每份預算 20,000–50,000 VND；停留約 20–30 分鐘。",
+          "地圖定位係市場；到場再揀檔口。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜北美安市場",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cho%20Bac%20My%20An%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "牛油果雪糕介紹｜Vietnam Tourism",
+        "url": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/"
+      }
+    ]
+  },
+  {
+    "id": "recommend2",
+    "title": "Day 2｜沙灘・咖啡・拖曳傘",
+    "subtitle": "27 Oct｜下午活動未定，18:00 前返酒店",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "想輕鬆就留酒店沙灘，落雨轉咖啡店。想玩拖曳傘，先確認店方開放；想睇太陽落山，就揀韓江東岸。下午揀一個活動就夠。"
+      },
+      {
+        "type": "heading",
+        "text": "早上可選｜05:20 酒店沙灘睇日出"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "約 05:42 日出，坐到 06:10 左右返房休息；之後跟公司早餐及培訓時間。",
+          "出門前先睇有冇雷雨；海灘通道及躺椅使用時間前一晚問酒店。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "下午｜咖啡及沙灘休息"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "建議時間",
+            "安排"
+          ],
+          [
+            "14:00–15:00",
+            "公司午餐後喺 ICE Galleria 飲咖啡／休息。"
+          ],
+          [
+            "15:30–17:30",
+            "天氣許可：酒店前沙灘／Vive Océane 一帶坐低睇海、黃昏天色。"
+          ],
+          [
+            "17:40 左右",
+            "返房沖涼換衫；最遲 18:00 返到酒店範圍。"
+          ],
+          [
+            "19:00",
+            "Osteria al Mare 晚餐（兩人已選餐）。"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "酒店沙灘睇日出及晚霞；日落太陽喺內陸方向。",
+          "落雨可轉 ICE Galleria 或 Baguette。",
+          "餐廳座位、躺椅及收費向酒店確認。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "想玩活動 A｜美溪沙灘拖曳傘"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "上午問店方有冇開放、雙人安排及集合點。",
+          "14:00 公司午餐後出發；交通、準備及等候先預留約 2 小時。",
+          "17:15 左右啟程返 Hyatt，目標 18:00 前到。",
+          "停辦或未確認就留酒店；付款前問清退款條款。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "替代方案 B｜韓江日落"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "16:15–16:30 到 Nguyễn Văn Trỗi 步行橋東岸公園。",
+          "約 17:19 日落；17:25 叫車返酒店，預計車程 20–30 分鐘。",
+          "落雨或塞車就提早離開。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "日出日落地圖、坐邊度及時間",
+        "url": "#sunbeach"
+      },
+      {
+        "type": "link",
+        "label": "拖曳傘收費與預約資料",
+        "url": "#parasailing"
+      },
+      {
+        "type": "link",
+        "label": "酒店咖啡及附近食玩",
+        "url": "#nearby"
+      },
+      {
+        "type": "link",
+        "label": "Cornpink 及其他店舖",
+        "url": "#wishlist"
+      },
+      {
+        "type": "link",
+        "label": "四日天氣",
+        "url": "#weather"
+      },
+      {
+        "type": "note",
+        "text": "以上均為可選安排；拖曳傘、接送及餐廳座位尚未預約。"
+      }
+    ]
+  },
+  {
+    "id": "recommend4",
+    "title": "Day 4｜博物館・法包・河粉",
+    "subtitle": "29 Oct 建議行程｜未訂車",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "最後半日安排室內博物館同地道小食，行程較易控制。食完午餐就去機場；雨勢大時取消景點，留酒店休息。"
+      },
+      {
+        "type": "note",
+        "text": "日出可選：05:20 到酒店沙灘，約 05:43 日出，06:10 左右返房。"
+      },
+      {
+        "type": "link",
+        "label": "日出位置及方向圖",
+        "url": "#sunbeach"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "法包 → 占婆博物館 → 河粉 → 機場。",
+          "法包可兩人分享；想輕鬆啲就減一餐。",
+          "13:00 左右出發去機場，目標 13:30–14:00 到。"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "建議時間",
+            "安排"
+          ],
+          [
+            "07:30–08:15",
+            "酒店早餐，食少量。"
+          ],
+          [
+            "08:30–09:00",
+            "退房、上車及放行李；車輛須預先安排。"
+          ],
+          [
+            "09:20–09:50",
+            "Ông Phú Đạt：分享燒豬肉法包；太飽可略過。"
+          ],
+          [
+            "10:15–11:30",
+            "占婆雕刻博物館，預留約 60–75 分鐘。"
+          ],
+          [
+            "11:45–12:30",
+            "Phở Cù Hà Nội 食河粉（建議，可再揀）。"
+          ],
+          [
+            "12:30–13:00",
+            "等車及交通緩衝，唔再加景點。"
+          ],
+          [
+            "13:00 左右",
+            "離開市區，直接前往機場；大雨或塞車就更早走。"
+          ],
+          [
+            "目標 13:30–14:00",
+            "到 DAD T2；為 16:50 HX549 留足時間。"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "如果行李寄存在 Hyatt"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先問酒店可否寄存。市區只留博物館加一餐。",
+          "11:30 左右由市區返酒店，預計 12:15 前到。",
+          "取行李後，13:00 前由酒店出發去機場。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "雨勢大／唔想出市區"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "酒店早餐 → 咖啡店休息 → 退房 → 機場。",
+          "小雨、路況正常時，可到 Nu Đồ Kitchen 食廣南麵，再返酒店取行李。",
+          "Day 2 已去博物館，Day 4 可直接改酒店休息及食嘢。",
+          "大雨或道路積水時，提早安排去機場。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "占婆博物館介紹及地圖",
+        "url": "#city_detail"
+      },
+      {
+        "type": "link",
+        "label": "法包及河粉｜地圖",
+        "url": "#food"
+      },
+      {
+        "type": "link",
+        "label": "Nu Đồ Kitchen 及酒店附近",
+        "url": "#nearby"
+      },
+      {
+        "type": "link",
+        "label": "車輛與行李安排",
+        "url": "#transport"
+      },
+      {
+        "type": "link",
+        "label": "四日天氣及來源",
+        "url": "#weather"
+      },
+      {
+        "type": "note",
+        "text": "未訂車、未訂餐。公司車仍為 13:30；自行前往機場前，請通知公司接送負責人。"
+      },
+      {
+        "type": "link",
+        "label": "機場有咩食玩？T2 餐飲、手信及休息",
+        "url": "#airport"
+      }
+    ]
+  },
+  {
+    "id": "weather",
+    "title": "26–29 Oct｜天氣與行程",
+    "subtitle": "預報更新：25 Oct 2026｜出門前再看最新天氣",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "26 日天氣較好；27 日有驟雨；28–29 日以雨天活動為主。以下為越南國家水文氣象預報中心（NCHMF）峴港市區預報，25 Oct 覆核。"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "日期",
+            "市區預報",
+            "建議安排"
+          ],
+          [
+            "26 Oct · Day 1",
+            "24–32°C\n多雲，預報無雨",
+            "抵達後入住酒店；晚宴前可散步。"
+          ],
+          [
+            "27 Oct · Day 2",
+            "23–32°C\n多雲，有驟雨",
+            "海邊／咖啡做建議行程；拖曳傘等當日確認。"
+          ],
+          [
+            "28 Oct · Day 3",
+            "24–31°C\n驟雨及雷暴",
+            "巴拿山以室內設施為主，戶外影相視天氣。"
+          ],
+          [
+            "29 Oct · Day 4",
+            "23–31°C\n多雲，有中雨",
+            "博物館＋食嘢；13:00 左右開始往機場。"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "heading",
+        "text": "Day 2 拖曳傘｜開放及海況待確認"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "海面風浪要由營運商現場判斷。",
+          "拖曳傘未預約，27 日開放情況未確認。",
+          "當日上午先聯絡店方；未能落實就改酒店休息或咖啡。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Day 2 推薦及拖曳傘成行條件",
+        "url": "#recommend2"
+      },
+      {
+        "type": "heading",
+        "text": "Day 3、Day 4 點調整"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "28 日：帶薄外套、防滑鞋及雨衣。先去 Fantasy Park；戶外景點按山上天氣安排。",
+          "29 日：博物館及食嘢為主，13:00 出發去機場。大雨時減少停點。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Day 4 雨天推薦時間表",
+        "url": "#recommend4"
+      },
+      {
+        "type": "link",
+        "label": "酒店附近及室內選擇",
+        "url": "#nearby"
+      },
+      {
+        "type": "heading",
+        "text": "出門前再睇"
+      },
+      {
+        "type": "link",
+        "label": "NCHMF｜峴港官方預報",
+        "url": "https://nchmf.gov.vn/kttvsiteE/en-US/2/hai-chau-tp-da-nang-w55.html"
+      },
+      {
+        "type": "link",
+        "label": "Met Office｜峴港逐日預報",
+        "url": "https://weather.metoffice.gov.uk/forecast/w6ugq3u45?new-design=false"
+      },
+      {
+        "type": "link",
+        "label": "The Weather Network｜交叉參考",
+        "url": "https://www.theweathernetwork.com/en/city/vietnam/da-nang/da-nang/14-days"
+      },
+      {
+        "type": "link",
+        "label": "Da Nang Outdoor Adventures｜拖曳傘資料及聯絡",
+        "url": "https://danangadventures.com/product/parasailing/"
+      },
+      {
+        "type": "note",
+        "text": "天氣不會自動更新；海灘、纜車及活動是否開放，以當日通知為準。"
+      }
+    ]
+  },
+  {
+    "id": "nearby",
+    "title": "酒店附近｜食嘢及散步",
+    "subtitle": "酒店內、五行山及 Mỹ An 一帶",
+    "blocks": [
+      {
+        "type": "link",
+        "label": "★ 沙灘休息、日出日落位置及方向圖",
+        "url": "#sunbeach"
+      },
+      {
+        "type": "intro",
+        "text": "Hyatt 位於 Non Nuoc 海邊。酒店內有咖啡店，五行山只需短程車；Mỹ An 食店較遠，要搭車。"
+      },
+      {
+        "type": "note",
+        "text": "車程為預計，未計塞車及大雨；出門前看 Grab 路況。"
+      },
+      {
+        "type": "heading",
+        "text": "ICE Galleria｜落雨可留酒店"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：Hyatt 大堂內，毋須搭車。",
+          "食乜：咖啡、韓式刨冰、手工雪糕；適合 Day 2 公司午餐後坐低休息。",
+          "官方營業時間：08:00–20:00；價錢按現場餐牌。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜ICE Galleria（Hyatt 內）",
+        "url": "https://www.google.com/maps/search/?api=1&query=ICE%20Galleria%20Hyatt%20Regency%20Danang%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "Hyatt 官方餐飲資料及實景相",
+        "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa/dining"
+      },
+      {
+        "type": "heading",
+        "text": "Baguette｜酒店內輕食咖啡"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "酒店商店區咖啡店，有糕點、咖啡、輕食及日用品。",
+          "官方營業時間：07:00–18:00。適合買飲品／小食帶返房，或 Day 4 退房前休息。",
+          "越式法包供應請以當日餐牌為準。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Baguette（Hyatt 內）",
+        "url": "https://www.google.com/maps/search/?api=1&query=Baguette%20Hyatt%20Regency%20Danang%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "Hyatt 官方餐牌入口及實景相",
+        "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa/dining"
+      },
+      {
+        "type": "heading",
+        "text": "Nu Đồ Kitchen｜廣南麵"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：11/1 Lưu Quang Thuận；由酒店預計 10–15 分鐘車。",
+          "主打廣南麵，可試薑黃魚肉款。",
+          "有蓋庭院座位；MICHELIN 收錄。",
+          "星期一至六 09:00–16:00；星期日休息。",
+          "適合 Day 4 早午餐，取代市區午餐。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Nu Đồ Kitchen",
+        "url": "https://www.google.com/maps/search/?api=1&query=Nu%20Do%20Kitchen%2011/1%20Luu%20Quang%20Thuan%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "MICHELIN｜介紹、營業資料及實景相",
+        "url": "https://guide.michelin.com/sg/en/da-nang-region/da-nang_2984390/restaurant/nu-%C4%91o-kitchen"
+      },
+      {
+        "type": "heading",
+        "text": "想就近食河粉／法包｜Hùng 68"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：110 Trường Sa；由酒店預計 5–10 分鐘車。",
+          "小店供應越南菜；河粉及法包先問當日有冇。",
+          "營業時間及餐牌未確認，先查詢再出發。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Hùng 68｜110 Trường Sa",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hung%2068%20Restaurant%20110%20Truong%20Sa%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "餐廳資料｜Restaurant Guru",
+        "url": "https://restaurantguru.com/Hung-68-Da-Nang"
+      },
+      {
+        "type": "link",
+        "label": "地址交叉核對｜本地餐廳目錄",
+        "url": "https://monandanang.vn/restaurant/g_ChIJO3VMPgARQjERzoOU8ZWX4eE-hung-68-restaurant-food-and-drink"
+      },
+      {
+        "type": "heading",
+        "text": "五行山及石雕村｜乾爽天氣先去"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "由酒店預計 5–10 分鐘車。",
+          "五行山預留 1.5–2 小時：玄空洞、寺廟及觀景位。",
+          "水山 40,000 VND；升降機單程 15,000 VND；陰府洞另收 20,000 VND。",
+          "山腳石雕村可順路逛 20–40 分鐘。",
+          "落雨石級濕滑，天氣乾爽先去。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜五行山入口",
+        "url": "https://www.google.com/maps/search/?api=1&query=The%20Marble%20Mountains%2081%20Huyen%20Tran%20Cong%20Chua%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Non Nuoc 石雕村",
+        "url": "https://www.google.com/maps/search/?api=1&query=Non%20Nuoc%20Stone%20Carving%20Village%20Huyen%20Tran%20Cong%20Chua%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "五行山詳細介紹及實景相",
+        "url": "#marble_detail"
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜門票及位置",
+        "url": "https://danangfantasticity.com/cn/sight-seeing-en/the-marble-mountains"
+      },
+      {
+        "type": "link",
+        "label": "越南旅遊局｜石雕村",
+        "url": "https://vietnamtourism.vn/en/index.php/tourism/items/780"
+      },
+      {
+        "type": "heading",
+        "text": "Non Nuoc 海灘｜酒店門前已經有"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "由酒店步行到沙灘，散步約 20–30 分鐘。",
+          "26 日入住時已接近日落後；晚宴前有時間可散步。",
+          "雷暴、大浪或紅旗時唔落水。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜酒店海灘位置",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+      },
+      {
+        "type": "link",
+        "label": "四日天氣",
+        "url": "#weather"
+      }
+    ]
+  },
+  {
+    "id": "sunbeach",
+    "title": "沙灘休息・日出日落",
+    "subtitle": "26–29 Oct｜以下為越南時間",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "睇日出：Hyatt 前面嘅沙灘最方便。睇晚霞：下午留酒店海邊。想望住太陽落山：去韓江東岸，向西望。"
+      },
+      {
+        "type": "heading",
+        "text": "日出｜酒店前 Non Nuoc 沙灘"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：主泳池前方、Vive Océane 外面嘅開揚沙灘。",
+          "05:20 到，約 05:42–05:43 日出；可坐到 06:10 左右。",
+          "面向東偏南，指南針約 103–104°。",
+          "前一晚問酒店清晨通道及躺椅安排。",
+          "可先試 27 日早上；有雷雨就留室內。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Hyatt 酒店／前方沙灘",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Danang%20Resort%20and%20Spa%205%20Truong%20Sa"
+      },
+      {
+        "type": "heading",
+        "text": "下午休息｜酒店沙灘及 Vive Océane"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Day 2 可留 15:30–17:30 睇海；落雨轉咖啡店。",
+          "Vive Océane 酒吧 11:00–23:00；飲品另付，座位及最低消費先問。",
+          "太陽喺酒店後方、向內陸落山。面向海可以睇晚霞，睇唔到太陽沉入海平線。",
+          "17:40 左右返房換衫，19:00 食晚餐。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Vive Océane 海邊餐廳",
+        "url": "https://www.google.com/maps/search/?api=1&query=Vive%20Oceane%20Beach%20Club%20Hyatt%20Regency%20Danang"
+      },
+      {
+        "type": "heading",
+        "text": "日落｜Nguyễn Văn Trỗi 步行橋東岸公園"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：Công viên bờ Đông cầu Nguyễn Văn Trỗi，步行橋東岸公園。",
+          "向西偏南望韓江及城市；部分建築可能遮住接近地平線嘅太陽。",
+          "由 Hyatt 預計 20–30 分鐘車。",
+          "Day 2 可於 16:15–16:30 到，17:19 日落，17:25 叫車返酒店。",
+          "玩拖曳傘嗰日唔再排呢一站；落雨或交通差就取消。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Nguyễn Văn Trỗi 步行橋東岸公園",
+        "url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4ng%20vi%C3%AAn%20b%E1%BB%9D%20%C4%90%C3%B4ng%20c%E1%BA%A7u%20Nguy%E1%BB%85n%20V%C4%83n%20Tr%E1%BB%97i%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "heading",
+        "text": "日出日落方向地圖"
+      },
+      {
+        "type": "sunmap"
+      },
+      {
+        "type": "link",
+        "label": "全螢幕開啟方向地圖",
+        "url": "sun-map.html"
+      },
+      {
+        "type": "heading",
+        "text": "四日時間表"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "日期",
+            "日出／方向",
+            "日落／方向"
+          ],
+          [
+            "26 Oct",
+            "05:42 · 103°",
+            "17:19 · 257°"
+          ],
+          [
+            "27 Oct",
+            "05:42 · 103°",
+            "17:19 · 257°"
+          ],
+          [
+            "28 Oct",
+            "05:42 · 103°",
+            "17:18 · 257°"
+          ],
+          [
+            "29 Oct",
+            "05:43 · 104°",
+            "17:18 · 256°"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "note",
+        "text": "日出日落為天文計算，雲雨及遮擋會影響景觀。約 05:20 開始有晨光，日落後至約 17:40 仍有少量天光。"
+      },
+      {
+        "type": "heading",
+        "text": "四日安排"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "26 日：預計 17:30 後入住，已過 17:19 日落，唔安排追日落；有時間就酒店內散步。",
+          "27 日：05:20 日出可選；下午可留海邊休息。河邊日落同拖曳傘都係替代方案，三個方向揀一個。",
+          "28 日：晨早若有雷雨就留房休息；公司巴拿山行程至 17:30，唔另排日落。",
+          "29 日：05:20 起身睇天氣，想去就酒店沙灘試最後一次日出，之後早餐、退房；下午已要去機場。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "天氣同座位"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "出門前看最新預報；雷暴時離開沙灘及河岸。",
+          "帶水、薄外套或毛巾；清晨通道較暗，穿鞋行。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "四日天氣及雨天安排",
+        "url": "#weather"
+      },
+      {
+        "type": "link",
+        "label": "Day 2 海邊休息時間表",
+        "url": "#recommend2"
+      },
+      {
+        "type": "heading",
+        "text": "酒店實際位置圖"
+      },
+      {
+        "type": "link",
+        "label": "Hyatt 官方園區圖｜第 2 頁",
+        "url": "https://www.hyatt.com/content/dam/hotel/propertysites/assets/regency/danhr/documents/en_us/home/Resort-Maps.pdf"
+      },
+      {
+        "type": "note",
+        "text": "2024 年 8 月版：6＝主泳池及休息區、7＝水上／沙灘活動、17＝Vive Océane。由主泳池向沙灘方向行；圖內設施名稱及通道以現場為準。"
+      },
+      {
+        "type": "heading",
+        "text": "資料來源"
+      },
+      {
+        "type": "link",
+        "label": "Timeanddate｜2026 年 10 月日出日落",
+        "url": "https://www.timeanddate.com/sun/vietnam/da-nang?month=10&year=2026"
+      },
+      {
+        "type": "link",
+        "label": "Hyatt｜餐飲時間及實景相",
+        "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa/dining"
+      },
+      {
+        "type": "link",
+        "label": "峴港旅遊局｜河邊日落位置",
+        "url": "https://danangfantasticity.com/en/discovery/where-to-watch-the-sunset-in-da-nang"
+      },
+      {
+        "type": "link",
+        "label": "峴港報｜步行橋東岸休憩環境",
+        "url": "https://en.baodanang.vn/relaxing-in-da-nang-chill-corners-3299076.html"
+      },
+      {
+        "type": "note",
+        "text": "日出日落方向按海岸位置及太陽方位計算。酒店通道及座位安排另確認。"
+      }
+    ]
+  },
+  {
+    "id": "airport",
+    "title": "峴港機場 T2｜食嘢・買手信・休息",
+    "subtitle": "29 Oct 回程｜HX549 16:50 起飛",
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜峴港機場國際航站樓 T2",
+      "url": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20International%20Airport%20Terminal%202"
+    },
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "回香港用國際航站樓 T2。完成登機、安檢及出境手續後，可以食嘢、飲咖啡或買手信。"
+      },
+      {
+        "type": "banner",
+        "text": "食過午餐：Puro Gusto 咖啡 → Vietnam’s Delights 手信。\n未食午餐：Apricot Bistro 河粉／法包 → 有時間再行街。"
+      },
+      {
+        "type": "heading",
+        "text": "Day 4｜到機場之後點安排"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "目標 13:30–14:00 抵達 T2，先到 2F 辦理登機及寄行李。",
+          "安檢及出境後，先看閘口及登機時間，再安排食嘢。",
+          "正餐預留 30–45 分鐘；咖啡 20–30 分鐘；購物 15–20 分鐘。",
+          "16:50 起飛；按登機證時間到閘口，另預步行時間。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "出境後｜Apricot Bistro 越南餐"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：T2・2F・出境後。",
+          "有牛肉／雞肉河粉、法包、烤肉米線及鹽咖啡。",
+          "適合未食午餐，或者想再食一餐越南菜。",
+          "價格看當日餐牌。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Apricot Bistro｜官方介紹及位置",
+        "url": "https://danangairport.vn/vn/restaurant-detail-page/brand-detail?bid=470"
+      },
+      {
+        "type": "heading",
+        "text": "出境後｜咖啡、甜品及其他選擇"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Puro Gusto｜T2・2F：意式咖啡，適合食完午餐後休息。",
+          "Star Coffee_Airside｜T2・2F：飲品及糕點。",
+          "Crystal Jade｜T2・2F：粵菜。",
+          "三間都喺出境後。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "T2 餐廳名錄｜官方位置及餐飲介紹",
+        "url": "https://danangairport.vn/experiences-dine?t=2"
+      },
+      {
+        "type": "heading",
+        "text": "未入安檢｜想先飲杯咖啡"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Highlands Coffee｜T2・MF 夾層・公眾區。",
+          "Star Coffee｜T2・GF 地下・公眾區。",
+          "先處理登機及行李；櫃位未開、有時間先坐低。",
+          "T1 係國內航站樓，搵店時留意 T2 標示。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "有咩好行？最後一轉買手信"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Vietnam’s Delights｜2F：越南咖啡、茶、朱古力、果乾及紀念品。",
+          "Lucky Souvenir Shop｜2F 分店：小飾物及越南紀念品。",
+          "Lotte Duty Free｜2F 分店：免稅商品，購買前可先格價。",
+          "以上均在 T2 出境後；預留 15–20 分鐘逛一兩間。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Vietnam’s Delights｜官方商品介紹",
+        "url": "https://danangairport.vn/shop-detail-page/brand-detail?bid=13"
+      },
+      {
+        "type": "link",
+        "label": "T2 商店名錄｜官方位置",
+        "url": "https://danangairport.vn/experiences-shop?t=2"
+      },
+      {
+        "type": "heading",
+        "text": "想休息｜Lounge、睡眠艙及按摩椅"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Vanda Lounge｜T2 出境後 MF：熱食、飲品、淋浴、充電及按摩椅。",
+          "成人 US$29／最多 3 小時；兩位成人 US$58。延長每 30 分鐘 US$5.50。",
+          "有信用卡貴賓室權益：先查支援邊間及同行者收費。",
+          "Sleep Pod 睡眠艙｜T2 出境後 2F；價格向櫃位查詢。",
+          "按摩椅｜T2 管制區 GF、1F、MF；使用前看收費。",
+          "正常候機飲咖啡就夠；提早到好多或航班延誤，再考慮付費休息室。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Vanda Lounge｜官方價錢及設施",
+        "url": "https://danangairport.vn/lounge-detail-page/lounges-detail?sid=16"
+      },
+      {
+        "type": "link",
+        "label": "睡眠艙及按摩椅｜機場官方資料",
+        "url": "https://danangairport.vn/experiences-relax"
+      },
+      {
+        "type": "heading",
+        "text": "搵路及即時資料"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "GF 地下；1F 一樓；2F 二樓；MF 夾層。",
+          "Public 公眾區；Restricted 管制區。",
+          "去機場用 Google Maps；機場內搵店用官方樓層圖及指示牌。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "T2 官方樓層圖及航站樓指南",
+        "url": "https://danangairport.vn/airport-guide-terminal-2"
+      },
+      {
+        "type": "link",
+        "label": "機場官網｜航班資訊",
+        "url": "https://danangairport.vn/"
+      },
+      {
+        "type": "note",
+        "text": "資料覆核：25 Oct 2026。店舖時間、價格、登機時間及閘口以當日為準。"
+      }
+    ]
+  },
+  {
+    "id": "food_banhmi",
+    "title": "法包｜三間點揀",
+    "subtitle": "留峴港食燒豬肉；去會安試兩間人氣名店",
+    "blocks": [
+      {
+        "type": "note",
+        "text": "Google Maps 評分及食評數量：25 Oct 2026 查閱，不會自動更新。按食評數量、分數及具體內容比較；並非全市排名。食物照片已標明是否本店出品。"
+      },
+      {
+        "type": "heading",
+        "text": "Heo nướng lu Ông Phú Đạt",
+        "tag": "★ 峴港首選",
+        "photo": "banhmi"
+      },
+      {
+        "type": "intro",
+        "text": "主打甕燒豬肉法包，適合鍾意脆皮豬腩肉嘅人。食客常讚包皮脆、豬肉香；取餐後即食，口感最好。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Google：4.7／5，共 1,055 則食評。",
+          "建議叫：bánh mì heo nướng lu（燒豬肉法包）；取餐後即食。",
+          "地址：128 Nguyễn Duy Hiệu；認清呢間分店。",
+          "第三方參考價：25,000–35,000 VND／個；加肉另計，以餐牌為準。",
+          "參考營業時間：05:30–18:30；兩人試味可先分享一個。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜地址、食評及導航",
+        "url": "https://www.google.com/maps/search/?api=1&query=Heo%20n%C6%B0%E1%BB%9Bng%20lu%20%C3%94ng%20Ph%C3%BA%20%C4%90%E1%BA%A1t%20128%20Nguy%E1%BB%85n%20Duy%20Hi%E1%BB%87u%20%C4%90%C3%A0%20N%E1%BA%B5ng"
+      },
+      {
+        "type": "heading",
+        "text": "Madam Khanh — The Banh Mi Queen",
+        "tag": "★ 會安首選",
+        "photo": false
+      },
+      {
+        "type": "intro",
+        "text": "想搵大量食客推薦嘅法包，呢間最值得放入會安行程。過萬則食評仍有 4.6 分；睇到嘅食評具體讚包皮脆、餡料味道濃同份量足。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Google：4.6／5，共 12,151 則食評。",
+          "建議試 Mixed Bánh Mì 綜合餡；另一個可揀烤豬肉，兩人交換試。",
+          "地址：115 Trần Cao Vân，會安；唔係峴港市中心。",
+          "想比較兩間會安名店，可以每店買一個分食，唔使每人食兩個。",
+          "售價及當日營業時間請開地圖核對；預留排隊時間。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜地址、食評及導航",
+        "url": "https://www.google.com/maps/search/?api=1&query=Madam%20Khanh%20115%20Tran%20Cao%20Van%20Hoi%20An"
+      },
+      {
+        "type": "heading",
+        "text": "Bánh Mì Phượng",
+        "tag": "會安另一間人氣店",
+        "photo": false
+      },
+      {
+        "type": "intro",
+        "text": "今次比較嘅幾間法包店之中，佢嘅 Google 食評最多。適合想試會安名店，或者同 Madam Khanh 比較口味；綜合分數我會先揀 Madam Khanh。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Google：4.3／5，共 16,849 則食評。",
+          "可試 thập cẩm 綜合餡法包；實際配料以餐牌為準。",
+          "地址：2B Phan Châu Trinh，會安。",
+          "熱門時段可能排隊；Day 4 如去會安，仍要按原定時間離開，唔好為第二間法包延遲。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜地址、食評及導航",
+        "url": "https://www.google.com/maps/search/?api=1&query=Banh%20Mi%20Phuong%202B%20Phan%20Chau%20Trinh%20Hoi%20An"
+      }
+    ]
+  },
+  {
+    "id": "food_pho",
+    "title": "越南河粉｜三間比較",
+    "subtitle": "優先睇食評內容，再揀想食嘅款式",
+    "blocks": [
+      {
+        "type": "note",
+        "text": "Google Maps 評分及食評數量：25 Oct 2026 查閱，不會自動更新。按食評數量、分數及具體內容比較；並非全市排名。食物照片已標明是否本店出品。"
+      },
+      {
+        "type": "heading",
+        "text": "Phở Cù Hà Nội",
+        "tag": "★ 河粉首選",
+        "photo": "pho"
+      },
+      {
+        "type": "intro",
+        "text": "牛肉河粉選擇，有牛腱、牛筋等配搭。食客常讚湯底有味、牛肉軟嫩；店面簡單，適合坐低食一碗熱湯河粉。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Google：4.6／5，共 1,648 則食評。",
+          "可試牛肉河粉、牛腱或牛筋配搭，供應按當日餐牌。",
+          "想要熟牛肉：phở bò chín；先試湯，再加青檸、辣椒及香草。",
+          "地址：05 Trần Quốc Toản，峴港。",
+          "推薦先試呢間；售價以現場餐牌為準。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜地址、食評及導航",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Cu%20Ha%20Noi%2005%20Tran%20Quoc%20Toan%20Da%20Nang"
+      },
+      {
+        "type": "heading",
+        "text": "Phở Thìn Đà Nẵng",
+        "tag": "另一間過千則食評嘅選擇",
+        "photo": false
+      },
+      {
+        "type": "intro",
+        "text": "有食客讚牛肉湯底同可加配蛋黃，亦有人覺得份量偏少。想試另一款河內風味可以考慮；今次比較我會先揀 Phở Cù。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Google：4.3／5，共 1,724 則食評。",
+          "地址：60 Pasteur，峴港；唔好同其他同名分店混淆。",
+          "可問牛肉河粉及加配蛋黃；供應及價格以店內餐牌為準。",
+          "Google 當時列出下午 14:00–17:00 休息，去之前再查當日時間。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜地址、食評及導航",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Thin%2060%20Pasteur%20Da%20Nang"
+      },
+      {
+        "type": "heading",
+        "text": "Phở Bắc Hải",
+        "tag": "其他河粉選擇",
+        "photo": false
+      },
+      {
+        "type": "intro",
+        "text": "Trần Phú 嘅北越風味河粉店，地方報章曾訪問店主。可以同 Phở Cù、Phở Thìn 比較；只有一餐河粉時間，就先揀 Phở Cù。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：185 Trần Phú，峴港。",
+          "唔同店舖相距近，睇清招牌，避免將附近店食評混埋。",
+          "屬其他選擇，未列為首選。",
+          "營業時間及價錢請查看店舖資料。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜地址、食評及導航",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Bac%20Hai%20185%20Tran%20Phu%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "《峴港報》2022 年介紹｜並非近期餐廳排名",
+        "url": "https://baodanang.vn/khuc-bien-tau-pho-3234187.html"
+      }
+    ]
+  },
+  {
+    "id": "food_references",
+    "title": "餐廳推薦｜參考咩資料？",
+    "subtitle": "評分只係其中一項，唔係好食保證",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "Google Maps 評分及食評數量：25 Oct 2026 查閱，不會自動更新。按食評數量、分數及具體內容比較；並非全市排名。食物照片已標明是否本店出品。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "分開「食評多」、「分數高」同「具體讚邊款食物」，再作選擇。",
+          "Google Maps 公開頁未登入，今次可睇總分、數量同部分食評；未逐條讀晒或完整檢查最新負評。",
+          "各旅遊網站轉載嘅 Google 分數可能過期，今次採用直接開 Google Maps 查到嘅數字。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "未列首選嘅兩間熱門店"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Cô Ba Phở bò：4.7 分／6,729 則食評；Google 頁面當時顯示最近移除了可疑高分評論。",
+          "Happy Bread Mì AA：4.4 分／4,681 則食評；Google 頁面當時亦有同一提示。",
+          "以上提示唔代表食物一定差，但唔宜只憑高分或食評數量就當成首選。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Cô Ba Phở bò",
+        "url": "https://www.google.com/maps/search/?api=1&query=Co%20Ba%20Pho%20Bo%20154%20Bach%20Dang%20Da%20Nang"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Happy Bread",
+        "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Bread%20Mi%20AA%2010%20Hung%20Vuong%20Da%20Nang"
+      }
+    ]
+  },
+  {
+    "id": "cornpink",
+    "title": "Cornpink House｜內衣・泳裝・睡衣",
+    "subtitle": "Day 2 下午可選｜官網資料於 25 Oct 2026 覆核",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "越南本地品牌，有簡單棉質、蕾絲內衣、蝴蝶結及碎花泳裝，亦有睡衣同 bodysuit。想買泳裝返酒店泳池著，可以安排下午去睇。"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "地址：10 Mỹ Đa Đông 10，Bắc Mỹ An，峴港。",
+          "官網營業時間：每日 12:00–21:00。",
+          "官網表示可用英文溝通；預留 30–45 分鐘逛店。",
+          "現貨尺碼、試身及泳裝衛生貼規則未確認，到店先問。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "價錢大概幾多？"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "官方舊產品頁：Malibu 兩件頭 280,000 VND；Hera 400,000 VND；Ocean 399,000 VND。",
+          "約 HK$85–121，只作預算參考。上述為 2025 年網頁標價，未確認現場售價、庫存及尺碼。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "付款前問清楚"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "官網換貨政策：只換上身，下身不設更換；錯碼須於收貨後 3–5 日聯絡，保留完整標籤。",
+          "政策亦涉及網購；實體店及泳裝是否適用，要向店員確認。",
+          "官網有訂製服務，但唔好當成即日可取。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "點樣放入行程？"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Day 2 午餐後：Cornpink → 咖啡或美溪沙灘，揀一至兩站。",
+          "如果同日玩拖曳傘，先確定活動時間，再決定購物放之前定之後。",
+          "Day 4 中午先開門，會壓縮去機場時間，唔建議留到最後一日先去。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "官方店舖資料",
+        "url": "https://cornpinkhouse.info/do-lot-da-nang/"
+      },
+      {
+        "type": "link",
+        "label": "官方泳裝款式及舊標價",
+        "url": "https://cornpinkhouse.info/bikini-da-nang/"
+      },
+      {
+        "type": "link",
+        "label": "官方換貨政策",
+        "url": "https://cornpinkhouse.info/trang-chinh-sach-bao-hanh-va-doi-tra/"
+      },
+      {
+        "type": "link",
+        "label": "Instagram｜睇款式",
+        "url": "https://www.instagram.com/cornpinkhouse/"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Cornpink House",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cornpink%20House%2010%20My%20Da%20Dong%2010%20Da%20Nang"
+      }
+    ],
+    "map": {
+      "type": "link",
+      "label": "Google Maps｜Cornpink House",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cornpink%20House%2010%20My%20Da%20Dong%2010%20Da%20Nang"
+    }
+  },
+  {
+    "id": "bana_food",
+    "title": "巴拿山午餐｜自己揀餐廳",
+    "subtitle": "單點、自助餐及小食｜官方 2026 參考資料",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "想將時間留畀遊戲，我會揀 Brasserie 單點或 Rosa 炸雞；想坐低慢慢食，就揀 Beer Plaza 自助餐。以下按菜式、位置及用餐方式推薦，唔係餐廳口碑排名。"
+      },
+      {
+        "type": "link",
+        "label": "免費啤酒及糕點｜位置、樓層、兌換步驟",
+        "url": "#bana_treats"
+      },
+      {
+        "type": "note",
+        "text": "價錢及時間來自 2026 官方介紹，25 Oct 覆核。實際餐牌、開放餐廳及票內餐券內容，以當日為準；未訂枱。港幣只用 1 HKD ≈ 3,300 VND 心算。"
+      },
+      {
+        "type": "heading",
+        "text": "Brasserie｜Pizza 及意式菜"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "食咩：pizza 及意式菜；兩人可以按胃口分食。",
+          "位置：法國村主路。",
+          "官方參考價：150,000 VND 起（約 HK$45）；唔代表二人餐價。",
+          "參考時間：09:00–16:00。建議預留 45–60 分鐘，出餐及輪候另計。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Brasserie",
+        "url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Restaurant%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "heading",
+        "text": "Beer Plaza｜想坐低食完整午餐"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "食咩：亞洲及歐洲自助餐，適合兩人口味唔同。",
+          "位置：法國村／歐洲市集一帶，玻璃啤酒桶形建築。",
+          "午餐參考：380,000 VND／位（約 HK$115）；兩位 760,000 VND（約 HK$230）。",
+          "午餐時段：10:30–15:00。建議預留約一小時，早少少食。",
+          "表演場次及飲品是否包括，入座前先問清楚。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Beer Plaza",
+        "url": "https://www.google.com/maps/search/?api=1&query=Beer%20Plaza%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "heading",
+        "text": "Rosa Fried Chicken｜想食簡單啲"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "食咩：炸雞、漢堡及薯條。",
+          "位置：Rosa 餐飲大樓 1 樓，Du Dôme 廣場附近。",
+          "官方參考：70,000–120,000 VND／份（約 HK$21–36）；唔代表包飲品嘅套餐。",
+          "參考時間：09:30–16:00。建議預留 30–45 分鐘，輪候另計。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Rosa Fried Chicken",
+        "url": "https://www.google.com/maps/search/?api=1&query=Rosa%20Fried%20Chicken%20Ba%20Na%20Hills"
+      },
+      {
+        "type": "heading",
+        "text": "月亮城堡一帶｜Four Seasons／Bốn Mùa"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "日蝕廣場嘅越韓式自助餐；如果正在呢區玩，可以同區食，減少來回。",
+          "午餐參考 380,000 VND／位；10:30–15:00。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Four Seasons",
+        "url": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Restaurant%20Ba%20Na%20Hills%20Eclipse%20Plaza"
+      },
+      {
+        "type": "heading",
+        "text": "玩完飲杯咖啡｜Rosa Sky Coffee"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Rosa 大樓 5 樓；咖啡飲品參考 50,000–90,000 VND（約 HK$15–27）。",
+          "參考時間 09:30–17:30；天氣好可以睇山景，濃霧時唔好期待遠景。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "食飯點安排先唔阻住玩？"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先玩自由落體、旋轉遊戲，再食午餐；唔好食完大餐即刻玩。",
+          "自助餐可以考慮 10:30–11:30 入座，但唔保證冇團客。",
+          "餐券如有指定餐廳，要先睇清楚；唔係任何 buffet 都通用。",
+          "官方禁止外來食物及飲品，唔好買市區法包上山當午餐。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "官方｜餐廳、Rosa 及 Brasserie 價目",
+        "url": "https://sunworld.vn/banahills/cam-nang-du-lich/cam-nang-du-lich-ba-na-hills"
+      },
+      {
+        "type": "link",
+        "label": "官方｜自助餐位置及午餐價格",
+        "url": "https://sunworld.vn/vi/banahills/an-choi/7-nha-hang-buffet-tai-ba-na-hills-sieu-hap-dan-nhat-dinh-phai-thu"
+      },
+      {
+        "type": "link",
+        "label": "官方｜園區飲食規定",
+        "url": "https://sunworld.vn/en/banahills/iconic-landmark/ba-na-hills-french-village-a-miniature-europe-in-the-heart-of-da-nang-28954"
+      },
+      {
+        "type": "link",
+        "label": "打開園區原圖",
+        "url": "#map"
+      }
+    ]
+  },
+  {
+    "id": "bana_thrills",
+    "title": "巴拿山｜刺激遊戲點揀",
+    "subtitle": "想玩刺激：自由落體＋山坡滑車；落雨改室內",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "我會先揀自由落體塔，再按天氣玩山坡滑車。怕急降就改玩 5D 射擊影院或 Flying Eyes。以下「不另收費」指已持有效入場票後，仍要排隊及符合設施規則。"
+      },
+      {
+        "type": "heading",
+        "text": "★ 自由落體塔｜Drop and Twist Tower"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "玩法：座椅升高再突然下降，刺激感主要係急降時失重。",
+          "位置：Fantasy Park B3。室內，下雨時仍可列作優先選擇，開放以現場為準。",
+          "官方遊戲規則列為不另收費。想玩刺激，先睇呢個隊。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "★ 山坡滑車｜Alpine Coaster"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "玩法：坐滑車沿山坡軌道轉彎落山；按職員講解控制速度，唔係自由落體。",
+          "1 號：Fantasy Park 主入口；2 號：Louvre 纜車站旁；3 號：入口在 Fantasy Park B1。",
+          "官方 2026 價目列滑車 70,000 VND（約 HK$21），未列明各車道同次數；3 號獨立票價未確認，買前睇清票面。",
+          "戶外設施視天氣開放。先睇隊尾，再決定買票；我建議最多預 30–40 分鐘排隊，太長就轉玩其他。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Let’s Fly／Skiver｜旋轉升降"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：Fantasy Park B1；座椅會旋轉及升降。",
+          "官方規則列為不另收費；容易暈機動遊戲就跳過。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "5D Theatre｜兩個人鬥高分"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：Fantasy Park B2；西部追捕題材，配動感效果及射擊計分。",
+          "刺激感較自由落體低，適合二人一齊玩；官方規則列為不另收費。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "4D Theatre｜動感座椅"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：Fantasy Park B2；座椅配合影片移動，另有風及水霧效果。",
+          "官方規則列為不另收費；唔好同另收費嘅 10D 混淆。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Flying Eyes／Moon Junction｜月亮城堡"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Flying Eyes：月亮城堡 L3，飛行模擬體驗。",
+          "Moon Junction：月亮城堡 L2，曲面銀幕配動感及水霧。",
+          "官方列為不另收費；參考時段 08:30–17:00，實際場次看當日告示。",
+          "只得少量時間，就揀一個影院；唔使為集齊所有影院兩區來回走。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "入場前留意"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "自由落體：低於 130 cm 不可玩；130–139 cm 須成人陪同。滑車：低於 110 cm 不可玩；110–139 cm 須成人陪同。",
+          "以上為官網現有規則；不同車道及個別設施以現場限制為準。",
+          "有懷孕、心臟或頸背問題，先看設施限制；玩機動遊戲前唔好飲酒。",
+          "攀牆、10D、有獎遊戲等另收費，唔係 Fantasy Park 入面全部都包。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "官方｜遊戲玩法、樓層及規則",
+        "url": "https://sunworld.vn/en/banahills/sunworld-news/game-and-ride-rules-in-fantasy-parkhtml"
+      },
+      {
+        "type": "link",
+        "label": "官方｜三條滑車位置",
+        "url": "https://sunworld.vn/en/banahills/activities/tube-sliding-boards"
+      },
+      {
+        "type": "link",
+        "label": "官方｜2026 價目",
+        "url": "https://sunworld.vn/vi/banahills/tin-tuc-sunworld/bang-gia-ve-va-dich-vu-tai-sun-world-ba-na-hills-nam-2026-19796"
+      },
+      {
+        "type": "link",
+        "label": "官方｜園區與月亮城堡",
+        "url": "https://sunworld.vn/banahills/tin-tuc-sunworld/sun-world-ba-na-hills-so-do-chi-tiet-huong-dan-tham-quan-tron-ven-2026-19250"
+      },
+      {
+        "type": "link",
+        "label": "先睇路線，再揀遊戲",
+        "url": "#bana_route"
+      }
+    ]
+  },
+  {
+    "id": "bana_treats",
+    "title": "巴拿山｜免費啤酒及糕點點樣換",
+    "subtitle": "門票附送優惠・位置及樓層・QR code 兌換教學｜25 Oct 2026 覆核",
+    "blocks": [
+      {
+        "type": "banner",
+        "text": "每張適用門票揀一項：兩杯啤酒（每杯 250 ml），或者一件法式糕點。午餐仍需另外安排。"
+      },
+      {
+        "type": "heading",
+        "text": "出發前：攞到自己張門票"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "保存每人嘅纜車門票／電子門票 QR code，截圖留底。公司安排門票，先向負責派票嘅同事索取；唔使另外買入場票。",
+          "由 1 Sep 2026 起，優惠整合入門票 QR code，取代舊式紙券。到店先確認你張票包括咩、優惠有冇用過，再揀換邊樣。"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "啤酒｜先搵 Ba Na Brew House"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：山頂法國村一帶，認住 Ba Na Brew House／Sun KraftBeer 酒廠名稱。Ba Na 1901 餐廳位於酒廠大樓內。",
+          "去到入口先出示門票 QR code，問職員免費啤酒喺邊個櫃位換，再跟指示上樓。官方未公布固定兌換樓層，唔好直接當 4 樓就係換領處。",
+          "可換兩杯 Sun KraftBeer，每杯 250 ml，合共 500 ml；唔係無限添飲。"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "酒廠樓層",
+            "可以睇／做咩"
+          ],
+          [
+            "1 樓",
+            "大麥研磨及包裝設備；參觀區。"
+          ],
+          [
+            "2 樓",
+            "內部工作區，官方列不開放參觀。"
+          ],
+          [
+            "3 樓",
+            "發酵槽及大型釀酒鍋；參觀區。"
+          ],
+          [
+            "4–6 樓",
+            "Ba Na 1901 餐廳；供應啤酒及餐飲。免費換領櫃位另向入口職員確認。"
+          ]
+        ],
+        "companyRows": [],
+        "companyCells": [],
+        "companyAll": false
+      },
+      {
+        "type": "note",
+        "text": "樓層按 Sun World 酒廠介紹；到場以現場標示為準。20 Oct 最新優惠亦提到酒廠體驗，實際參觀入口及開放範圍先出示門票確認。"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Ba Na Brew House 酒廠",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ba+Na+Brew+House+Ba+Na+Hills"
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Ba Na 1901 餐廳",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ba+Na+1901+Restaurant+Ba+Na+Hills"
+      },
+      {
+        "type": "heading",
+        "text": "糕點｜Eric Kayser 法國麵包店"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "位置：法國村。當地旅行社指店舖喺 Saint Denis 教堂附近小巷，可先以教堂作地標，再跟店名搵。",
+          "官方未列出店舖樓層；到 Eric Kayser 店內櫃枱出示門票 QR code，唔係去酒廠樓上換糕點。",
+          "官方列過牛角包 Croissant、朱古力酥 Pain au Chocolat、提子丹麥酥 Raisins Danish；每張適用門票換一件，款式及存量以當日為準。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Google Maps｜Eric Kayser 巴拿山店",
+        "url": "https://www.google.com/maps/search/?api=1&query=Eric+Kayser+Ba+Na+Hills"
+      },
+      {
+        "type": "heading",
+        "text": "到櫃位，照住做"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "1. 開啟門票 QR code，提高螢幕亮度。先講想換啤酒定糕點。",
+          "2. 請職員確認票內優惠、指定櫃位及今日截止時間，再掃碼兌換。官方冇列出統一換領時段，唔好等到臨落山先換。",
+          "3. 領取後保存返張門票，回程搭纜車仍可能要用。",
+          "4. 兩張門票都適用嘅話，可以一張換啤酒、另一張換糕點，兩個人分享。"
+        ]
+      },
+      {
+        "type": "banner",
+        "text": "可以畀職員睇：\nDoes this ticket include the complimentary beer or pastry? Where can I redeem it, and which floor?\n呢張票包唔包免費啤酒或者糕點？喺邊度、幾多樓換？"
+      },
+      {
+        "type": "heading",
+        "text": "薯條仲有冇得換？"
+      },
+      {
+        "type": "text",
+        "text": "9 月生效嘅官方公告有列「啤酒／薯條／糕點三選一」，薯條喺 Ba Na Brew House 換。10 月 20 日最新介紹只再提啤酒同糕點；想換薯條就先問職員，暫時唔當一定有。"
+      },
+      {
+        "type": "heading",
+        "text": "建議點樣放入行程"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "先玩滑車、自由落體等刺激遊戲，再到法國村影相、換糕點或啤酒。",
+          "建議預留 30–45 分鐘休息及換領；如果參觀酒廠或者排隊，再加時間。呢個係行程預算。",
+          "同區可以一齊去：Saint Denis 教堂 → Eric Kayser → Ba Na Brew House／Ba Na 1901；按到達位置調轉次序亦可以。",
+          "園內搵路用現場路牌或 Sun Paradise Land App eMap；Google Maps 只供查看位置，唔一定顯示樓層同入口。"
+        ]
+      },
+      {
+        "type": "link",
+        "label": "園區地圖及手機 eMap 點用",
+        "url": "#map_help"
+      },
+      {
+        "type": "heading",
+        "text": "官方條款及位置來源"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜20 Oct 2026 啤酒及糕點優惠",
+        "url": "https://sunworld.vn/en/banahills/travel-guide/discover-ba-na-hills-best-kept-autumn-experiences-33417"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜9 月起用門票 QR code 換領",
+        "url": "https://sunworld.vn/en/banahills/vouchers/ba-na-hills-visitors-can-enjoy-free-bus-transfers-from-da-nang-24412"
+      },
+      {
+        "type": "link",
+        "label": "Sun World｜酒廠及 Ba Na 1901 樓層",
+        "url": "https://sunworld.vn/vi/banahills/tin-tuc-sunworld/ra-mat-thuong-hieu-sun-kraftbeer-bia-thu-cong-cao-cap-cua-sun-group-6340"
+      },
+      {
+        "type": "link",
+        "label": "Hoi An Day Trip｜Eric Kayser 教堂附近位置（第三方）",
+        "url": "https://hoiandaytrip.com/eric-kayser-ba-na-hills/"
+      }
+    ]
+  },
+  {
+    "id": "packing",
+    "title": "四日三夜｜詳細行李清單",
+    "subtitle": "26–29 Oct 2026・逐項剔選・按需要帶",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "按四日三夜、公司活動、沙灘及巴拿山整理。衣物數量每人計；轉插、護理用品等可按需要共用。剔選代表已處理：已放好，或者確認唔需要帶。"
+      },
+      {
+        "type": "note",
+        "text": "點分類可展開／收起。剔選只儲存喺呢部裝置嘅瀏覽器，唔會同步到另一部手機；下載離線版只包含文字清單。"
+      },
+      {
+        "type": "packing",
+        "id": "docs",
+        "title": "證件及出入境｜放手提袋",
+        "items": [
+          {
+            "id": "docs-passport",
+            "text": "護照正本；出發前再核對有效期及入境要求"
+          },
+          {
+            "id": "docs-hkid",
+            "text": "香港身份證"
+          },
+          {
+            "id": "docs-visa",
+            "text": "有效簽證／入境許可（按所持護照準備）；電子版另存離線副本"
+          },
+          {
+            "id": "docs-flight",
+            "text": "來回電子機票、訂位編號及已辦理嘅登機證"
+          },
+          {
+            "id": "docs-hotel",
+            "text": "Hyatt 酒店預訂／公司住宿確認、地址及電話"
+          },
+          {
+            "id": "docs-insurance",
+            "text": "旅遊保險保單及緊急支援電話；玩拖曳傘先確認承保範圍"
+          },
+          {
+            "id": "docs-backup",
+            "text": "護照資料頁及簽證備份；與正本分開保存，手機副本加鎖"
+          },
+          {
+            "id": "docs-contacts",
+            "text": "公司接送聯絡電話、集合資料；未收到嘅先留意通知"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "money",
+        "title": "現金及付款｜兩人可以分開保管",
+        "items": [
+          {
+            "id": "money-usd",
+            "text": "已預備嘅 USD 350；呢個係你原定總額，唔係每人再帶 USD 350"
+          },
+          {
+            "id": "money-hkd",
+            "text": "少量港幣／八達通，返香港搭車用"
+          },
+          {
+            "id": "money-cards",
+            "text": "海外可用信用卡／提款卡；確認付款驗證訊息收得到"
+          },
+          {
+            "id": "money-wallet",
+            "text": "細銀包或散紙袋；換錢後分開放小額越南盾"
+          },
+          {
+            "id": "money-reserve",
+            "text": "後備現金及銀行卡，與日常銀包分開放"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "clothes",
+        "title": "四日三夜衣物｜以下數量每人計",
+        "items": [
+          {
+            "id": "clothes-tops",
+            "text": "輕薄上衣 4–5 件（計埋出發身上嗰件）；預留出汗後換衫"
+          },
+          {
+            "id": "clothes-bottoms",
+            "text": "短褲／薄長褲／裙合共 2–3 件，揀容易配搭嘅"
+          },
+          {
+            "id": "clothes-underwear",
+            "text": "內衣褲 5 套；預留濕咗或沖涼後換"
+          },
+          {
+            "id": "clothes-socks",
+            "text": "襪 3–4 對"
+          },
+          {
+            "id": "clothes-sleepwear",
+            "text": "睡衣 1 套"
+          },
+          {
+            "id": "clothes-jacket",
+            "text": "薄外套／薄風褸 1 件；機艙、冷氣房及巴拿山用"
+          },
+          {
+            "id": "clothes-dinner",
+            "text": "公司午餐及晚宴衣物 1–2 套，可與日常衫配搭；有 dress code 就跟公司通知"
+          },
+          {
+            "id": "clothes-shoes",
+            "text": "防滑、好行嘅運動鞋 1 對，出發時著住"
+          },
+          {
+            "id": "clothes-sandals",
+            "text": "沙灘拖鞋／涼鞋 1 對；另外用鞋袋裝"
+          },
+          {
+            "id": "clothes-cover",
+            "text": "薄長褲／披肩按需要帶，去寺廟時遮肩及膝"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "beach",
+        "title": "泳池、沙灘、睇日出日落",
+        "items": [
+          {
+            "id": "beach-swim",
+            "text": "泳衣／泳褲 2 套，方便輪替晾乾"
+          },
+          {
+            "id": "beach-coverup",
+            "text": "沙灘罩衫或易穿脫上衣 1 件"
+          },
+          {
+            "id": "beach-sunblock",
+            "text": "防曬用品；需要補搽嘅份量放細袋"
+          },
+          {
+            "id": "beach-hat",
+            "text": "帽及太陽眼鏡；大風時收好"
+          },
+          {
+            "id": "beach-drybag",
+            "text": "防水袋／防潑水小袋，放手機、銀包及房卡"
+          },
+          {
+            "id": "beach-wetbag",
+            "text": "濕泳衣專用袋，與乾淨衣物分開"
+          },
+          {
+            "id": "beach-towel",
+            "text": "輕便快乾毛巾（可選）；酒店泳池／沙灘毛巾到場確認借用範圍"
+          },
+          {
+            "id": "beach-mat",
+            "text": "輕便沙灘墊／沙灘巾（可選），想坐沙上休息先帶"
+          },
+          {
+            "id": "beach-dawn",
+            "text": "睇日出用薄外套；夜晚返酒店用手機照明"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "bana",
+        "title": "Day 3 巴拿山｜前一晚執好小背囊",
+        "items": [
+          {
+            "id": "bana-raincoat",
+            "text": "輕便雨衣；山上有風時比遮方便"
+          },
+          {
+            "id": "bana-umbrella",
+            "text": "摺遮，放背囊側袋；強風時唔好勉強撐開"
+          },
+          {
+            "id": "bana-bagcover",
+            "text": "背囊防雨套／大密實袋，保護電子用品"
+          },
+          {
+            "id": "bana-sparesocks",
+            "text": "後備乾襪 1 對及少量紙巾"
+          },
+          {
+            "id": "bana-ticket",
+            "text": "自己張門票 QR code 截圖；纜車及啤酒／糕點換領會用到"
+          },
+          {
+            "id": "bana-pickup",
+            "text": "公司車車牌、回程集合位置及時間，收到後儲存手機"
+          },
+          {
+            "id": "bana-layer",
+            "text": "出門檢查：薄外套、雨衣、防滑鞋已帶齊"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "parasail",
+        "title": "如果 Day 2 玩拖曳傘｜未決定可先略過",
+        "items": [
+          {
+            "id": "parasail-change",
+            "text": "快乾上衣、泳衣／泳褲及一套乾淨衫褲"
+          },
+          {
+            "id": "parasail-smalltowel",
+            "text": "小毛巾及濕衣袋"
+          },
+          {
+            "id": "parasail-booking",
+            "text": "店家名稱、確認訊息、集合點及付款／預約資料（預約後才有）"
+          },
+          {
+            "id": "parasail-valuables",
+            "text": "準備可寄存貴重物品嘅小袋；寄存位置先問店家"
+          },
+          {
+            "id": "parasail-camera",
+            "text": "防水相機／手機固定繩（可選）；上傘可唔可以帶，由營運商決定"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "wash",
+        "title": "洗漱及個人護理",
+        "items": [
+          {
+            "id": "wash-teeth",
+            "text": "牙刷、牙膏及牙線"
+          },
+          {
+            "id": "wash-skin",
+            "text": "洗面、護膚及卸妝用品，用旅行裝"
+          },
+          {
+            "id": "wash-hair",
+            "text": "梳、髮圈；常用洗頭水／護髮素按需要分裝"
+          },
+          {
+            "id": "wash-shave",
+            "text": "剃鬚用品（有需要先帶）"
+          },
+          {
+            "id": "wash-deodorant",
+            "text": "止汗／除臭用品"
+          },
+          {
+            "id": "wash-hygiene",
+            "text": "衛生巾、棉條或其他個人衛生用品（按需要）"
+          },
+          {
+            "id": "wash-lens",
+            "text": "眼鏡、隱形眼鏡、鏡盒及護理液（按需要）"
+          },
+          {
+            "id": "wash-tissues",
+            "text": "紙巾、濕紙巾及小支潔手液"
+          },
+          {
+            "id": "wash-repellent",
+            "text": "防蚊用品；按產品標籤使用"
+          },
+          {
+            "id": "wash-liquidbag",
+            "text": "手提液體用透明可重封袋：每個容器不超過 100 ml，全部放入一個不超過 1 L 嘅袋"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "health",
+        "title": "個人藥物及小用品",
+        "items": [
+          {
+            "id": "health-regularmed",
+            "text": "平日必需藥物，帶足行程份量及少量備用；放手提袋，保留原包裝／標籤"
+          },
+          {
+            "id": "health-prescription",
+            "text": "處方或醫生證明副本（如所帶藥物需要）；入境限制按藥物核對"
+          },
+          {
+            "id": "health-usualmed",
+            "text": "自己平時用開嘅常備藥（如需要）；唔確定就先問藥劑師"
+          },
+          {
+            "id": "health-plasters",
+            "text": "膠布、防磨腳貼及少量紗布"
+          },
+          {
+            "id": "health-mask",
+            "text": "口罩（按需要）"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "electronics",
+        "title": "手機、充電及公司活動",
+        "items": [
+          {
+            "id": "electronics-phone",
+            "text": "手機及對應充電線；出發前充滿電"
+          },
+          {
+            "id": "electronics-adapter",
+            "text": "兼容越南 A／C 插座嘅萬用轉插；香港三腳插頭未必直插到"
+          },
+          {
+            "id": "electronics-charger",
+            "text": "充電器；標示 100–240V 嘅通常可配轉插使用"
+          },
+          {
+            "id": "electronics-bank",
+            "text": "尿袋放手提袋：香港航空每人最多 2 個，每個不超過 100 Wh；容量標示要清楚"
+          },
+          {
+            "id": "electronics-bankpouch",
+            "text": "尿袋獨立保護袋；放容易拎到嘅位置，上機唔放頭頂行李架"
+          },
+          {
+            "id": "electronics-earphones",
+            "text": "耳機及充電盒"
+          },
+          {
+            "id": "electronics-data",
+            "text": "eSIM／漫遊已設定；保存安裝資料，確認到埗可上網"
+          },
+          {
+            "id": "electronics-offline",
+            "text": "下載旅行指南、酒店地址及需要嘅地圖，試一次離線開啟"
+          },
+          {
+            "id": "electronics-work",
+            "text": "筆記簿及筆；公司 Training 所需電腦／平板及充電器（按公司要求）"
+          },
+          {
+            "id": "electronics-cameraextra",
+            "text": "相機、記憶卡及電池（可選）；備用電池放手提袋並保護接點"
+          }
+        ]
+      },
+      {
+        "type": "packing",
+        "id": "bags",
+        "title": "行李收納及回程",
+        "items": [
+          {
+            "id": "bags-daybag",
+            "text": "輕便小背囊／斜孭袋，日間活動用"
+          },
+          {
+            "id": "bags-laundry",
+            "text": "污衣袋、鞋袋及幾個密實袋"
+          },
+          {
+            "id": "bags-luggage",
+            "text": "行李牌、行李鎖；記低行李箱外觀或影張相"
+          },
+          {
+            "id": "bags-shopping",
+            "text": "摺疊購物袋；預留手信空間及回程重量"
+          },
+          {
+            "id": "bags-carrychange",
+            "text": "手提袋放一套後備內衣褲及上衣，延誤或淋濕都有得換"
+          },
+          {
+            "id": "bags-lastcheck",
+            "text": "離開酒店前：護照、銀包、手機、充電器、尿袋、保險箱物品及晾緊嘅泳衣逐樣睇"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "上機前再睇一次"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "尿袋及備用鋰電池只可放手提行李。香港航空禁止機上用尿袋充電，亦禁止幫尿袋充電。",
+          "液體限制按容器容量計：150 ml 樽就算只剩少量，都唔符合 100 ml 容器要求。",
+          "大支防曬、護膚品如需寄艙，先核對航空公司相關限量；行李重量按你張機票為準。"
+        ]
+      },
+      {
+        "type": "note",
+        "text": "行李規則於 25 Oct 2026 查閱香港航空及香港民航處；出發當日如有更新，以航空公司及安檢要求為準。"
+      },
+      {
+        "type": "link",
+        "label": "香港航空｜手提行李及尿袋規定",
+        "url": "https://content.hongkongairlines.com/en_CA/fly-with-us/baggage/handcarry"
+      },
+      {
+        "type": "link",
+        "label": "香港民航處｜手提液體規定",
+        "url": "https://www.cad.gov.hk/english/packing_tips.html"
+      }
+    ]
+  }
+]
